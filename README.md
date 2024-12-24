@@ -297,7 +297,7 @@
 - [lamarios/clipious](https://github.com/lamarios/clipious) - Invidious client for android
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
 - [meetrevision/revision-tool](https://github.com/meetrevision/revision-tool) - A tool to personalize ReviOS to your needs
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter
 - [vedfi/mondroid](https://github.com/vedfi/mondroid) - Mongodb Client w/ Flutter
@@ -448,7 +448,6 @@
 ## HTML 
 
 - [kaBeech/serious-shanns](https://github.com/kaBeech/serious-shanns) - A legible monospace font for playful professionals. Comic Sans for hackers
-- [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager) - A user friendly, UI/UX focus server & configuration management tool
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
 - [h1tarxeth/Benvenuta-minimal_startpage](https://github.com/h1tarxeth/Benvenuta-minimal_startpage) - pure html css and js startpage https://h1tarxeth.github.io/Benvenuta-minimal_startpage/
@@ -570,6 +569,8 @@
 
 ## JavaScript 
 
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
+- [store-craft/storecraft](https://github.com/store-craft/storecraft) - ⭐ Next Generation Commerce As Code
 - [fastify/middie](https://github.com/fastify/middie) - Middleware engine for Fastify.
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -1260,6 +1261,7 @@
 
 ## Rust 
 
+- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [pythops/tamanoir](https://github.com/pythops/tamanoir) - A KeyLogger using eBPF 🐝
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
@@ -1570,6 +1572,9 @@
 
 ## TypeScript 
 
+- [kenso312/nestjs-v10-webpack-boilerplate](https://github.com/kenso312/nestjs-v10-webpack-boilerplate) - 🎨 Boilerplate for NestJS v10 with Webpack, Pnpm, Fastify, Swagger, Pino Logger, Airbnb JavaScript Guide, Google JSON Style, ESLint, Prettier, Editorconfig, Husky, Lint-Staged, Commitlint, Axios, Docke
+- [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
+- [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
 - [dr460nf1r3/container-manager](https://github.com/dr460nf1r3/container-manager) - NestJS backend for managing acccess to per-branch dind-powered test environments 🐳
 - [conblem/tailvnc](https://github.com/conblem/tailvnc) - VNC Client in the browser based on tailscale tsconnect
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
@@ -1578,6 +1583,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
+- [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager) - A user friendly, UI/UX focus server & configuration management tool
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
