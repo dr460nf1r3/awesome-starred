@@ -359,7 +359,7 @@
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
-- [JFryy/qq](https://github.com/JFryy/qq) - jq inspired (and gojq dependent) interoperable config format transcoder with interactive querying.
+- [JFryy/qq](https://github.com/JFryy/qq) - jq, but with many interoperable configuration format transcodings and interactive querying.
 - [dnr/styx](https://github.com/dnr/styx) - alternate nix substitution
 - [cfunkhouser/tailscalesd](https://github.com/cfunkhouser/tailscalesd) - Prometheus Service Discovery for Tailscale
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor profiles (~ 1500 profiles)
@@ -1460,6 +1460,7 @@
 
 ## Shell 
 
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
 - [reiryuki/Google-App-Magisk-Module](https://github.com/reiryuki/Google-App-Magisk-Module) - 
 - [dr460nf1r3/rooted-graphene](https://github.com/dr460nf1r3/rooted-graphene) - GrapheneOS for Pixel 6, rooted and served via its own OTA server on GitHub pages 💣
 - [schnatterer/rooted-graphene](https://github.com/schnatterer/rooted-graphene) - GrapheneOS rooted and served via its own OTA server on GitHub pages
