@@ -1524,7 +1524,7 @@
 - [chaotic-cx/nyx-slurm-singularity](https://github.com/chaotic-cx/nyx-slurm-singularity) - Builds Chaotic-Nyx in Slurm+Singularity
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 - [chaotic-cx/chaotic-poc](https://github.com/chaotic-cx/chaotic-poc) - 
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom Fedora Atomic image built with cloud native technology that brings the best of Linux gaming to all of your devices - including your favorite handheld.
 - [garuda-linux/pkgbuilds-aur](https://github.com/garuda-linux/pkgbuilds-aur) - This is an upcoming repository that provides a curated list of AUR packages 👾
 - [chaotic-aur/kde-git-WIP-ALPHA](https://github.com/chaotic-aur/kde-git-WIP-ALPHA) - kde-git very WIP and very alpha
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
