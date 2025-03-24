@@ -159,6 +159,7 @@
 
 ## C# # 
 
+- [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
 - [dotnet/roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) - 
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
@@ -371,6 +372,7 @@
 
 ## Go 
 
+- [google/keep-sorted](https://github.com/google/keep-sorted) - keep-sorted is a language-agnostic formatter that sorts lines between two markers in a larger file.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -384,7 +386,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +3180 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
+- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +3596 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1147,6 +1149,7 @@
 
 ## Python 
 
+- [mr-fatalyst/fastopenapi](https://github.com/mr-fatalyst/fastopenapi) - FastOpenAPI is a library for generating and integrating OpenAPI schemas using Pydantic v2 and various frameworks (Falcon, Flask, Quart, Sanic, Starlette, Tornado).
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
@@ -1717,6 +1720,7 @@
 
 ## TypeScript 
 
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [mnfst/manifest](https://github.com/mnfst/manifest) - 🦚 The 1-file backend.
 - [garuda-linux/rani](https://github.com/garuda-linux/rani) - Tauri/Angular-based replacement for a handful of Garuda applications. Currently implements Welcome, Assistant and Gamer.
 - [crabnebula-dev/devtools](https://github.com/crabnebula-dev/devtools) - Inspect and Debug your Tauri applications in style 💃
