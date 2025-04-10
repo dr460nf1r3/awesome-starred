@@ -193,7 +193,7 @@
 - [SneWs/tail-tray](https://github.com/SneWs/tail-tray) - Tailscale tray menu and UI for the KDE Plasma Desktop
 - [taj-ny/InputActions](https://github.com/taj-ny/InputActions) - Custom touchpad gestures for Plasma 6
 - [pixincreate/Magisk](https://github.com/pixincreate/Magisk) - The Magic Mask for GrapheneOS
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.0.60037, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60142)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.0.60189, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60192)
 - [SonyaCore/SonyGramDesktop](https://github.com/SonyaCore/SonyGramDesktop) - Desktop Telegram client with good customization and Ghost mode (ReCoil).
 - [mandarine3ds/mandarine](https://github.com/mandarine3ds/mandarine) - A Citra fork with new features and hacks which are experimental and may not be present upstream
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
@@ -273,7 +273,7 @@
 - [swl-x/MystiQ](https://github.com/swl-x/MystiQ) - Qt5/C++ FFmpeg Media Converter
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
 - [aarnt/octopi](https://github.com/aarnt/octopi) - A powerful Pacman (Package Manager) front end using Qt libs
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is a mirror, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
 - [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
 - [psifidotos/applet-window-buttons](https://github.com/psifidotos/applet-window-buttons) - Plasma 5 applet in order to show window buttons in your panels
 - [psifidotos/applet-window-appmenu](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu
@@ -378,6 +378,7 @@
 
 ## Go 
 
+- [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
@@ -395,7 +396,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +3625 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
+- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +3636 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -666,7 +667,7 @@
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder) - A comprehensive firefox profile, themes, userCSS and userChrome builder
 - [snowfallorg/frost](https://github.com/snowfallorg/frost) - Generate documentation for Nix Flakes.
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [postalsys/imapflow](https://github.com/postalsys/imapflow) - IMAP Client library for EmailEngine Email API (https://emailengine.app)
 - [flathub/org.garudalinux.firedragon](https://github.com/flathub/org.garudalinux.firedragon) - 
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
@@ -1164,6 +1165,8 @@
 
 ## Python 
 
+- [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - An all-in-one LLMs Chat UI for Apple Silicon Mac using MLX Framework.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [SteamNix/SteamNix](https://github.com/SteamNix/SteamNix) - Nix Flake for creating a SteamOS like experience on NixOS.
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 - [mr-fatalyst/fastopenapi](https://github.com/mr-fatalyst/fastopenapi) - FastOpenAPI is a library for generating and integrating OpenAPI schemas using Pydantic v2 and various frameworks (AioHttp, Falcon, Flask, Quart, Sanic, Starlette, Tornado).
@@ -1393,6 +1396,7 @@
 
 ## Rust 
 
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - 
 - [LordGrimmauld/nix-check-deps](https://github.com/LordGrimmauld/nix-check-deps) - scan nix packages for unused buildInputs
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
 - [reubeno/brush](https://github.com/reubeno/brush) - bash/POSIX-compatible shell implemented in Rust
@@ -1615,7 +1619,7 @@
 - [chaotic-cx/nyx-slurm-singularity](https://github.com/chaotic-cx/nyx-slurm-singularity) - Builds Chaotic-Nyx in Slurm+Singularity
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 - [chaotic-cx/chaotic-poc](https://github.com/chaotic-cx/chaotic-poc) - 
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is a custom Fedora Atomic image built with cloud native technology that brings the best of Linux gaming to all of your devices - including your favorite handheld.
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.
 - [garuda-linux/pkgbuilds-aur](https://github.com/garuda-linux/pkgbuilds-aur) - This is an upcoming repository that provides a curated list of AUR packages 👾
 - [chaotic-aur/kde-git-WIP-ALPHA](https://github.com/chaotic-aur/kde-git-WIP-ALPHA) - kde-git very WIP and very alpha
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists) - Lists and configuration for our DNS blocking service
@@ -1745,6 +1749,7 @@
 
 ## TypeScript 
 
+- [etkecc/synapse-admin](https://github.com/etkecc/synapse-admin) - A maintained fork of the admin console for (Matrix) Synapse homeservers, including additional features
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
