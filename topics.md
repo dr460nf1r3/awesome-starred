@@ -245,6 +245,7 @@
 
 ## ai 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [duaraghav8/dockershrink](https://github.com/duaraghav8/dockershrink) - Dockershrink is an AI Assistant that reduces the size of your application's Docker Image
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
@@ -400,7 +401,7 @@
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [NeoTerrm/NeoTerm](https://github.com/NeoTerrm/NeoTerm) - 👍 modern terminal emulator for Android
 - [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [SDRausty/termux-archlinux](https://github.com/SDRausty/termux-archlinux) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
@@ -755,7 +756,7 @@
 
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [Adri6336/gpt-voice-conversation-chatbot](https://github.com/Adri6336/gpt-voice-conversation-chatbot) - Allows you to have an engaging and safely emotive spoken / CLI conversation with the AI ChatGPT / GPT-4 while giving you the option to let it remember things discussed.
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
@@ -769,7 +770,7 @@
 - [llm-tools/embedJs](https://github.com/llm-tools/embedJs) - A NodeJS RAG framework to easily work with LLMs and embeddings
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
@@ -784,7 +785,7 @@
 
 - [devoxx/DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin) - DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code.
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 ## chrome 
@@ -818,7 +819,7 @@
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
-- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +3975 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
+- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +4000 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~27,000 clones by ~17,000 unique cloners as of late Nov '24, and averaging ~60 Homebrew installs monthly since June 2023
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
@@ -927,7 +928,7 @@
 - [gort818/qtwebflix](https://github.com/gort818/qtwebflix) - A qt webengine program  for netflix
 - [swl-x/MystiQ](https://github.com/swl-x/MystiQ) - Qt5/C++ FFmpeg Media Converter
 - [aarnt/octopi](https://github.com/aarnt/octopi) - A powerful Pacman (Package Manager) front end using Qt libs
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 
 ## cryptography 
 
@@ -1230,6 +1231,7 @@
 
 ## electron 
 
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [adamsol/GitQuill](https://github.com/adamsol/GitQuill) - Cross-platform GUI for Git. Built with Monaco Editor and Electron.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
@@ -1343,7 +1345,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Merrit/nyrna](https://github.com/Merrit/nyrna) - Suspend games and applications.
 
@@ -1479,7 +1481,7 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +3975 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
+- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +4000 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [JFryy/qq](https://github.com/JFryy/qq) - jq, but with many interoperable configuration format transcodings and interactive querying.
@@ -1772,7 +1774,7 @@
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -1864,7 +1866,7 @@
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 
 ## iot 
 
@@ -1904,7 +1906,7 @@
 - [Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 
 ## javafx 
@@ -2109,7 +2111,7 @@
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.0.60257, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60192)
-- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +3975 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
+- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +4000 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
 - [adgaultier/tamanoir](https://github.com/adgaultier/tamanoir) - An eBPF🐝 Keylogger with C2-based RCE payload delivery
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
@@ -2194,7 +2196,7 @@
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [krglaws/MyLFS](https://github.com/krglaws/MyLFS) - A giant Bash script that builds Linux From Scratch
@@ -2248,6 +2250,7 @@
 
 ## llm 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [devoxx/DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin) - DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [llm-tools/embedJs](https://github.com/llm-tools/embedJs) - A NodeJS RAG framework to easily work with LLMs and embeddings
@@ -2286,6 +2289,7 @@
 
 ## macos 
 
+- [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard with over 25 modes.
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [jorgelbg/pinentry-touchid](https://github.com/jorgelbg/pinentry-touchid) - Custom GPG pinentry program for macOS that allows using Touch ID for fetching the password from the macOS keychain.
@@ -2406,7 +2410,7 @@
 
 - [DanielRendox/RoutineTracker](https://github.com/DanielRendox/RoutineTracker) - An Android planner calendar app and a habit tracker that aims to simplify scheduling consistent activities and tracking your progress.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 
 ## mongodb 
 
@@ -2446,7 +2450,7 @@
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy.
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
@@ -2574,7 +2578,7 @@
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [Alinto/sogo](https://github.com/Alinto/sogo) - SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 
 ## open-source 
 
@@ -2610,6 +2614,7 @@
 
 ## openai 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [devoxx/DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin) - DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -2618,7 +2623,7 @@
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [myreader-io/myGPTReader](https://github.com/myreader-io/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
 - [Adri6336/gpt-voice-conversation-chatbot](https://github.com/Adri6336/gpt-voice-conversation-chatbot) - Allows you to have an engaging and safely emotive spoken / CLI conversation with the AI ChatGPT / GPT-4 while giving you the option to let it remember things discussed.
@@ -2655,6 +2660,13 @@
 
 ## others 
 
+- [xiaowine/Lyric-Getter](https://github.com/xiaowine/Lyric-Getter) - Lyric Getter | 酒域-歌词获取
+- [bigcode-project/starcoder2](https://github.com/bigcode-project/starcoder2) - Home of StarCoder2!
+- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
+- [pbar1/nix-mdbook](https://github.com/pbar1/nix-mdbook) - Nix library flake for building mdBook projects
+- [coder/agentapi](https://github.com/coder/agentapi) - HTTP API for Claude Code, Goose, Aider, and Codex
+- [Defelo/nixpkgs-review-gha](https://github.com/Defelo/nixpkgs-review-gha) - Run nixpkgs-review in GitHub Actions
+- [ufscar/mirror](https://github.com/ufscar/mirror) - 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [jcszymansk/nixcasks](https://github.com/jcszymansk/nixcasks) - Homebrew casks, nixified
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized as development environment, based on nixos-unified.
@@ -2675,7 +2687,7 @@
 - [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
 - [etkecc/synapse-admin](https://github.com/etkecc/synapse-admin) - A maintained fork of the admin console for (Matrix) Synapse homeservers, including additional features
 - [samueldr/nostatoo](https://github.com/samueldr/nostatoo) - The Non-Steam App Toolkit.
-- [SteamNix/SteamNix](https://github.com/SteamNix/SteamNix) - Nix Flake for creating a SteamOS like experience on NixOS.
+- [SteamNix/SteamNix](https://github.com/SteamNix/SteamNix) - SteamOS but Nix Flavoured.
 - [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) - 🧊 Indulge in nostalgia with useless 3D effects.
 - [nekowinston/nix-deno](https://github.com/nekowinston/nix-deno) - 😳 Nix + Deno?
 - [LordGrimmauld/nix-check-deps](https://github.com/LordGrimmauld/nix-check-deps) - scan nix packages for unused buildInputs
@@ -2744,7 +2756,7 @@
 - [BJS-kr/nestjs-omacache](https://github.com/BJS-kr/nestjs-omacache) - flexible, powerful and simple caching strategy using decorators for NestJS
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
 - [ventoy/PXE](https://github.com/ventoy/PXE) - The open source part of iVentoy.
-- [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) - Portable and extensible  re-work  of prasanthrangan/hyprdots // Aesthetic, dynamic and minimal dots for Arch  Hyprland // Going beyond
+- [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) - HyDE, your Development Environment 🖥️💻
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [FilipTLW/garuda-ng](https://github.com/FilipTLW/garuda-ng) - This is the component library for the website-based projects of Garuda Linux.
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
@@ -3335,7 +3347,7 @@
 ## package-manager 
 
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
-- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +3975 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
+- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +4000 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [moson-mo/pacseek](https://github.com/moson-mo/pacseek) - A terminal user interface for searching and installing Arch Linux packages
@@ -3477,7 +3489,7 @@
 - [dr460nf1r3/firedragon-browser](https://github.com/dr460nf1r3/firedragon-browser) - A Floorp fork with custom branding and opinionated settings 🐉 (mirrored from GitLab)
 - [dothq/browser-desktop](https://github.com/dothq/browser-desktop) - Dot Browser for Windows, macOS and Linux
 - [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - This is an archive, please contribute to the main repository: https://git.omaps.dev/organicmaps/organicmaps
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
@@ -3507,6 +3519,7 @@
 
 ## python 
 
+- [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.
@@ -3692,7 +3705,7 @@
 - [PhantomGamers/SFP](https://github.com/PhantomGamers/SFP) - This utility is designed to allow you to apply skins to the modern Steam client
 - [jacopotediosi/GAppsMod](https://github.com/jacopotediosi/GAppsMod) - Tweak Google apps (e.g., Phone and Messages) to unlock hidden features (e.g., available only in some countries or on certain devices). Root is required.
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [R3nzTheCodeGOD/R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin) - Skin changer for League of Legends (LOL)
 - [alphaSeclab/awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos)
@@ -3918,6 +3931,8 @@
 
 ## self-hosted 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -4078,6 +4093,7 @@
 
 ## swift 
 
+- [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard with over 25 modes.
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -4423,7 +4439,7 @@
 - [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
