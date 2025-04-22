@@ -2341,6 +2341,7 @@
 
 ## markdown 
 
+- [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
 - [jfcere/ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular markdown component/directive/pipe/service to parse static, dynamic or remote content to HTML with syntax highlight and more...
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [theiskaa/markdown2pdf](https://github.com/theiskaa/markdown2pdf) - Convert markdown to pdf (a md to pdf transpiler)
@@ -2660,6 +2661,10 @@
 
 ## others 
 
+- [imothee/tmpdisk](https://github.com/imothee/tmpdisk) - Ram Disk Management App for OSX
+- [ScriptedAlchemy/jetbrains-ide-performance](https://github.com/ScriptedAlchemy/jetbrains-ide-performance) - High Performance Configuration for Jetbrains IDEs [IntelliJ, WebStorm, etc..]
+- [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
+- [rurza/BatFi](https://github.com/rurza/BatFi) - Battery charging limiter for macOS.
 - [xiaowine/Lyric-Getter](https://github.com/xiaowine/Lyric-Getter) - Lyric Getter | 酒域-歌词获取
 - [bigcode-project/starcoder2](https://github.com/bigcode-project/starcoder2) - Home of StarCoder2!
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
@@ -3152,7 +3157,7 @@
 - [bobranten/Ext4Fsd](https://github.com/bobranten/Ext4Fsd) - Ext4 file system driver for Windows
 - [AndroidAudioMods/ViPERFX_RE](https://github.com/AndroidAudioMods/ViPERFX_RE) - Reverse Engineering of ViPER4Android FX
 - [AndroidAudioMods/ViPER4Android](https://github.com/AndroidAudioMods/ViPER4Android) - ViPER4Android app configuration files
-- [BackupNerd/Backup-Scripts](https://github.com/BackupNerd/Backup-Scripts) - PowerShell Scripts and Automation Manager Policies for N-able Cove Data Protection
+- [BackupNerd/Backup-Scripts](https://github.com/BackupNerd/Backup-Scripts) - Unofficial Scripts and Automation for N-able Cove Data Protection. Please visit https://developer.n-able.com/n-able-cove/recipes for N-able hosted API, script and recipe examples.
 - [discourse/discourse-solved](https://github.com/discourse/discourse-solved) - Allow accepted answers on topics
 - [accelforce/Yuito](https://github.com/accelforce/Yuito) - Mastodonクライアント Yuito
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
@@ -3729,7 +3734,7 @@
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - AI notepad for meetings. Local-first & Extensible.
-- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - 
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [reubeno/brush](https://github.com/reubeno/brush) - bash/POSIX-compatible shell implemented in Rust
 - [drewzemke/tongo](https://github.com/drewzemke/tongo) - A TUI for MongoDB.
 - [containers/podlet](https://github.com/containers/podlet) - Generate Podman Quadlet files from a Podman command, compose file, or existing object
@@ -4114,6 +4119,7 @@
 
 ## tailwindcss 
 
+- [pondorasti/tailwindcss-snippets](https://github.com/pondorasti/tailwindcss-snippets) - Collection of animation snippets made for TailwindCSS
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
