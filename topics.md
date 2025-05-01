@@ -22,6 +22,7 @@
 - [azure](#azure)
 - [backend](#backend)
 - [bash](#bash)
+- [bitcoin](#bitcoin)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [bugbounty](#bugbounty)
@@ -43,6 +44,7 @@
 - [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
+- [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
@@ -74,6 +76,7 @@
 - [emulator](#emulator)
 - [es6](#es6)
 - [eslint](#eslint)
+- [ethereum](#ethereum)
 - [express](#express)
 - [facebook](#facebook)
 - [firefox](#firefox)
@@ -142,6 +145,7 @@
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
+- [monero](#monero)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [music](#music)
@@ -279,6 +283,7 @@
 
 ## android 
 
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 - [arsLan4k1390/Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - 
 - [rajmani7584/Payload-Dumper-Android](https://github.com/rajmani7584/Payload-Dumper-Android) - Payload Dumper App for Android. Extract boot.img or any other partitions (images) from OTA.zip or payload.bin without PC without root on Android
@@ -378,7 +383,7 @@
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [prathameshmm02/Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) - Calculator & Converter for Android
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
@@ -707,6 +712,10 @@
 - [SDRausty/TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
 - [TermuxArch/TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
 
+## bitcoin 
+
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
+
 ## bootstrap 
 
 - [ashos/ashos](https://github.com/ashos/ashos) - The immutable/mutable meta-distribution (universal bootstrapper)
@@ -937,6 +946,10 @@
 - [aarnt/octopi](https://github.com/aarnt/octopi) - A powerful Pacman (Package Manager) front end using Qt libs
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 
+## cryptocurrency 
+
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
+
 ## cryptography 
 
 - [IPdotSetAF/NeoMatrix](https://github.com/IPdotSetAF/NeoMatrix) - The Ultimate Matrix Wallpaper
@@ -1024,7 +1037,7 @@
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
@@ -1298,6 +1311,10 @@
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 🎁
 
+## ethereum 
+
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
+
 ## express 
 
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
@@ -1356,7 +1373,7 @@
 - [vedfi/mondroid](https://github.com/vedfi/mondroid) - Mongodb Client w/ Flutter
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Merrit/nyrna](https://github.com/Merrit/nyrna) - Suspend games and applications.
@@ -1644,7 +1661,7 @@
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [jellydn/zed-101-setup](https://github.com/jellydn/zed-101-setup) - Your ultimate guide to setting up Zed with Vim mode, tailored settings, and key bindings for a seamless coding experience
 - [JonasAlfredsson/docker-nginx-certbot](https://github.com/JonasAlfredsson/docker-nginx-certbot) - Automatically create and renew website certificates for free using the Let's Encrypt certificate authority.
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.5.60490, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60192)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.5.60568, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60192)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles
 - [catppuccin/sddm](https://github.com/catppuccin/sddm) - 🔒 Soothing pastel theme for SDDM
@@ -1816,7 +1833,7 @@
 
 ## homebrew 
 
-- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
+- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [BatteredBunny/brew-nix](https://github.com/BatteredBunny/brew-nix) - Experimental nix expression to package all MacOS casks from homebrew automatically
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
@@ -1873,6 +1890,7 @@
 
 ## ios 
 
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [arjpar/WebShield](https://github.com/arjpar/WebShield) - A new wide-spectrum content blocker for Safari designed to be performant, efficient, and effective.
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
@@ -2116,6 +2134,7 @@
 
 ## linux 
 
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.
@@ -2124,7 +2143,7 @@
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.5.60490, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60192)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.5.60568, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60192)
 - [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +4000 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
 - [adgaultier/tamanoir](https://github.com/adgaultier/tamanoir) - An eBPF🐝 Keylogger with C2-based RCE payload delivery
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
@@ -2209,7 +2228,7 @@
 - [Noah-Arcouette/imd](https://github.com/Noah-Arcouette/imd) - Rebuild of my md program. It's better looking, working, and has better features. The Improved terminal MarkDown file reader / viewer / styler / tui.
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
@@ -2269,7 +2288,7 @@
 - [devoxx/DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin) - DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [llm-tools/embedJs](https://github.com/llm-tools/embedJs) - A NodeJS RAG framework to easily work with LLMs and embeddings
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+- [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 
 ## lua 
@@ -2280,6 +2299,7 @@
 
 ## mac 
 
+- [charlie0129/batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [remko/age-plugin-se](https://github.com/remko/age-plugin-se) - Age plugin for Apple's Secure Enclave
 - [rohanrhu/MacsyZones](https://github.com/rohanrhu/MacsyZones) - Make your workflow more efficient with MacsyZones. Organize your windows with ease. https://macsyzones.com
@@ -2304,8 +2324,12 @@
 
 ## macos 
 
+- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
+- [charlie0129/batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks.
+- [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with starter templates!)
-- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
+- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard with over 25 modes.
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
@@ -2350,7 +2374,7 @@
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
@@ -2430,6 +2454,10 @@
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 
+## monero 
+
+- [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
+
 ## mongodb 
 
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -2467,7 +2495,7 @@
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
@@ -2527,6 +2555,7 @@
 
 ## no-code 
 
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 
 ## node 
@@ -2577,7 +2606,7 @@
 
 ## nosql 
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 
 ## npm 
@@ -2679,6 +2708,12 @@
 
 ## others 
 
+- [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
+- [clzoc/BattGUI](https://github.com/clzoc/BattGUI) - A GUI prototype for Batt (developed by https://github.com/charlie0129)
+- [redthing1/mimchine](https://github.com/redthing1/mimchine) - integrated mini-linux in podman. inspired by distrobox.
+- [gileli121/GlassCode](https://github.com/gileli121/GlassCode) - This plugin allows you to make JetBrains IDEs to be fully transparent while keeping the code sharp and bright.
+- [michidk/rost](https://github.com/michidk/rost) - Rust programming in German.
+- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 - [moretension/duti](https://github.com/moretension/duti) - A command-line tool to select default applications for document types and URL schemes on Mac OS X
 - [philocalyst/infat](https://github.com/philocalyst/infat) - A command line tool to set default openers for file formats and url schemes on macos
 - [codingmoh/open-codex](https://github.com/codingmoh/open-codex) - Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
@@ -3370,7 +3405,7 @@
 
 ## package-manager 
 
-- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
+- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +4000 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
@@ -3663,6 +3698,7 @@
 
 ## react 
 
+- [rohanrhu/react-kitten](https://github.com/rohanrhu/react-kitten) - React desktop environment for the web. React-ish and highly customizable. 🐱
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - AI Notepad for back-to-back meetings. Local-first & Extensible.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours. 🚀
@@ -3694,6 +3730,7 @@
 
 ## reactjs 
 
+- [rohanrhu/react-kitten](https://github.com/rohanrhu/react-kitten) - React desktop environment for the web. React-ish and highly customizable. 🐱
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -3752,7 +3789,8 @@
 
 ## rust 
 
-- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS
+- [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified
+- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - AI Notepad for back-to-back meetings. Local-first & Extensible.
@@ -4120,6 +4158,7 @@
 
 ## swift 
 
+- [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard with over 25 modes.
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
@@ -4129,6 +4168,7 @@
 
 ## swiftui 
 
+- [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
@@ -4471,7 +4511,7 @@
 - [Fleex255/PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor plus more, for all Windows editions
 - [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
