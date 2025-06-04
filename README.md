@@ -207,7 +207,7 @@
 - [SneWs/tail-tray](https://github.com/SneWs/tail-tray) - Tailscale tray menu and UI for the KDE Plasma Desktop
 - [taj-ny/InputActions](https://github.com/taj-ny/InputActions) - Mouse and touchpad gestures for Plasma 6 Wayland
 - [pixincreate/Magisk](https://github.com/pixincreate/Magisk) - The Magic Mask for GrapheneOS
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.5.60822, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.5.61188, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [SonyaCore/SonyGramDesktop](https://github.com/SonyaCore/SonyGramDesktop) - Desktop Telegram client with good customization and Ghost mode (ReCoil).
 - [mandarine3ds/mandarine](https://github.com/mandarine3ds/mandarine) - A Citra fork with new features and hacks which are experimental and may not be present upstream
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
@@ -307,6 +307,7 @@
 
 ## CSS 
 
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 - [dermv/cute-kuma](https://github.com/dermv/cute-kuma) - Cute CSS for Uptime Kuma status page with a simple and modern look
 - [addisonjames/obsidian-translucent](https://github.com/addisonjames/obsidian-translucent) - A CSS snippet that gives Obsidian a translucent, frosted-glass interface.
 - [Floorp-Projects/Floorp-12](https://github.com/Floorp-Projects/Floorp-12) - 
@@ -369,6 +370,7 @@
 
 ## Dockerfile 
 
+- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [toolbx-images/images](https://github.com/toolbx-images/images) - Community maintained container images to use with toolbx and distrobox
@@ -397,6 +399,8 @@
 
 ## Go 
 
+- [JonasProgrammer/docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) - Docker machine driver for the new hetzner cloud API
+- [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
 - [idursun/jjui](https://github.com/idursun/jjui) - Jujutsu UI (jjui) is a Text User Interface (TUI) designed for interacting with the Jujutsu version control system.
 - [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal)
 - [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure
@@ -428,7 +432,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +4039 statically linked binaries in the (default) repos! The easy to use, easy to get, suckless software distribution system.
+- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +4052 statically linked binaries in the default repos (amd64/arm64)! The easy to use, easy to get, suckless software distribution system.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -621,7 +625,7 @@
 - [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
 - [matejdro/WearVibrationCenter](https://github.com/matejdro/WearVibrationCenter) - Android (Wear) application for managing notification vibrations.
 - [CloudburstMC/Nukkit](https://github.com/CloudburstMC/Nukkit) - Cloudburst Nukkit - Nuclear-Powered Minecraft: Bedrock Edition Server Software
-- [sk22/megalodon](https://github.com/sk22/megalodon) - Pink modification of the official Mastodon for Android app
+- [sk22/megalodon](https://github.com/sk22/megalodon) - Abandoned. Pink modification of the official Mastodon for Android app
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [RikkaApps/Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
 - [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
@@ -673,6 +677,8 @@
 
 ## JavaScript 
 
+- [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
+- [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 - [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
 - [Nelwhix/go-npm](https://github.com/Nelwhix/go-npm) - Distribute and install Go binaries via NPM
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -699,7 +705,7 @@
 - [leaflet-extras/leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) - An extension to Leaflet that contains configurations for various free tile providers.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
-- [store-craft/storecraft](https://github.com/store-craft/storecraft) - ⭐ Ai First Javascript Commerce as Code backend
+- [store-craft/storecraft](https://github.com/store-craft/storecraft) - ⭐ Rapidly build AI-powered, Headless e-commerce backends with TypeScript
 - [fastify/middie](https://github.com/fastify/middie) - Middleware engine for Fastify
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
@@ -858,7 +864,7 @@
 - [Infomaniak/android-kSync](https://github.com/Infomaniak/android-kSync) - Fork of DAVx⁵ with Infomaniak login and branding
 - [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
 - [salvogiangri/KnoxPatch](https://github.com/salvogiangri/KnoxPatch) - LSPosed module to get Samsung apps/features working again in your rooted Galaxy device.
-- [AkaneTan/Gramophone](https://github.com/AkaneTan/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly.
+- [FoedusProgramme/Gramophone](https://github.com/FoedusProgramme/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly.
 - [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) - Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [johanw666/Signal-Android](https://github.com/johanw666/Signal-Android) - Fork from a private messenger for Android with extra options added: full backup and (partial, ony text) xml backup of messages. Restore can happen at any time, not only after a fresh install. Import S
@@ -942,6 +948,7 @@
 
 ## Nix 
 
+- [viperML/nix-maid](https://github.com/viperML/nix-maid) - Systemd + Nix dotfile management
 - [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix) - Manages Podman containers and networks on NixOS via Quadlet.
 - [nix-community/preservation](https://github.com/nix-community/preservation) - Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]
 - [adisbladis/korora](https://github.com/adisbladis/korora) - A tiny & fast type system for Nix in Nix
@@ -952,7 +959,7 @@
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with starter templates!)
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [pbar1/nix-mdbook](https://github.com/pbar1/nix-mdbook) - Nix library flake for building mdBook projects
-- [ufscar/mirror](https://github.com/ufscar/mirror) - 
+- [ufscar/mirror](https://github.com/ufscar/mirror) - Where Free Software Meets Free Infrastructure
 - [jcszymansk/nixcasks](https://github.com/jcszymansk/nixcasks) - Homebrew casks, nixified
 - [BatteredBunny/brew-nix](https://github.com/BatteredBunny/brew-nix) - Experimental nix expression to package all MacOS casks from homebrew automatically
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized as development environment, based on nixos-unified.
@@ -1250,6 +1257,7 @@
 
 ## Python 
 
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [m-ahmed-elbeskeri/Starguard](https://github.com/m-ahmed-elbeskeri/Starguard) - CLI that detects fake-star campaigns, dependency hijacks, licence red-flags and other signs of repository risk. Inspired by the “4.5 million fake stars” study, StarGuard helps CTOs, security teams and
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator) - A script that helps generate a rich GitHub Contribution Graph for your account 🤖
@@ -1505,6 +1513,7 @@
 - [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and execute GitHub Actions workflows locally.
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
@@ -1695,6 +1704,7 @@
 
 ## Shell 
 
+- [Edu4rdSHL/based.fish](https://github.com/Edu4rdSHL/based.fish) - Context-based autocompletion for the Fish shell
 - [wolfSSL/wolfssl-nginx](https://github.com/wolfSSL/wolfssl-nginx) - Adds wolfSSL support to Nginx.
 - [halostatue/fish-macos](https://github.com/halostatue/fish-macos) - MacOS functions for Fish
 - [ScriptedAlchemy/jetbrains-ide-performance](https://github.com/ScriptedAlchemy/jetbrains-ide-performance) - High Performance Configuration for Jetbrains IDEs [IntelliJ, WebStorm, etc..]
@@ -1772,7 +1782,7 @@
 - [shalva97/kde-configuration-files](https://github.com/shalva97/kde-configuration-files) - KDE plasma configuration files
 - [lenowski/ipman](https://github.com/lenowski/ipman) - Ideapad Power Manager for Linux
 - [lukaszlach/docker-tc](https://github.com/lukaszlach/docker-tc) - :whale: :vertical_traffic_light: Docker Traffic Control - network rate limiting, emulating delays, losses, duplicates, corrupts and reorders of network packets using only container labels or a command
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [RaptaG/CAAIS](https://github.com/RaptaG/CAAIS) - A bash script to install and/or remove Chaotic-AUR.
 - [chriswoope/resign-android-image](https://github.com/chriswoope/resign-android-image) - Resign Android OS (esp. GrapheneOS) images with your signing keys and add ADB root and other modifications
 - [FerryAr/lhroot](https://github.com/FerryAr/lhroot) - Linux Chroot Installer & Bootscript Magisk Module.
@@ -1889,6 +1899,10 @@
 
 ## TypeScript 
 
+- [nullpwntrops/simple-auth-backend](https://github.com/nullpwntrops/simple-auth-backend) - This is a comprehensive starter kit built using the NestJS framework and TypeScript featuring JWT authentication, 2FA support, enhanced security, database integration, and many more.
+- [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [analogjs/analog](https://github.com/analogjs/analog) - The fullstack meta-framework for Angular. Powered by Vite and Nitro
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
@@ -1899,7 +1913,6 @@
 - [rohanrhu/react-kitten](https://github.com/rohanrhu/react-kitten) - React desktop environment for the web. React-ish and highly customizable. 🐱
 - [pondorasti/tailwindcss-snippets](https://github.com/pondorasti/tailwindcss-snippets) - Collection of animation snippets made for TailwindCSS
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Privacy-first AI Notepad for back-to-back meetings
 - [etkecc/synapse-admin](https://github.com/etkecc/synapse-admin) - A maintained fork of the admin console for (Matrix) Synapse homeservers, including additional features
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -2073,6 +2086,7 @@
 
 ## Zig 
 
+- [pkmn/engine](https://github.com/pkmn/engine) - A minimal, complete, Pokémon battle simulation engine optimized for performance
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
