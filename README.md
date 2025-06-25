@@ -197,6 +197,7 @@
 
 ## C++ 
 
+- [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - Apply themes/skins/customize Steam® after the 2023-04-27 Chromium UI update
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [gileli121/GlassCode](https://github.com/gileli121/GlassCode) - This plugin allows you to make JetBrains IDEs to be fully transparent while keeping the code sharp and bright.
@@ -209,8 +210,8 @@
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [SneWs/tail-tray](https://github.com/SneWs/tail-tray) - Tailscale tray menu and UI for the KDE Plasma Desktop
-- [taj-ny/InputActions](https://github.com/taj-ny/InputActions) - Mouse and touchpad gestures for Plasma 6 Wayland
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.7.61559, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [taj-ny/InputActions](https://github.com/taj-ny/InputActions) - Mouse and touchpad gestures for Hyprland, Plasma 6 Wayland
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.7.61609, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [SonyaCore/SonyGramDesktop](https://github.com/SonyaCore/SonyGramDesktop) - Desktop Telegram client with good customization and Ghost mode (ReCoil).
 - [mandarine3ds/mandarine](https://github.com/mandarine3ds/mandarine) - A Citra fork with new features and hacks which are experimental and may not be present upstream
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
@@ -309,6 +310,7 @@
 
 ## CSS 
 
+- [kayozxo/GNOME-macOS-Tahoe](https://github.com/kayozxo/GNOME-macOS-Tahoe) - MacOS Tahoe inspired theme for GNOME
 - [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
 - [dermv/cute-kuma](https://github.com/dermv/cute-kuma) - Give your Uptime Kuma status page a cute and modern look with custom CSS
 - [addisonjames/obsidian-translucent](https://github.com/addisonjames/obsidian-translucent) - A CSS snippet that gives Obsidian a translucent, frosted-glass interface.
@@ -368,6 +370,7 @@
 
 ## Dockerfile 
 
+- [abarichello/godot-ci](https://github.com/abarichello/godot-ci) - Docker image to export Godot Engine games. Templates for Gitlab CI and GitHub Actions to deploy to GitLab Pages/GitHub Pages/Itch.io.
 - [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
@@ -397,6 +400,7 @@
 
 ## Go 
 
+- [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [praktiskt/zedex](https://github.com/praktiskt/zedex) - Self-hosted Zed server.
@@ -434,7 +438,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +4145 statically linked binaries in the default repos (amd64/arm64/riscv)! The easy to use, easy to get, suckless software distribution system.
+- [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +4150 statically linked binaries in the default repos (amd64/arm64/riscv)! The easy to use, easy to get, suckless software distribution system.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -606,6 +610,7 @@
 - [ukanth/afwall](https://github.com/ukanth/afwall) - AFWall+ (Android Firewall +) - iptables based firewall for Android
 - [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 - [CyanChanges/Sui](https://github.com/CyanChanges/Sui) - Modern super user interface implementation on Android.
+- [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for android
 - [AyuGram/AyuGram4A](https://github.com/AyuGram/AyuGram4A) - Just an exteraGram based client with ToS breaking features in mind.
 - [xoureldeen/Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 - [labnex/LabNex](https://github.com/labnex/LabNex) - LabNex is an open-source Android app designed for managing GitLab projects
@@ -679,6 +684,7 @@
 
 ## JavaScript 
 
+- [berkaytumal/FxFilterJS](https://github.com/berkaytumal/FxFilterJS) - 
 - [observ33r/object-equals](https://github.com/observ33r/object-equals) - A fast, flexible and robust utility for deep equality comparison with type-specific logic and engine-aware design.
 - [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 - [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
@@ -837,7 +843,6 @@
 - [MMRLApp/MMRL](https://github.com/MMRLApp/MMRL) - MMRL is an Android app that helps manage your own modules repository.
 - [chenxiaolong/Custota](https://github.com/chenxiaolong/Custota) - Android A/B OTA updater app for custom OTA servers
 - [pixincreate/Magisk](https://github.com/pixincreate/Magisk) - The Magic Mask for GrapheneOS
-- [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for android
 - [vhqtvn/VHEditor-Android](https://github.com/vhqtvn/VHEditor-Android) - Run Code-server on Android
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [Mahmud0808/ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - An Android app for customizing Material You colors on devices with Android 12+. It lets you tweak accent colors, background saturation, and more for a personalized look.
@@ -951,6 +956,8 @@
 
 ## Nix 
 
+- [timewave-computer/sopsidy](https://github.com/timewave-computer/sopsidy) - Script based generation of sops files for sops-nix
+- [pfassina/sopswarden](https://github.com/pfassina/sopswarden) - SOPS secrets management integrated with Bitwarden for NixOS
 - [gepbird/nixpkgs-patcher](https://github.com/gepbird/nixpkgs-patcher) - Using nixpkgs pull requests that haven't landed into your channel has never been easier!
 - [xiv3r/Burpsuite-Professional](https://github.com/xiv3r/Burpsuite-Professional) - Latest Burpsuite Professional Version 2025.*.*
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
@@ -1013,7 +1020,6 @@
 - [LudovicoPiero/dotfiles](https://github.com/LudovicoPiero/dotfiles) - NixOS Configuration powered by flake-parts ❄️
 - [TaserudConsulting/jsonresume-nix](https://github.com/TaserudConsulting/jsonresume-nix) - Reproducible résumé using Nix ❄️ and jsonresume
 - [LGUG2Z/nixos-wsl-starter](https://github.com/LGUG2Z/nixos-wsl-starter) - A sane, batteries-included starter template for running NixOS on WSL
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [UbiqueLambda/yafas](https://github.com/UbiqueLambda/yafas) - Pipe-optimized with-pattern-functions for making Nix-flakes' output easier to use.
 - [nix-community/crate2nix](https://github.com/nix-community/crate2nix) - rebuild only changed crates in CI with crate2nix and nix
 - [nix-community/naersk](https://github.com/nix-community/naersk) - Build Rust projects in Nix - no configuration, no code generation, no IFD, sandbox friendly.
@@ -1090,7 +1096,7 @@
 - [femueller/cloud-ip-ranges](https://github.com/femueller/cloud-ip-ranges) - An up-to-date export of cloud provider IP address ranges
 - [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [jest-community/awesome-jest](https://github.com/jest-community/awesome-jest) - 🕶Awesome Jest packages and resources
@@ -1264,6 +1270,7 @@
 
 ## Python 
 
+- [EbodShojaei/bake](https://github.com/EbodShojaei/bake) - mbake is a Makefile formatter and linter. It only took 50 years!
 - [Mic92/nix-hyperfine](https://github.com/Mic92/nix-hyperfine) - A command-line tool that uses hyperfine to benchmark Nix derivation builds and evaluations.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [m-ahmed-elbeskeri/Starguard](https://github.com/m-ahmed-elbeskeri/Starguard) - CLI that detects fake-star campaigns, dependency hijacks, licence red-flags and other signs of repository risk. Inspired by the “4.5 million fake stars” study, StarGuard helps CTOs, security teams and
@@ -1278,7 +1285,7 @@
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 - [mr-fatalyst/fastopenapi](https://github.com/mr-fatalyst/fastopenapi) - FastOpenAPI is a library for generating and integrating OpenAPI schemas using Pydantic v2 and various frameworks (AioHttp, Falcon, Flask, Quart, Sanic, Starlette, Tornado).
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
 - [LaunchPlatform/nix-playground](https://github.com/LaunchPlatform/nix-playground) - Command line tools for patching nixpkgs package source code easily
@@ -1508,6 +1515,10 @@
 
 ## Rust 
 
+- [fooker/pullomatic](https://github.com/fooker/pullomatic) - Automates git repository syncing through pure configuration
+- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Kingfisher is a blazingly fast secret‑scanning and validation tool built in Rust
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+- [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq) - A high-performance and efficient message queue developed   in Rust
 - [anistark/feluda](https://github.com/anistark/feluda) - Detect license usage restrictions in your project!
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [junkdog/beamterm](https://github.com/junkdog/beamterm) - A sub-millisecond terminal text rendering system using WebGL2
@@ -1609,6 +1620,7 @@
 - [dr460nf1r3/crab-hole](https://github.com/dr460nf1r3/crab-hole) - 🦀 Pi-Hole clone written in rust using trust-dns
 - [mdgaziur/findex](https://github.com/mdgaziur/findex) - Findex is a highly customizable application finder written in Rust and uses GTK3
 - [LuckyTurtleDev/crab-hole](https://github.com/LuckyTurtleDev/crab-hole) - 🦀 Pi-Hole clone written in rust using hickory-dns/trust-dns
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -1786,7 +1798,7 @@
 - [rudolfvesely/nixmaker](https://github.com/rudolfvesely/nixmaker) - 
 - [pschmitt/tmux-slay](https://github.com/pschmitt/tmux-slay) - TMUX script to run commands in a background session. Similar to abduco/dtach.
 - [ivan-hc/ArchImage](https://github.com/ivan-hc/ArchImage) - Build AppImage packages for all distributions but including Arch Linux packages. Powered by JuNest.
-- [zbm-dev/zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS Bootloader for root-on-ZFS systems with support for snapshots and native full disk encryption
+- [zbm-dev/zfsbootmenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS bootloader for root-on-ZFS systems with support for snapshots and native full disk encryption
 - [Magisk-Modules-Alt-Repo/open_webview](https://github.com/Magisk-Modules-Alt-Repo/open_webview) - A magisk module created to replace system webview
 - [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 - [pawel-0/xdg-unused-data](https://github.com/pawel-0/xdg-unused-data) - A simple way to identify unused applications data in user directories such as ~./config and ~/.cache.
@@ -1902,7 +1914,7 @@
 - [philocalyst/infat](https://github.com/philocalyst/infat) - A command line tool to set default openers for file formats and url schemes on macos
 - [imothee/tmpdisk](https://github.com/imothee/tmpdisk) - Ram Disk Management App for OSX
 - [rurza/BatFi](https://github.com/rurza/BatFi) - Battery charging limiter for macOS.
-- [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard with over 25 modes.
+- [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard with over 25 built-in modes or your own soudpack.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [remko/age-plugin-se](https://github.com/remko/age-plugin-se) - Age plugin for Apple's Secure Enclave
 - [rohanrhu/MacsyZones](https://github.com/rohanrhu/MacsyZones) - Make your workflow more efficient with MacsyZones. Organize your windows with ease. https://macsyzones.com
@@ -1925,6 +1937,8 @@
 
 ## TypeScript 
 
+- [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
+- [maitrungduc1410/node-scp-async](https://github.com/maitrungduc1410/node-scp-async) - 🚀Lightweight, fast and secure SCP functions for NodeJS
 - [niraj-khatiwada/ultimate-nestjs-boilerplate](https://github.com/niraj-khatiwada/ultimate-nestjs-boilerplate) - Advanced Nest.js boilerplate for scalable startups⚡
 - [gflohr/e-invoice-eu](https://github.com/gflohr/e-invoice-eu) - 🇪🇺 💶 Generate e-invoices (E-Rechnung in German) conforming to EN16931 (Factur-X/ZUGFeRD, UBL, CII, XRechnung aka X-Rechnung) from LibreOffice Calc/Excel data or JSON.
 - [drizzle-team/brocli](https://github.com/drizzle-team/brocli) - Modern type-safe way of building CLIs
@@ -1981,7 +1995,7 @@
 - [conblem/tailvnc](https://github.com/conblem/tailvnc) - VNC Client in the browser based on tailscale tsconnect
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
-- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract +600 technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
+- [specfy/stack-analyser](https://github.com/specfy/stack-analyser) - Extract +700 technologies from any repository. Detect Languages, SaaS, Cloud, Infrastructure, Dependencies and Services
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
@@ -2031,7 +2045,7 @@
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
