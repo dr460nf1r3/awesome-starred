@@ -86,7 +86,7 @@
 
 ## Batchfile 
 
-- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome and Firefox.
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [Leaked0/Ghost-Toolbox](https://github.com/Leaked0/Ghost-Toolbox) - 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
@@ -400,6 +400,7 @@
 
 ## Go 
 
+- [amikos-tech/chroma-go](https://github.com/amikos-tech/chroma-go) - The Go client for Chroma vector database
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
@@ -546,6 +547,7 @@
 
 ## HTML 
 
+- [search-rug/iac-cost-patterns](https://github.com/search-rug/iac-cost-patterns) - A living catalog of cost management patterns and antipatterns for Infrastructure as Code in cloud deployments. Open for community contributions.
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [Azeirah/nix-deps-treemap](https://github.com/Azeirah/nix-deps-treemap) - Visualize your nix derivation dependency graph as an interactive treemap
@@ -684,6 +686,7 @@
 
 ## JavaScript 
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [berkaytumal/FxFilterJS](https://github.com/berkaytumal/FxFilterJS) - 
 - [observ33r/object-equals](https://github.com/observ33r/object-equals) - A fast, flexible and robust utility for deep equality comparison with type-specific logic and engine-aware design.
 - [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
@@ -1089,6 +1092,7 @@
 
 ## Others 
 
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
@@ -1736,6 +1740,7 @@
 
 ## Shell 
 
+- [ishad0w/amvm](https://github.com/ishad0w/amvm) - Ansible with Mitogen Version Manager
 - [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) - GitHub action for ShellCheck.
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
@@ -1937,6 +1942,7 @@
 
 ## TypeScript 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [maitrungduc1410/node-scp-async](https://github.com/maitrungduc1410/node-scp-async) - 🚀Lightweight, fast and secure SCP functions for NodeJS
 - [niraj-khatiwada/ultimate-nestjs-boilerplate](https://github.com/niraj-khatiwada/ultimate-nestjs-boilerplate) - Advanced Nest.js boilerplate for scalable startups⚡
