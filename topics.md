@@ -3302,7 +3302,7 @@
 - [tenable/ghidra_tools](https://github.com/tenable/ghidra_tools) - A collection of Ghidra scripts, including the GPT-3 powered code analyser and annotator, G-3PO.
 - [chaotic-aur/pkgrel_incrementer](https://github.com/chaotic-aur/pkgrel_incrementer) - Bumps pkgrel of packages when dependencies change (for Haskell & similar stuff)
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
-- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Filter lists for uBlock Origin & uBlock Origin Lite
 - [sugoidogo/pngtube2](https://github.com/sugoidogo/pngtube2) - OBS Overlay for a PNG avatar that animates when you speak
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
