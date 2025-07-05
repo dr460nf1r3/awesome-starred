@@ -781,7 +781,7 @@
 - [surishortlink/suri](https://github.com/surishortlink/suri) - Your own short links as an easily deployed static site
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
 - [KelvinTegelaar/CIPP](https://github.com/KelvinTegelaar/CIPP) - CIPP is a M365 multitenant management solution
@@ -966,6 +966,7 @@
 
 ## Nix 
 
+- [Mic92/flake-fmt](https://github.com/Mic92/flake-fmt) - A smart formatter wrapper for Nix flakes
 - [timewave-computer/sopsidy](https://github.com/timewave-computer/sopsidy) - Script based generation of sops files for sops-nix
 - [pfassina/sopswarden](https://github.com/pfassina/sopswarden) - SOPS secrets management integrated with Bitwarden for NixOS
 - [gepbird/nixpkgs-patcher](https://github.com/gepbird/nixpkgs-patcher) - Using nixpkgs pull requests that haven't landed into your channel has never been easier!
