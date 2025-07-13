@@ -81,7 +81,6 @@
 ## Astro 
 
 - [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
-- [webtui/webtui](https://github.com/webtui/webtui) - 
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 
 ## Batchfile 
@@ -204,7 +203,7 @@
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [gileli121/GlassCode](https://github.com/gileli121/GlassCode) - This plugin allows you to make JetBrains IDEs to be fully transparent while keeping the code sharp and bright.
-- [FreesmTeam/FreesmLauncher](https://github.com/FreesmTeam/FreesmLauncher) - Prism Launcher fork aimed to provide a free way to play Minecraft.
+- [FreesmTeam/FreesmLauncher](https://github.com/FreesmTeam/FreesmLauncher) - Prism Launcher fork aimed to provide a free way to play Minecraft
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy is a highly customizable binary Window Decoration, Application Style and Global Theme plugin for recent versions of the KDE Plasma desktop.
@@ -403,6 +402,7 @@
 
 ## Go 
 
+- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [amikos-tech/chroma-go](https://github.com/amikos-tech/chroma-go) - The Go client for Chroma vector database
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
@@ -947,6 +947,7 @@
 
 ## MDX 
 
+- [webtui/webtui](https://github.com/webtui/webtui) - 
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 
 ## Makefile 
@@ -1931,7 +1932,7 @@
 - [philocalyst/infat](https://github.com/philocalyst/infat) - A command line tool to set default openers for file formats and url schemes on macos
 - [imothee/tmpdisk](https://github.com/imothee/tmpdisk) - Ram Disk Management App for OSX
 - [rurza/BatFi](https://github.com/rurza/BatFi) - Battery charging limiter for macOS.
-- [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard with over 25 built-in modes or your own soudpack.
+- [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard with over 25 built-in modes or your own soudpacks.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [remko/age-plugin-se](https://github.com/remko/age-plugin-se) - Age plugin for Apple's Secure Enclave
 - [rohanrhu/MacsyZones](https://github.com/rohanrhu/MacsyZones) - Make your workflow more efficient with MacsyZones. Organize your windows with ease. https://macsyzones.com
@@ -1977,7 +1978,7 @@
 - [rohanrhu/react-kitten](https://github.com/rohanrhu/react-kitten) - React desktop environment for the web. React-ish and highly customizable. 🐱
 - [pondorasti/tailwindcss-snippets](https://github.com/pondorasti/tailwindcss-snippets) - Collection of animation snippets made for TailwindCSS
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Privacy-first AI Notepad for back-to-back meetings
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Secure AI-powered meeting notetaker that runs on your device and keeps your data private.
 - [etkecc/synapse-admin](https://github.com/etkecc/synapse-admin) - A maintained fork of the admin console for (Matrix) Synapse homeservers, including additional features
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
