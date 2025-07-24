@@ -1967,6 +1967,7 @@
 
 ## TypeScript 
 
+- [ksz-ksz/rxjs-insights](https://github.com/ksz-ksz/rxjs-insights) - See through the observables.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [artem-mangilev/ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular 16+
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🌸 Do things with utmost efficiency.
