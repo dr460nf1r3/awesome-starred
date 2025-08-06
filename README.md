@@ -96,6 +96,7 @@
 
 ## C 
 
+- [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [wayback-x11/wayback](https://github.com/wayback-x11/wayback) - experimental X11 compatibility layer
 - [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon) - Apple Silicon devices emulated on QEMU, currently only iPhone 11.
@@ -951,6 +952,7 @@
 
 ## Lua 
 
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [glassesneo/nix](https://github.com/glassesneo/nix) - My nix configuration
 - [emptyynes/fraxinus](https://github.com/emptyynes/fraxinus) - declarative configuration for arch linux
 - [BlackArch/blackarch-iso](https://github.com/BlackArch/blackarch-iso) - BlackArch Linux ISOs
@@ -977,6 +979,7 @@
 
 ## Nix 
 
+- [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [cachix/devenv-ai-agents](https://github.com/cachix/devenv-ai-agents) - A collection of specialized Claude Code agents composed using https://devenv.sh
 - [xddxdd/nix-math](https://github.com/xddxdd/nix-math) - Experimental mathematical library in pure Nix, using no external library.
 - [mwlaboratories/phoneputer](https://github.com/mwlaboratories/phoneputer) - nixos on your phone
@@ -984,7 +987,7 @@
 - [timewave-computer/sopsidy](https://github.com/timewave-computer/sopsidy) - Script based generation of sops files for sops-nix
 - [pfassina/sopswarden](https://github.com/pfassina/sopswarden) - SOPS secrets management integrated with Bitwarden for NixOS
 - [gepbird/nixpkgs-patcher](https://github.com/gepbird/nixpkgs-patcher) - Using nixpkgs pull requests that haven't landed into your channel has never been easier!
-- [xiv3r/Burpsuite-Professional](https://github.com/xiv3r/Burpsuite-Professional) - Latest Burpsuite Professional Version 2025.*.*
+- [xiv3r/Burpsuite-Professional](https://github.com/xiv3r/Burpsuite-Professional) - Latest Burpsuite Professional Version 2025.x.x
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - Systemd + Nix dotfile management
 - [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix) - Manages Podman containers and networks on NixOS via Quadlet.
@@ -1114,6 +1117,7 @@
 
 ## Others 
 
+- [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
 - [alexmaisa/tailscale-protonvpn-exitnode](https://github.com/alexmaisa/tailscale-protonvpn-exitnode) - A docker-compose setup for creating an encrypted VPN connection using Tailscale and ProtonVPN.
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
@@ -1529,6 +1533,7 @@
 
 ## Ruby 
 
+- [jeff-hykin/better-nix-syntax](https://github.com/jeff-hykin/better-nix-syntax) - 💾 📦✅ Better syntax highlighting for nix in VS Code
 - [singerscreations/discourse-stopforumspam](https://github.com/singerscreations/discourse-stopforumspam) - 
 - [samueldr/nostatoo](https://github.com/samueldr/nostatoo) - The Non-Steam App Toolkit.
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -1584,7 +1589,7 @@
 - [erikjuhani/basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and execute GitHub Actions workflows locally.
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Run, validate and execute GitHub Actions locally.
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [tweag/topiary](https://github.com/tweag/topiary) - 
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
@@ -1977,6 +1982,7 @@
 
 ## TypeScript 
 
+- [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [bitwarden/directory-connector](https://github.com/bitwarden/directory-connector) - A tool for syncing a directory (AD, LDAP, Azure, G Suite, Okta) to an organization.
 - [ksz-ksz/rxjs-insights](https://github.com/ksz-ksz/rxjs-insights) - See through the observables.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
