@@ -982,6 +982,7 @@
 
 ## Nix 
 
+- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.
 - [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
@@ -1132,7 +1133,7 @@
 - [femueller/cloud-ip-ranges](https://github.com/femueller/cloud-ip-ranges) - An up-to-date export of cloud provider IP address ranges
 - [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [jest-community/awesome-jest](https://github.com/jest-community/awesome-jest) - 🕶Awesome Jest packages and resources
@@ -1809,7 +1810,7 @@
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
 - [dan-r/syncstorage-rs-docker](https://github.com/dan-r/syncstorage-rs-docker) - Simple Docker packaging for the Mozilla Firefox sync server
 - [Edu4rdSHL/fly-to-podman](https://github.com/Edu4rdSHL/fly-to-podman) - Migrate from Docker to Podman.
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Ultimate curated list of best root apps, Magisk/KernelSU/APtach/KernelSU-Next/Sukisu-Ultra & LSPosed(Xposed) modules & step-by-step rooting guides to control, boost performance, debloat & customize yo
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Ultimate collection of 280+ curated Android root apps, Magisk/KernelSU/LSPosed modules, and step-by-step rooting guides.
 - [reiryuki/Google-App-Magisk-Module](https://github.com/reiryuki/Google-App-Magisk-Module) - 
 - [dr460nf1r3/rooted-graphene](https://github.com/dr460nf1r3/rooted-graphene) - GrapheneOS for Pixel 6, rooted and served via its own OTA server on GitHub pages 💣
 - [schnatterer/rooted-graphene](https://github.com/schnatterer/rooted-graphene) - GrapheneOS rooted and served via its own OTA server on GitHub pages
