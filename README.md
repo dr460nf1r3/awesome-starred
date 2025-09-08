@@ -178,6 +178,7 @@
 
 ## C# # 
 
+- [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
@@ -200,6 +201,7 @@
 
 ## C++ 
 
+- [ptrpaws/xeus-lix](https://github.com/ptrpaws/xeus-lix) - a native jupyter kernel for the nix language
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
@@ -406,6 +408,7 @@
 
 ## Go 
 
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
 - [LumePart/Explo](https://github.com/LumePart/Explo) - Spotify's "Discover Weekly" for self-hosted music systems
@@ -709,7 +712,6 @@
 - [tiagozip/cap](https://github.com/tiagozip/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 - [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 - [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [Nelwhix/go-npm](https://github.com/Nelwhix/go-npm) - Distribute and install Go binaries via NPM
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [rehypejs/rehype-minify](https://github.com/rehypejs/rehype-minify) - plugins to minify HTML
@@ -998,7 +1000,6 @@
 - [timewave-computer/sopsidy](https://github.com/timewave-computer/sopsidy) - Script based generation of sops files for sops-nix
 - [pfassina/sopswarden](https://github.com/pfassina/sopswarden) - SOPS secrets management integrated with Bitwarden for NixOS
 - [gepbird/nixpkgs-patcher](https://github.com/gepbird/nixpkgs-patcher) - Using nixpkgs pull requests that haven't landed into your channel has never been easier!
-- [xiv3r/Burpsuite-Professional](https://github.com/xiv3r/Burpsuite-Professional) - Latest Burpsuite Professional Version 2025.x.x
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - Systemd + Nix dotfile management
 - [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix) - Manages Podman containers and networks on NixOS via Quadlet.
@@ -1567,6 +1568,7 @@
 
 ## Rust 
 
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [cachix/cloud.devenv.sh](https://github.com/cachix/cloud.devenv.sh) - What if GitHub Actions were local-first and built using Nix?
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -1598,6 +1600,7 @@
 - [uutils/diffutils](https://github.com/uutils/diffutils) - Drop-in replacement of diffutils in Rust
 - [uutils/findutils](https://github.com/uutils/findutils) - Rust implementation of findutils
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
 - [tgirlcloud/lix-diff](https://github.com/tgirlcloud/lix-diff) - 
@@ -1810,6 +1813,7 @@
 - [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Exploring the integration between Nix and AI coding agents
 - [IHATEGIVINGAUSERNAME/theProtector](https://github.com/IHATEGIVINGAUSERNAME/theProtector) - Linux Bash Script for the Paranoid Admin on a Budget - real-time monitoring and active threat response
 - [ishad0w/amvm](https://github.com/ishad0w/amvm) - Ansible with Mitogen Version Manager
+- [xiv3r/Burpsuite-Professional](https://github.com/xiv3r/Burpsuite-Professional) - Latest Burpsuite Professional Version 2025.x.x
 - [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) - GitHub action for ShellCheck.
 - [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
