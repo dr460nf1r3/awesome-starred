@@ -460,6 +460,7 @@
 
 ## angular 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [TailAdmin/free-angular-tailwind-dashboard](https://github.com/TailAdmin/free-angular-tailwind-dashboard) - Free, open-source admin dashboard template crafted with Angular and Tailwind CSS. Includes essential UI components, elements, and pre-built pages to create a sleek, modern admin panel and dashboard wi
 - [ng-openapi/ng-openapi](https://github.com/ng-openapi/ng-openapi) - Angular OpenAPI Client Generator
 - [ngxtension/ngxtension-platform](https://github.com/ngxtension/ngxtension-platform) - Utilities for Angular
@@ -715,6 +716,7 @@
 
 ## backend 
 
+- [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments.
 - [niraj-khatiwada/ultimate-nestjs-boilerplate](https://github.com/niraj-khatiwada/ultimate-nestjs-boilerplate) - Advanced Nest.js boilerplate for scalable startups⚡
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [mnfst/manifest](https://github.com/mnfst/manifest) - Portable backend to ship fast.
@@ -884,6 +886,7 @@
 
 ## cli 
 
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
 - [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts
@@ -1541,12 +1544,14 @@
 
 ## framework 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [analogjs/analog](https://github.com/analogjs/analog) - The fullstack meta-framework for Angular. Powered by Vite and Nitro
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 
 ## frontend 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -2071,6 +2076,7 @@
 
 ## ios 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [ChefKissInc/QEMUAppleSilicon](https://github.com/ChefKissInc/QEMUAppleSilicon) - Apple Silicon devices emulated on QEMU, currently only iPhone 11.
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
@@ -2133,6 +2139,9 @@
 
 ## javascript 
 
+- [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+- [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments.
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
@@ -2560,6 +2569,7 @@
 
 ## macos 
 
+- [kushalpandya/Petrichor](https://github.com/kushalpandya/Petrichor) - An offline macOS music player
 - [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
@@ -2661,6 +2671,7 @@
 
 ## material-design 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [mostafaalagamy/Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [dmnsgn/typedoc-material-theme](https://github.com/dmnsgn/typedoc-material-theme) - A TypeDoc theme based on Material 3.
@@ -2707,6 +2718,7 @@
 
 ## mobile 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [DanielRendox/RoutineTracker](https://github.com/DanielRendox/RoutineTracker) - An Android planner calendar app and a habit tracker that aims to simplify scheduling consistent activities and tracking your progress.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
@@ -2831,6 +2843,7 @@
 
 ## node 
 
+- [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments.
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
@@ -2842,6 +2855,7 @@
 
 ## nodejs 
 
+- [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments.
 - [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
@@ -2997,6 +3011,8 @@
 
 ## others 
 
+- [losfair/bake](https://github.com/losfair/bake) - Bake microVMs into standalone executables
+- [oddlama/nix-fingerprint](https://github.com/oddlama/nix-fingerprint) - Fingerprints the underlying system by only using primitives available in pure evaluation mode
 - [ptrpaws/xeus-lix](https://github.com/ptrpaws/xeus-lix) - a native jupyter kernel for the nix language
 - [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
 - [cachix/cloud.devenv.sh](https://github.com/cachix/cloud.devenv.sh) - What if GitHub Actions were local-first and built using Nix?
@@ -3045,7 +3061,7 @@
 - [timewave-computer/sopsidy](https://github.com/timewave-computer/sopsidy) - Script based generation of sops files for sops-nix
 - [maitrungduc1410/node-scp-async](https://github.com/maitrungduc1410/node-scp-async) - 🚀Lightweight, fast and secure SCP functions for NodeJS
 - [pfassina/sopswarden](https://github.com/pfassina/sopswarden) - SOPS secrets management integrated with Bitwarden for NixOS
-- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Kingfisher is a blazingly fast tool for secret detection and live validation across files, Git repos, S3, Docker images, Jira, and Confluence
+- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Kingfisher is a blazingly fast tool for secret detection and live validation across files, Git repos, S3, Docker images, Jira, Slack, and Confluence
 - [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq) - A high-performance and efficient message queue developed   in Rust
 - [berkaytumal/FxFilterJS](https://github.com/berkaytumal/FxFilterJS) - 
 - [gepbird/nixpkgs-patcher](https://github.com/gepbird/nixpkgs-patcher) - Using nixpkgs pull requests that haven't landed into your channel has never been easier!
@@ -3512,7 +3528,7 @@
 - [dr460nf1r3/school](https://github.com/dr460nf1r3/school) - Projects I had to complete for school 👨🏻‍🎓
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) - A browser AI agent, using GPT-4
-- [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
+- [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer
 - [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - [fafrd/aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -3612,7 +3628,7 @@
 - [iiordanov/remote-desktop-clients](https://github.com/iiordanov/remote-desktop-clients) - VNC, RDP, SPICE, and oVirt/RHEV/Proxmox Clients for Android and Blackberry 10
 - [thewierdnut/endless-mobile](https://github.com/thewierdnut/endless-mobile) - Space exploration, trading, and combat game.
 - [snowfallorg/nix-software-center](https://github.com/snowfallorg/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages
-- [lbonn/rofi](https://github.com/lbonn/rofi) - Rofi: A window switcher, run dialog and dmenu replacement - fork with wayland support
+- [lbonn/rofi](https://github.com/lbonn/rofi) - [Historical wayland fork - see davatorium/rofi!] Rofi: A window switcher, run dialog and dmenu replacement
 - [tanabe/markdown-live-preview](https://github.com/tanabe/markdown-live-preview) - markdown editor with live preview
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
@@ -3979,6 +3995,7 @@
 
 ## pwa 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
@@ -3986,6 +4003,7 @@
 
 ## python 
 
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [EbbLabs/python-tidal](https://github.com/EbbLabs/python-tidal) - Python API for TIDAL music streaming service
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -4116,6 +4134,7 @@
 
 ## react 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
@@ -4793,6 +4812,7 @@
 
 ## typescript 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [TailAdmin/free-angular-tailwind-dashboard](https://github.com/TailAdmin/free-angular-tailwind-dashboard) - Free, open-source admin dashboard template crafted with Angular and Tailwind CSS. Includes essential UI components, elements, and pre-built pages to create a sleek, modern admin panel and dashboard wi
 - [ng-openapi/ng-openapi](https://github.com/ng-openapi/ng-openapi) - Angular OpenAPI Client Generator
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
@@ -4922,6 +4942,7 @@
 
 ## vue 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
@@ -4946,6 +4967,7 @@
 
 ## web 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [orhun/ratzilla](https://github.com/orhun/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
