@@ -195,6 +195,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
@@ -266,6 +267,7 @@
 - [xamarin](#xamarin)
 - [xcode](#xcode)
 - [zig](#zig)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -349,7 +351,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
-- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android
+- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 250k times
 - [devhyper/open-video-editor](https://github.com/devhyper/open-video-editor) - Open source Android video editor, built with Media3 and Jetpack Compose.
 - [Futsch1/medTimer](https://github.com/Futsch1/medTimer) - MedTimer Android app
 - [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
@@ -989,6 +991,7 @@
 
 ## computer-science 
 
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
 ## config 
@@ -1257,6 +1260,7 @@
 
 ## docker 
 
+- [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
@@ -1681,6 +1685,7 @@
 
 ## go 
 
+- [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
@@ -1728,6 +1733,7 @@
 
 ## golang 
 
+- [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
@@ -2267,7 +2273,7 @@
 - [bitwarden/authenticator-android](https://github.com/bitwarden/authenticator-android) - The Bitwarden Authenticator app moved to https://github.com/bitwarden/android !
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
 - [BinTianqi/OwnDroid](https://github.com/BinTianqi/OwnDroid) - 使用安卓Device owner特权管理你的设备。Use Android Device owner privilege to manage your device.
-- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android
+- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 250k times
 - [Futsch1/medTimer](https://github.com/Futsch1/medTimer) - MedTimer Android app
 - [zhanghai/Untracker](https://github.com/zhanghai/Untracker) - App to help you remove tracking information before sharing links
 - [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
@@ -2727,7 +2733,7 @@
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - Custom server software for Minecraft: Bedrock, built from scratch in PHP, C and C++
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [xCollateral/VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
-- [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.
+- [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
 - [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 
@@ -3109,7 +3115,6 @@
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - Systemd + Nix dotfile management
 - [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 - [uutils/diffutils](https://github.com/uutils/diffutils) - Drop-in replacement of diffutils in Rust
-- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [alexjp/env-dedup](https://github.com/alexjp/env-dedup) - Deduplicate the environment variables values
 - [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix) - Manages Podman containers and networks on NixOS via Quadlet.
@@ -4010,6 +4015,10 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+
+## programming-language 
+
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## project-management 
 
@@ -5115,6 +5124,26 @@
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
+## zsh 
+
+- [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
+- [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
+- [iffse/pay-respects](https://github.com/iffse/pay-respects) - Command suggestions, command-not-found and thefuck replacement written in Rust
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
+- [andyrichardson/zsh-node-path](https://github.com/andyrichardson/zsh-node-path) - ZSH plugin for automatically adding the "npm bin" of your current directory to your path.
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~32,000 clones by ~21,000 unique cloners as of May '25, and averaging ~60-70 Homebrew installs monthly since June 2023
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
+- [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
+- [kazhala/dotbare](https://github.com/kazhala/dotbare) - Manage dotfiles and any git directories interactively with fzf
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 
 
 ## License
