@@ -315,6 +315,7 @@
 
 ## android 
 
+- [revenge-mod/revenge-manager](https://github.com/revenge-mod/revenge-manager) - 🤖 Application to use Revenge on Android
 - [WSTxda/MicroG-RE](https://github.com/WSTxda/MicroG-RE) - GmsCore fork for ReVanced with Material 3 Expressive design, enhanced features, and improvements
 - [PerformanC/ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -913,7 +914,7 @@
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a secure dotenv–from the creator of `dotenv`
 - [xplshn/dbin](https://github.com/xplshn/dbin) - 📦 Poor man's package manager. +4164 statically linked binaries in the default repos (amd64/arm64/riscv)! The easy to use, easy to get, suckless software distribution system.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~32,000 clones by ~21,000 unique cloners as of May '25, and averaging ~60-70 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~38,000 clones by ~25,000 unique cloners as of September '25, and averaging ~60-70 Homebrew installs monthly since June 2023
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [cococonscious/koji](https://github.com/cococonscious/koji) - 🦊 An interactive CLI for creating conventional commits.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -1255,6 +1256,7 @@
 
 ## discord 
 
+- [revenge-mod/revenge-manager](https://github.com/revenge-mod/revenge-manager) - 🤖 Application to use Revenge on Android
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle) - 👊 Discord, your way. Revenge is a client modification for Discord mobile.
 - [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
@@ -1384,6 +1386,7 @@
 
 ## dotfiles 
 
+- [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
 - [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [kayozxo/GNOME-macOS-Tahoe](https://github.com/kayozxo/GNOME-macOS-Tahoe) - MacOS Tahoe inspired theme for GNOME
@@ -2281,6 +2284,7 @@
 
 ## kotlin 
 
+- [revenge-mod/revenge-manager](https://github.com/revenge-mod/revenge-manager) - 🤖 Application to use Revenge on Android
 - [BobbyESP/Spowlo](https://github.com/BobbyESP/Spowlo) - A Spotify songs downloader for Android made with Jetpack Compose, Material You and the spotDL Python library
 - [MMRLApp/MMRL](https://github.com/MMRLApp/MMRL) - A app for managing, sharing, and exploring Magisk modules across repositories
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
@@ -2972,7 +2976,6 @@
 
 ## open-source 
 
-- [crbnos/carbon](https://github.com/crbnos/carbon) - Carbon is a modern ERP/MES/QMS. Perfect for complex assembly, job shops, and configure to order manufacturing.
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
@@ -3130,7 +3133,7 @@
 - [Edu4rdSHL/based.fish](https://github.com/Edu4rdSHL/based.fish) - Context-based autocompletion for the Fish shell
 - [nullpwntrops/simple-auth-backend](https://github.com/nullpwntrops/simple-auth-backend) - This is a comprehensive starter kit built using the NestJS framework and TypeScript featuring JWT authentication, 2FA support, enhanced security, database integration, and many more.
 - [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) - Official container images for .NET
-- [viperML/nix-maid](https://github.com/viperML/nix-maid) - Systemd + Nix dotfile management
+- [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 - [uutils/diffutils](https://github.com/uutils/diffutils) - Drop-in replacement of diffutils in Rust
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
@@ -4217,6 +4220,7 @@
 
 ## react-native 
 
+- [revenge-mod/revenge-manager](https://github.com/revenge-mod/revenge-manager) - 🤖 Application to use Revenge on Android
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [revenge-mod/revenge-bundle](https://github.com/revenge-mod/revenge-bundle) - 👊 Discord, your way. Revenge is a client modification for Discord mobile.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
@@ -4288,6 +4292,7 @@
 
 ## rust 
 
+- [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -4563,6 +4568,7 @@
 
 ## server 
 
+- [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
 - [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, memory-safe web server written in Rust.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [lollipopkit/server_box_monitor](https://github.com/lollipopkit/server_box_monitor) - ServerBox on server end.
@@ -4589,7 +4595,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~32,000 clones by ~21,000 unique cloners as of May '25, and averaging ~60-70 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~38,000 clones by ~25,000 unique cloners as of September '25, and averaging ~60-70 Homebrew installs monthly since June 2023
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [qwefgh90/ng-terminal](https://github.com/qwefgh90/ng-terminal) - NgTerminal is a terminal component on Angular. the Ivy distribution's been released from v5.0.0.
@@ -5154,7 +5160,7 @@
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [andyrichardson/zsh-node-path](https://github.com/andyrichardson/zsh-node-path) - ZSH plugin for automatically adding the "npm bin" of your current directory to your path.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~32,000 clones by ~21,000 unique cloners as of May '25, and averaging ~60-70 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~38,000 clones by ~25,000 unique cloners as of September '25, and averaging ~60-70 Homebrew installs monthly since June 2023
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
