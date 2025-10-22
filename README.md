@@ -88,6 +88,7 @@
 
 - [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [Leaked0/Ghost-Toolbox](https://github.com/Leaked0/Ghost-Toolbox) - 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
@@ -1315,7 +1316,6 @@
 - [rgl/windows-vagrant](https://github.com/rgl/windows-vagrant) - Windows 11/2022/2025 Base Vagrant Box (https://app.vagrantup.com/rgl)
 - [Set-OutlookSignatures/Set-OutlookSignatures](https://github.com/Set-OutlookSignatures/Set-OutlookSignatures) - Email signatures and out-of-office replies for Exchange and Outlook. Full-featured, cost-effective, unsurpassed data privacy.
 - [chocolatey-community/chocolatey-packages](https://github.com/chocolatey-community/chocolatey-packages) - Chocolatey Community Maintainers Team Packages - packages that are managed and maintained by core community team for community package repository (https://community.chocolatey.org/packages)
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [Insprill/nexusmods-no-premium](https://github.com/Insprill/nexusmods-no-premium) - A simple Firefox/Chrome extension to block NexusMods' Premium advertisements
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [captainqwerty/AutomatedOutlookSignature](https://github.com/captainqwerty/AutomatedOutlookSignature) - PowerShell script to automate the creation of Outlook signatures using Active Directory attributes.
@@ -1356,7 +1356,7 @@
 - [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - An all-in-one LLMs Chat UI for Apple Silicon Mac using MLX Framework.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
-- [mr-fatalyst/fastopenapi](https://github.com/mr-fatalyst/fastopenapi) - FastOpenAPI is a library for generating and integrating OpenAPI schemas using Pydantic v2 and various frameworks (AioHttp, Falcon, Flask, Quart, Sanic, Starlette, Tornado).
+- [mr-fatalyst/fastopenapi](https://github.com/mr-fatalyst/fastopenapi) - FastOpenAPI is a library for generating and integrating OpenAPI schemas using Pydantic v2 and various frameworks (AioHttp, Django, Falcon, Flask, Quart, Sanic, Starlette, Tornado).
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
@@ -1601,7 +1601,7 @@
 - [plabayo/tokio-graceful](https://github.com/plabayo/tokio-graceful) - Graceful shutdown util for Rust projects using the Tokio Async runtime.
 - [ranfdev/DistroShelf](https://github.com/ranfdev/DistroShelf) - gtk4 client for https://distrobox.it
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
 - [nginx/nginx-acme](https://github.com/nginx/nginx-acme) - An NGINX module with the implementation of the automatic certificate management (ACMEv2) protocol
 - [JoshuaPostel/texaform](https://github.com/JoshuaPostel/texaform) - A factory game automated by your code
 - [a-kenji/sizelint](https://github.com/a-kenji/sizelint) - Lint your file tree based on file sizes
