@@ -641,7 +641,6 @@
 - [CyanChanges/Sui](https://github.com/CyanChanges/Sui) - Modern super user interface implementation on Android.
 - [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 - [AyuGram/AyuGram4A](https://github.com/AyuGram/AyuGram4A) - Just an exteraGram based client with ToS breaking features in mind.
-- [xoureldeen/Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 - [labnex/LabNex](https://github.com/labnex/LabNex) - LabNex is an open-source Android app designed for managing GitLab projects
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
@@ -733,7 +732,7 @@
 - [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) - CORS "anywhere" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/
 - [FoxRefire/ChromeXPIPorter](https://github.com/FoxRefire/ChromeXPIPorter) - Install Chrome extension to Floorp/Firefox Nightly/Librewolf
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [arjpar/WebShield](https://github.com/arjpar/WebShield) - A new wide-spectrum content blocker for Safari designed to be performant, efficient, and effective.
+- [diodebyte/WebShield](https://github.com/diodebyte/WebShield) - A new wide-spectrum content blocker for Safari designed to be performant, efficient, and effective.
 - [persiliao/axios-tauri-api-adapter](https://github.com/persiliao/axios-tauri-api-adapter) - Simplifies the use of Axios in Tauri App
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 - [medialab/hyphe](https://github.com/medialab/hyphe) - Websites crawler with built-in exploration and control web interface
@@ -997,7 +996,7 @@
 ## Nix 
 
 - [Lillecarl/flake-compatish](https://github.com/Lillecarl/flake-compatish) - Flake-compat for modern Nix implementations and people who agree evaluating from store is dumber than DJT :)
-- [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - NixOS configuration files with flakes.
+- [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - NixOS configuration files and dotfiles with flakes.
 - [AniviaFlome/nix-config](https://github.com/AniviaFlome/nix-config) - My Nixos Config
 - [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
 - [oddlama/nix-fingerprint](https://github.com/oddlama/nix-fingerprint) - Fingerprints the underlying system by only using primitives available in pure evaluation mode
@@ -1438,7 +1437,7 @@
 - [lflare/lemmy-subscriber-bot](https://github.com/lflare/lemmy-subscriber-bot) - Lemmy Subscriber Bot (LSB) for easy community federation :)
 - [NicklasVraa/Color-manager](https://github.com/NicklasVraa/Color-manager) - Recolor icon packs, themes, wallpapers and assets with a few clicks or lines of code.
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍 (For more advanced: check Qodo Merge)
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, Threa
