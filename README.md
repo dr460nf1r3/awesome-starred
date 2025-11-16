@@ -203,6 +203,7 @@
 
 ## C++ 
 
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [ptrpaws/xeus-lix](https://github.com/ptrpaws/xeus-lix) - a native jupyter kernel for the nix language
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
@@ -221,7 +222,7 @@
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [SneWs/tail-tray](https://github.com/SneWs/tail-tray) - Tailscale tray menu and UI for the KDE Plasma Desktop
 - [taj-ny/InputActions](https://github.com/taj-ny/InputActions) - Linux utility for binding keyboard/mouse/touchpad actions to system actions
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.5.64270, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.5.64395, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [SonyaCore/SonyGramDesktop](https://github.com/SonyaCore/SonyGramDesktop) - Desktop Telegram client with good customization and Ghost mode (ReCoil).
 - [mandarine3ds/mandarine](https://github.com/mandarine3ds/mandarine) - A Citra fork with new features and hacks which are experimental and may not be present upstream
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
@@ -1330,7 +1331,6 @@
 ## Python 
 
 - [smarkets/marge-bot](https://github.com/smarkets/marge-bot) - A merge-bot for GitLab
-- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [Matars/gitfetch](https://github.com/Matars/gitfetch) - A neofetch alternative for GitHub quick view
 - [sirbread/spellscript](https://github.com/sirbread/spellscript) - esotoric programming language that's read like a spellbook
 - [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
