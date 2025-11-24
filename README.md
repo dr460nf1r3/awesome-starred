@@ -1008,7 +1008,6 @@
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [jeff-hykin/better-nix-syntax](https://github.com/jeff-hykin/better-nix-syntax) - 💾 📦✅ Better syntax highlighting for nix in VS Code
 - [cachix/devenv-ai-agents](https://github.com/cachix/devenv-ai-agents) - A collection of specialized Claude Code agents composed using https://devenv.sh
-- [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Exploring the integration between Nix and AI coding agents
 - [xddxdd/nix-math](https://github.com/xddxdd/nix-math) - Experimental mathematical library in pure Nix, using no external library.
 - [mwlaboratories/phoneputer](https://github.com/mwlaboratories/phoneputer) - nixos on your phone
 - [cpick/nix-rosetta-builder](https://github.com/cpick/nix-rosetta-builder) - 
@@ -1343,6 +1342,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [edward-jazzhands/cloctui](https://github.com/edward-jazzhands/cloctui) - A TUI interface for CLOC (Count Lines of Code)
+- [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Exploring the integration between Nix and AI coding agents
 - [haidaraM/ansible-playbook-grapher](https://github.com/haidaraM/ansible-playbook-grapher) - A command line tool to create a graph representing your Ansible playbook tasks and roles
 - [Mic92/flake-fmt](https://github.com/Mic92/flake-fmt) - A smart formatter wrapper for Nix flakes
 - [EbodShojaei/bake](https://github.com/EbodShojaei/bake) - mbake is a Makefile formatter and linter. It only took 50 years!
