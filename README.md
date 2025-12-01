@@ -376,7 +376,7 @@
 - [vedfi/mondroid](https://github.com/vedfi/mondroid) - Mongodb Client w/ Flutter
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [mgvora/gitplus_for_gitlab](https://github.com/mgvora/gitplus_for_gitlab) - Git+ is your ultimate GitLab mobile app that lets you interact with your projects like as if you were using desktop.
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for macOS, Windows, GNU/Linux & Android.
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
 - [Merrit/nyrna](https://github.com/Merrit/nyrna) - Suspend games and applications.
@@ -2060,6 +2060,7 @@
 
 ## TypeScript 
 
+- [fox1t/fastify-multer](https://github.com/fox1t/fastify-multer) - Fastify plugin for handling multipart/form-data
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
@@ -2126,7 +2127,7 @@
 - [mnfst/manifest](https://github.com/mnfst/manifest) - Portable backend to ship fast.
 - [garuda-linux/rani](https://github.com/garuda-linux/rani) - Replacement for a handful of Garuda applications. Currently implements Welcome, Assistant and Gamer (mirrored from GitLab)
 - [crabnebula-dev/devtools](https://github.com/crabnebula-dev/devtools) - Inspect and Debug your Tauri applications in style 💃
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🚀 An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours.
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [agmmnn/tauri-controls](https://github.com/agmmnn/tauri-controls) - 🚥 Native-looking window controls for Tauri 2. React, Solid, Vue, Svelte+Tailwind.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and stringifier for JavaScript
