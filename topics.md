@@ -3187,6 +3187,7 @@
 
 ## others 
 
+- [thomasorgeval/ngx-better-auth](https://github.com/thomasorgeval/ngx-better-auth) - Better Auth client side implementation for Angular
 - [fox1t/fastify-multer](https://github.com/fox1t/fastify-multer) - Fastify plugin for handling multipart/form-data
 - [xarblu/kwin-effects-better-blur-dx](https://github.com/xarblu/kwin-effects-better-blur-dx) - Fork of the Plasma 6 blur effect with additional features (including force blur) and bug fixes.
 - [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) - Gemini CLI Tips and Tricks
@@ -3236,7 +3237,7 @@
 - [tgirlcloud/locker](https://github.com/tgirlcloud/locker) - a linter for your flake.lock file
 - [you-apps/TransportYou](https://github.com/you-apps/TransportYou) - Privacy focused public transport app built with MD3
 - [singerscreations/discourse-stopforumspam](https://github.com/singerscreations/discourse-stopforumspam) - 
-- [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools) - Nix packages for AI coding agents and development tools. Automatically updated daily.
+- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [IHATEGIVINGAUSERNAME/theProtector](https://github.com/IHATEGIVINGAUSERNAME/theProtector) - Linux Bash Script for the Paranoid Admin on a Budget - real-time monitoring and active threat response
 - [alexmaisa/tailscale-protonvpn-exitnode](https://github.com/alexmaisa/tailscale-protonvpn-exitnode) - A docker-compose setup for creating an encrypted VPN connection using Tailscale and ProtonVPN.
 - [ksz-ksz/rxjs-insights](https://github.com/ksz-ksz/rxjs-insights) - See through the observables.
