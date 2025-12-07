@@ -444,6 +444,7 @@
 - [prathameshmm02/Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) - Calculator & Converter for Android
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for macOS, Windows, GNU/Linux & Android.
+- [shmykelsa/AAAD](https://github.com/shmykelsa/AAAD) - The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
 - [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
@@ -1341,6 +1342,7 @@
 
 ## docker 
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
@@ -2233,6 +2235,7 @@
 
 ## iot 
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [Thymis-io/thymis](https://github.com/Thymis-io/thymis) - Web-based platform for configuring, provisioning, updating, and monitoring (IoT-)devices and systems, powered by NixOS
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 
@@ -3187,6 +3190,7 @@
 
 ## others 
 
+- [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [thomasorgeval/ngx-better-auth](https://github.com/thomasorgeval/ngx-better-auth) - Better Auth client side implementation for Angular
 - [fox1t/fastify-multer](https://github.com/fox1t/fastify-multer) - Fastify plugin for handling multipart/form-data
 - [xarblu/kwin-effects-better-blur-dx](https://github.com/xarblu/kwin-effects-better-blur-dx) - Fork of the Plasma 6 blur effect with additional features (including force blur) and bug fixes.
@@ -3849,7 +3853,6 @@
 - [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)
 - [Barre/privaxy](https://github.com/Barre/privaxy) - Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Also check out my new project, https://github.com/Barre/ZeroFS
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
-- [shmykelsa/AAAD](https://github.com/shmykelsa/AAAD) - 
 - [holoiso-eol/holoiso](https://github.com/holoiso-eol/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus
 - [chaotic-aur/chaotic-aur-ansible](https://github.com/chaotic-aur/chaotic-aur-ansible) - Ansible role used to bootstrap primary and cluster nodes 👨🏻‍💻
@@ -4681,6 +4684,7 @@
 
 ## self-hosted 
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
 - [LumePart/Explo](https://github.com/LumePart/Explo) - Spotify's "Discover Weekly" for self-hosted music systems
