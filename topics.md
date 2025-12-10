@@ -3232,7 +3232,7 @@
 - [angular-architects/module-federation-plugin](https://github.com/angular-architects/module-federation-plugin) - 
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [nginx/nginx-acme](https://github.com/nginx/nginx-acme) - An NGINX module with the implementation of the automatic certificate management (ACMEv2) protocol
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [edward-jazzhands/cloctui](https://github.com/edward-jazzhands/cloctui) - A TUI interface for CLOC (Count Lines of Code)
