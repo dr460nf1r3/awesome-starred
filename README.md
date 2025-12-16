@@ -93,7 +93,6 @@
 - [Leaked0/Ghost-Toolbox](https://github.com/Leaked0/Ghost-Toolbox) - 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
-- [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 
 ## C 
@@ -226,7 +225,7 @@
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [SneWs/tail-tray](https://github.com/SneWs/tail-tray) - Tailscale tray menu and UI for the KDE Plasma Desktop
 - [taj-ny/InputActions](https://github.com/taj-ny/InputActions) - Linux utility for binding keyboard/mouse/touchpad actions to system actions
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.5.64502, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.7.64877, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [SonyaCore/SonyGramDesktop](https://github.com/SonyaCore/SonyGramDesktop) - Desktop Telegram client with good customization and Ghost mode (ReCoil).
 - [mandarine3ds/mandarine](https://github.com/mandarine3ds/mandarine) - A Citra fork with new features and hacks which are experimental and may not be present upstream
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
@@ -234,7 +233,6 @@
 - [agracio/edge-js](https://github.com/agracio/edge-js) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [matinlotfali/KDE-Rounded-Corners](https://github.com/matinlotfali/KDE-Rounded-Corners) - Rounds the corners of your windows in KDE Plasma 5 and 6
 - [NerdLang/nerd](https://github.com/NerdLang/nerd) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
@@ -686,7 +684,7 @@
 - [iiordanov/remote-desktop-clients](https://github.com/iiordanov/remote-desktop-clients) - VNC, RDP, SPICE, and oVirt/RHEV/Proxmox Clients for Android and Blackberry 10
 - [open-keychain/open-keychain](https://github.com/open-keychain/open-keychain) - OpenKeychain is an OpenPGP implementation for Android.
 - [Divested-Mobile/Hypatia](https://github.com/Divested-Mobile/Hypatia) - A realtime malware scanner
-- [GrapheneOS/Auditor](https://github.com/GrapheneOS/Auditor) - Hardware-based attestation / intrusion detection app for Android devices. It provides both local verification with another Android device via QR codes and optional scheduled server-based verification 
+- [GrapheneOS/Auditor](https://github.com/GrapheneOS/Auditor) - Hardware-based attestation and intrusion detection app for Android. It provides both local verification with another Android device via QR codes and optional scheduled server-based verification with s
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [null-dev/UniversalAuth](https://github.com/null-dev/UniversalAuth) - Add custom auth options (e.g. face unlock) to your phone using Xposed.
 - [shmykelsa/AAAD](https://github.com/shmykelsa/AAAD) - The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.
@@ -764,6 +762,7 @@
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder) - A comprehensive firefox profile, themes, userCSS and userChrome builder
 - [snowfallorg/frost](https://github.com/snowfallorg/frost) - Generate documentation for Nix Flakes.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [postalsys/imapflow](https://github.com/postalsys/imapflow) - IMAP Client library for EmailEngine Email API (https://emailengine.app)
 - [flathub/org.garudalinux.firedragon](https://github.com/flathub/org.garudalinux.firedragon) - 
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
@@ -833,7 +832,7 @@
 - [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
 - [dothq/browser-desktop](https://github.com/dothq/browser-desktop) - Dot Browser for Windows, macOS and Linux
 - [shukriadams/arewedown](https://github.com/shukriadams/arewedown) - Simple, customizable HTTP uptime and status checking service.
-- [pop-os/cosmic](https://github.com/pop-os/cosmic) - GNOME Shell extension. See cosmic-epoch for COSMIC Epoch
+- [pop-os/gnome-shell-extension-pop-cosmic](https://github.com/pop-os/gnome-shell-extension-pop-cosmic) - GNOME Shell extension. See cosmic-epoch for COSMIC Epoch
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [teddit-net/teddit](https://github.com/teddit-net/teddit) - alternative Reddit front-end focused on privacy https://teddit.net
 - [james-fray/local-cdn](https://github.com/james-fray/local-cdn) - WebExtension implementation of Decentraleyes project: Local emulation of Content Delivery Networks
@@ -2070,6 +2069,8 @@
 
 ## TypeScript 
 
+- [jmcdo29/nest-lab](https://github.com/jmcdo29/nest-lab) - A repository to hold "experimental" packages for Nest. Honestly, I'm just tired of not having a good scope to put packages under :smile_cat:
+- [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 - [veegres/ivory](https://github.com/veegres/ivory) - Ivory is designed to simplify and visualise work with Postgres clusters. It provides patroni management ui and postgres query builder.
 - [gparlakov/scuri](https://github.com/gparlakov/scuri) - Automate Angular unit test and boilerplate with this schematic.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
