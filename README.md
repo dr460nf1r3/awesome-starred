@@ -693,7 +693,7 @@
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [microg/UnifiedNlp](https://github.com/microg/UnifiedNlp) - Alternative network location provider for Android, with plugin interface to easily integrate third-party location providers.
 - [GrapheneOS/Camera](https://github.com/GrapheneOS/Camera) - Modern camera app focused on privacy and security with QR & barcode scanning.
-- [appml/neutrinote](https://github.com/appml/neutrinote) - neutriNote - the original Markdown + Math note app.  Also the first programmatically extensible note app for advanced users.  Non-commerical.  No lock-ins.  Only 3 MB footprint & highly optimized.  De
+- [appml/neutrinote](https://github.com/appml/neutrinote) - neutriNote - the original Markdown + Math note app.  First-ever programmatically extensible note app for advanced workflows.  Sync-ready note storage. Non-commerical.  No lock-ins.  Only 3 MB footprin
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [Docile-Alligator/Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -1647,7 +1647,7 @@
 - [uutils/diffutils](https://github.com/uutils/diffutils) - Drop-in replacement of diffutils in Rust
 - [uutils/findutils](https://github.com/uutils/findutils) - Rust implementation of findutils
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
 - [tgirlcloud/lix-diff](https://github.com/tgirlcloud/lix-diff) - 
