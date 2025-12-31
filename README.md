@@ -412,6 +412,7 @@
 
 ## Go 
 
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
 - [aquasecurity/trivy-db](https://github.com/aquasecurity/trivy-db) - 
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
@@ -647,7 +648,6 @@
 - [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
 - [Mahmud0808/ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - An Android app for customizing Material You colors on devices with Android 12+. It lets you tweak accent colors, background saturation, and more for a personalized look.
 - [NixOS/nix-idea](https://github.com/NixOS/nix-idea) - Nix plugin for the IntelliJ IDEA IDE
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
 - [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
@@ -954,7 +954,7 @@
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
 - [KieronQuinn/DarQ](https://github.com/KieronQuinn/DarQ) - DarQ provides a per-app selectable force dark option for Android 10 and above
 - [Tobi823/ffupdater](https://github.com/Tobi823/ffupdater) - FFUpdater: Updater for privacy friendly browser
-- [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Adds themed icons to Lawnchair.
+- [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Monochrome outlined brand icons for Android launchers.
 - [SchildiChat/SchildiChat-android](https://github.com/SchildiChat/SchildiChat-android) - Matrix client / Element Android fork
 - [msoultanidis/quillnote](https://github.com/msoultanidis/quillnote) - Take beautiful markdown notes and stay organized with task lists.
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
@@ -1062,7 +1062,7 @@
 - [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]
 - [8bitbuddhist/nix-configuration](https://github.com/8bitbuddhist/nix-configuration) - UNMAINTAINED: I'm migrating to Codeberg. Use the link below for the latest version.
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - my over complex system configurations
 - [nix-community/dns.nix](https://github.com/nix-community/dns.nix) - A Nix DSL for DNS zone files [maintainers=@raitobezarius @kirelagin @Tom-Hubrecht]
 - [lilyinstarlight/nixos-cosmic](https://github.com/lilyinstarlight/nixos-cosmic) - Flake for using COSMIC on NixOS
 - [kampka/nix-flake-crowdsec](https://github.com/kampka/nix-flake-crowdsec) - A nix flake for running Crowdsec on NixOS
@@ -1443,7 +1443,7 @@
 - [lflare/lemmy-subscriber-bot](https://github.com/lflare/lemmy-subscriber-bot) - Lemmy Subscriber Bot (LSB) for easy community federation :)
 - [NicklasVraa/Color-manager](https://github.com/NicklasVraa/Color-manager) - Recolor icon packs, themes, wallpapers and assets with a few clicks or lines of code.
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent — The Original Open-Source PR Reviewer This repo is not the Qodo free tier. Try the free version on our website.
+- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR Agent - The Original Open-Source PR Reviewer, This repo is not the Qodo free tier! Try the free version on our website.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview) - Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, Threa
@@ -1892,7 +1892,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [alexdesousa/hab](https://github.com/alexdesousa/hab) - Oh My ZSH plugin for loading OS environment automatically
 - [sroze/docker-compose-zsh-plugin](https://github.com/sroze/docker-compose-zsh-plugin) - ZSH plugin that display status of project containers
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~38,000 clones by ~25,000 unique cloners as of October '25, and averaging ~60-70 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - Zsh-abbr brings auto-expanding abbreviations to your zsh terminal. Full-featured CLI; configurable from casual user to powerusers; dotfiles-friendly; integrates with suggestions and syntax highlightin
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -2211,6 +2211,7 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 🎁
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [nicorac/bcr-gui](https://github.com/nicorac/bcr-gui) - BCR-GUI is a companion app for the great BCR (Basic Call Recorder) Android application and other supported ROMs with embedded call recorders.
 - [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool
@@ -2251,7 +2252,7 @@
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [tsiege/Tech-Interview-Cheat-Sheet](https://github.com/tsiege/Tech-Interview-Cheat-Sheet) - Studying for a tech interview sucks. Here's an open source cheat sheet to help
-- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of Floorp 12, the most Advanced and Fastest Firefox derivative 🦊
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [thedaviddelta/lingva-translate](https://github.com/thedaviddelta/lingva-translate) - Alternative front-end for Google Translate
