@@ -1892,7 +1892,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [alexdesousa/hab](https://github.com/alexdesousa/hab) - Oh My ZSH plugin for loading OS environment automatically
 - [sroze/docker-compose-zsh-plugin](https://github.com/sroze/docker-compose-zsh-plugin) - ZSH plugin that display status of project containers
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - Zsh-abbr brings auto-expanding abbreviations to your zsh terminal. Full-featured CLI; configurable from casual user to powerusers; dotfiles-friendly; integrates with suggestions and syntax highlightin
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - zsh-abbr brings auto-expanding abbreviations to your zsh terminal. Full-featured CLI; dotfiles-friendly; integrates with suggestions and syntax highlighting; configurable for power users.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -2041,7 +2041,7 @@
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [imothee/tmpdisk](https://github.com/imothee/tmpdisk) - Ram Disk Management App for OSX
 - [rurza/BatFi](https://github.com/rurza/BatFi) - Battery charging limiter for macOS.
-- [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard with over 25 built-in modes or your own soudpacks.
+- [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [remko/age-plugin-se](https://github.com/remko/age-plugin-se) - Age plugin for Apple's Secure Enclave
 - [rohanrhu/MacsyZones](https://github.com/rohanrhu/MacsyZones) - Make your workflow more efficient with MacsyZones. Organize your windows with ease. https://macsyzones.com
