@@ -1596,6 +1596,7 @@
 
 ## Rust 
 
+- [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed.
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 - [Vaishnav-Sabari-Girish/nibble](https://github.com/Vaishnav-Sabari-Girish/nibble) - A tool for glamorous shell scripts. Quick, inline TUI components built with Ratatui—no full-screen takeover, just small bites of interaction.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -2068,6 +2069,8 @@
 
 ## TypeScript 
 
+- [valkey-io/iovalkey](https://github.com/valkey-io/iovalkey) - 
+- [love1024/ngx-oneforall](https://github.com/love1024/ngx-oneforall) - An Angular library containing reusable pipes, directives, services, decorators...
 - [verto-health/ngx-turnstile](https://github.com/verto-health/ngx-turnstile) - Cloudflare Turnstile for Angular
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [SparrowVic/ngx-genie](https://github.com/SparrowVic/ngx-genie) - 
