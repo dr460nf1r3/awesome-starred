@@ -3067,7 +3067,7 @@
 
 ## nodejs 
 
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
@@ -3264,7 +3264,7 @@
 - [jfernandez/mdserve](https://github.com/jfernandez/mdserve) - Fast markdown preview server with live reload and theme support.
 - [sand97/nest-responses-generator](https://github.com/sand97/nest-responses-generator) - NestJS plugin to generate automatically API Responses in Swagger based on controllers's functions inferred return types
 - [vivlim/tailscale-protonmail-bridge-docker](https://github.com/vivlim/tailscale-protonmail-bridge-docker) - 
-- [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe with Material 3 Expressive design and enhanced features
+- [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe patched apps with Material 3 Expressive design and enhanced features
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
 - [Gyanaa-Vaibhav/IPWho.org](https://github.com/Gyanaa-Vaibhav/IPWho.org) - Fast, Free IP 🌍 Geolocation API — no auth, no signup. Built with Node.js, Express, TypeScript, and MaxMind. Production-ready, open-source, and developer-first.
 - [losfair/bake](https://github.com/losfair/bake) - Bake microVMs into standalone executables
@@ -4255,7 +4255,7 @@
 ## python 
 
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 50+ formats. Available for Rust, Python, Ruby, 
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [EbbLabs/python-tidal](https://github.com/EbbLabs/python-tidal) - Python API for TIDAL music streaming service
@@ -5139,7 +5139,7 @@
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — S
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [ng-forge/ng-forge](https://github.com/ng-forge/ng-forge) - Type-safe dynamic forms library for Angular 21 signal forms
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
 - [gparlakov/scuri](https://github.com/gparlakov/scuri) - Automate Angular unit test and boilerplate with this schematic.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
