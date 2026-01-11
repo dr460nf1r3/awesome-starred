@@ -2014,7 +2014,7 @@
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [jellydn/zed-101-setup](https://github.com/jellydn/zed-101-setup) - Your ultimate guide to setting up Zed with Vim mode, tailored settings, and key bindings for a seamless coding experience
 - [JonasAlfredsson/docker-nginx-certbot](https://github.com/JonasAlfredsson/docker-nginx-certbot) - Automatically create and renew website certificates for free using the Let's Encrypt certificate authority.
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.7.64978, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.7.65299, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles
 - [catppuccin/sddm](https://github.com/catppuccin/sddm) - 🔒 Soothing pastel theme for SDDM
@@ -2562,7 +2562,7 @@
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.7.64978, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.7.65299, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [adgaultier/tamanoir](https://github.com/adgaultier/tamanoir) - An eBPF🐝 Keylogger with C2-based RCE payload delivery
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
@@ -3236,9 +3236,10 @@
 
 ## others 
 
+- [borgbase/ansible-role-borgbackup](https://github.com/borgbase/ansible-role-borgbackup) - Ansible role to set up Borg and Borgmatic
 - [KDE/plasma-login-manager](https://github.com/KDE/plasma-login-manager) - Plasma Login Manager
 - [JBorgia/signaltree](https://github.com/JBorgia/signaltree) - A powerful, type-safe, modular signal-based state management solution for Angular applications. SignalTree provides a modern, lightweight alternative to traditional state management with intelligent c
-- [felixdivo/c3-fahrplan-druck](https://github.com/felixdivo/c3-fahrplan-druck) - The Fahrplan in the style of a Fahrplan. https://fahrplan.events.ccc.de/congress/2025/fahrplan
+- [felixdivo/c3-fahrplan-druck](https://github.com/felixdivo/c3-fahrplan-druck) - The Fahrplan in the style of a Fahrplan.
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed.
 - [valkey-io/iovalkey](https://github.com/valkey-io/iovalkey) - 
 - [love1024/ngx-oneforall](https://github.com/love1024/ngx-oneforall) - A single library providing the essential blocks for modern Angular development.
@@ -3862,7 +3863,7 @@
 - [HydrargyrumGames/Garuda-Updates-Iran](https://github.com/HydrargyrumGames/Garuda-Updates-Iran) - The Defenitive Guide to Updating Garuda Linux via Pacman in Iran inspite of the Internet Blockages (No VPNs & 100% Free)
 - [chriswoope/resign-android-image](https://github.com/chriswoope/resign-android-image) - Resign Android OS (esp. GrapheneOS) images with your signing keys and add ADB root and other modifications
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
-- [wasdwasd0105/limbo_tensor](https://github.com/wasdwasd0105/limbo_tensor) - Limbo for Tensor is a QEMU-based Hypervisor for Tensor-based Google Pixel devices such as Pixel 6 & 7 & 8 series.
+- [wasdwasd0105/limbo_tensor](https://github.com/wasdwasd0105/limbo_tensor) - Limbo for Tensor is a QEMU-based Hypervisor for Tensor-based Google Pixel devices.
 - [marcobiedermann/awesome-bookmarklets](https://github.com/marcobiedermann/awesome-bookmarklets) - 🔖 Awesome collection of helpful bookmarklets
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [riteshm321/launcher3](https://github.com/riteshm321/launcher3) - 
