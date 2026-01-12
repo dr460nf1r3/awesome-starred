@@ -311,6 +311,7 @@
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [llm-tools/embedJs](https://github.com/llm-tools/embedJs) - A NodeJS RAG framework to easily work with LLMs and embeddings
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
@@ -1987,7 +1988,6 @@
 - [catppuccin/thunderbird](https://github.com/catppuccin/thunderbird) - 🕊️ Soothing pastel theme for Thunderbird
 - [TailAdmin/free-angular-tailwind-dashboard](https://github.com/TailAdmin/free-angular-tailwind-dashboard) - Free, open-source admin dashboard template crafted with Angular and Tailwind CSS. Includes essential UI components, elements, and pre-built pages to create a sleek, modern admin panel and dashboard wi
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
-- [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [abarichello/godot-ci](https://github.com/abarichello/godot-ci) - Docker image to export Godot Engine games. Templates for Gitlab CI and GitHub Actions to deploy to GitLab Pages/GitHub Pages/Itch.io.
@@ -3320,7 +3320,7 @@
 - [pfassina/sopswarden](https://github.com/pfassina/sopswarden) - SOPS secrets management integrated with Bitwarden for NixOS
 - [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq) - A high-performance and efficient message queue developed   in Rust
 - [gepbird/nixpkgs-patcher](https://github.com/gepbird/nixpkgs-patcher) - Using nixpkgs pull requests that haven't landed into your channel has never been easier!
-- [xiv3r/Burpsuite-Professional](https://github.com/xiv3r/Burpsuite-Professional) - Latest Burpsuite Professional Version 2025.x.x
+- [xiv3r/Burpsuite-Professional](https://github.com/xiv3r/Burpsuite-Professional) - Burpsuite Professional Latest Version 2026
 - [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) - GitHub action for ShellCheck.
 - [dtolnay/faketty](https://github.com/dtolnay/faketty) - Wrapper to exec a command in a pty, even if redirecting the output
 - [Mic92/nix-hyperfine](https://github.com/Mic92/nix-hyperfine) - A command-line tool that uses hyperfine to benchmark Nix derivation builds and evaluations.
@@ -3808,7 +3808,7 @@
 - [nix-community/dconf2nix](https://github.com/nix-community/dconf2nix) - :feet: Convert dconf files (e.g. GNOME Shell) to Nix, as expected by Home Manager [maintainer=@jtojnar]
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) - A fast semantic linter for Nix using tree-sitter 🌳 + ❄️. [maintainers=@Artturin,@siraben]
-- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions
+- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions [maintainers=@deemp,@ameertaweel]
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [snowfallorg/nixos-conf-editor](https://github.com/snowfallorg/nixos-conf-editor) - A libadwaita/gtk4 app for editing NixOS configurations
 - [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
