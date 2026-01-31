@@ -218,15 +218,15 @@
 - [FreesmTeam/FreesmLauncher](https://github.com/FreesmTeam/FreesmLauncher) - A Prism Launcher fork aimed to provide a free way to play Minecraft
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
-- [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy is a highly customizable binary Window Decoration, Application Style and Global Theme plugin for recent versions of the KDE Plasma desktop.
+- [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy offers highly customizable theming for the KDE Plasma desktop.
 - [Foxinatel/klassy](https://github.com/Foxinatel/klassy) - Klassy is a highly customizable binary Window Decoration, Application Style and Global Theme plugin for recent versions of the KDE Plasma desktop.
 - [ASDAlexander77/TypeScriptCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) - TypeScript Compiler (by LLVM)
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [SneWs/tail-tray](https://github.com/SneWs/tail-tray) - Tailscale tray menu and UI for the KDE Plasma Desktop
 - [taj-ny/InputActions](https://github.com/taj-ny/InputActions) - Linux utility for binding keyboard, mouse, touchpad and touchscreen actions to system actions
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.0.65560, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
-- [SonyaCore/SonyGramDesktop](https://github.com/SonyaCore/SonyGramDesktop) - Desktop Telegram client with good customization and Ghost mode (ReCoil).
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.0.65655, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [SonyCore/SonyGramDesktop](https://github.com/SonyCore/SonyGramDesktop) - Desktop Telegram client with good customization and Ghost mode (ReCoil).
 - [mandarine3ds/mandarine](https://github.com/mandarine3ds/mandarine) - A Citra fork with new features and hacks which are experimental and may not be present upstream
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [Bali10050/Darkly](https://github.com/Bali10050/Darkly) - A modern style for qt applications.
@@ -426,7 +426,6 @@
 - [LumePart/Explo](https://github.com/LumePart/Explo) - Spotify's "Discover Weekly" for self-hosted music systems
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [AlexSSD7/linsk](https://github.com/AlexSSD7/linsk) - 📂 Access Linux-native file systems (including LVM and LUKS) on Windows and macOS with help of a lightweight Alpine Linux VM. x86/ARM supported.
-- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [amikos-tech/chroma-go](https://github.com/amikos-tech/chroma-go) - The Go client for Chroma vector database
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
@@ -581,7 +580,7 @@
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [Azeirah/nix-deps-treemap](https://github.com/Azeirah/nix-deps-treemap) - Visualize your nix derivation dependency graph as an interactive treemap
 - [cipchk/ngx-highlight-js](https://github.com/cipchk/ngx-highlight-js) - Angular for syntax highlighting with highlight.js
-- [SonyaCore/sonyacore.github.io](https://github.com/SonyaCore/sonyacore.github.io) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [SonyCore/sonyacore.github.io](https://github.com/SonyCore/sonyacore.github.io) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [kaBeech/serious-shanns](https://github.com/kaBeech/serious-shanns) - A legible monospace font for playful professionals. Comic Sans for hackers
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [PatrickJS/awesome-angular](https://github.com/PatrickJS/awesome-angular) - :page_facing_up: A curated list of awesome Angular resources
@@ -1156,7 +1155,7 @@
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd "open-source" licenses.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
-- [alexmaisa/tailscale-protonvpn-exitnode](https://github.com/alexmaisa/tailscale-protonvpn-exitnode) - A docker-compose setup for creating an encrypted VPN connection using Tailscale and ProtonVPN.
+- [alexmaisa/tailscale-vpn-exitnode](https://github.com/alexmaisa/tailscale-vpn-exitnode) - A docker-compose setup for creating an encrypted VPN connection using Tailscale and ProtonVPN. It should work with another VPN provider too.
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
@@ -2257,7 +2256,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
