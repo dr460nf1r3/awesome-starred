@@ -381,6 +381,7 @@
 
 ## Dockerfile 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [BeardedTek/notesnook-docker](https://github.com/BeardedTek/notesnook-docker) - Full Docker stack for Notesnook sync server and web app
 - [11notes/docker-kms](https://github.com/11notes/docker-kms) - Activate any version of Windows and Office, forever
 - [abarichello/godot-ci](https://github.com/abarichello/godot-ci) - Docker image to export Godot Engine games. Templates for Gitlab CI and GitHub Actions to deploy to GitLab Pages/GitHub Pages/Itch.io.
@@ -982,6 +983,7 @@
 
 - [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments.
 - [webtui/webtui](https://github.com/webtui/webtui) - 
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 
 ## Makefile 
@@ -1337,6 +1339,7 @@
 
 ## Python 
 
+- [masoncl/review-prompts](https://github.com/masoncl/review-prompts) - AI review prompts
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
 - [thiagoaramizo/redis-bullmq-explorer](https://github.com/thiagoaramizo/redis-bullmq-explorer) - Desktop GUI application to explore BullMQ queues stored in Redis.
 - [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, count
@@ -2257,7 +2260,6 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) - Showcase your github stats on your profile README.md
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
