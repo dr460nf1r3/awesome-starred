@@ -580,7 +580,7 @@
 
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [felixdivo/c3-fahrplan-druck](https://github.com/felixdivo/c3-fahrplan-druck) - The Fahrplan in the style of a Fahrplan.
-- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 75+ formats. Available for Rust, Python, Ruby, 
+- [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 - [TailAdmin/free-angular-tailwind-dashboard](https://github.com/TailAdmin/free-angular-tailwind-dashboard) - Free, open-source admin dashboard template crafted with Angular and Tailwind CSS. Includes essential UI components, elements, and pre-built pages to create a sleek, modern admin panel and dashboard wi
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
@@ -1013,6 +1013,8 @@
 
 ## Nix 
 
+- [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
+- [synapdeck/github-actions-nix](https://github.com/synapdeck/github-actions-nix) - Generate GitHub Actions workflows from Nix configuration
 - [Dauliac/nix-oci](https://github.com/Dauliac/nix-oci) - Flake-parts module to manage OCI repositories
 - [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) - CachyOS kernel for NixOS
 - [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration
@@ -1681,7 +1683,7 @@
 - [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq) - A high-performance and efficient message queue developed   in Rust
 - [anistark/feluda](https://github.com/anistark/feluda) - Detect license usage restrictions in your project!
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
-- [junkdog/beamterm](https://github.com/junkdog/beamterm) - A sub-millisecond terminal text rendering system for WebGL2+OpenGL 3.3
+- [junkdog/beamterm](https://github.com/junkdog/beamterm) - A sub-millisecond terminal text rendering system for WebGL2 and OpenGL 3.3
 - [dtolnay/faketty](https://github.com/dtolnay/faketty) - Wrapper to exec a command in a pty, even if redirecting the output
 - [oxalica/cargo-bloated](https://github.com/oxalica/cargo-bloated) - Find out what takes most of the space in your executable, more accurately
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
@@ -2069,7 +2071,6 @@
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
-- [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
 - [Bellisario/musicale](https://github.com/Bellisario/musicale) - Musicale, music with style
 - [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) - cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.
@@ -2219,6 +2220,7 @@
 - [jsverse/transloco](https://github.com/jsverse/transloco) - 🚀 😍 The internationalization (i18n) library for Angular
 - [ngx-translate/core](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular
 - [jellydn/zed-101-setup](https://github.com/jellydn/zed-101-setup) - Your ultimate guide to setting up Zed with Vim mode, tailored settings, and key bindings for a seamless coding experience
+- [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [BJS-kr/nestjs-omacache](https://github.com/BJS-kr/nestjs-omacache) - flexible, powerful and simple caching strategy using decorators for NestJS
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI
 - [wakatime/desktop-wakatime](https://github.com/wakatime/desktop-wakatime) - Windows & Linux system tray app for automatic time tracking and metrics generated from your Figma, Postman, etc. usage.
