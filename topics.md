@@ -3306,6 +3306,9 @@
 
 ## others 
 
+- [moodyhunter/applet-window-buttons6](https://github.com/moodyhunter/applet-window-buttons6) - Plasma ~~5~~ (no, 6) applet in order to show window buttons in your panels
+- [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
+- [mkovaxx/anodized](https://github.com/mkovaxx/anodized) - Harden your Rust with specifications.
 - [synapdeck/github-actions-nix](https://github.com/synapdeck/github-actions-nix) - Generate GitHub Actions workflows from Nix configuration
 - [avifenesh/glide-mq](https://github.com/avifenesh/glide-mq) - Message queue for Node.js on Valkey/Redis OSS, based on Valkey GLIDE
 - [liangk/empirical-study](https://github.com/liangk/empirical-study) - This project provides empirical validation of Code Evolution Lab's automated N+1 Query detection and solution generation system.
@@ -3508,7 +3511,7 @@
 - [LierB/fastfetch](https://github.com/LierB/fastfetch) - Fastfetch config presets
 - [Floorp-Projects/Floorp-12](https://github.com/Floorp-Projects/Floorp-12) - 
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Real-time cost observability for your OpenClaw agents.
+- [mnfst/manifest](https://github.com/mnfst/manifest) - OpenClaw Real-time Cost Observability
 - [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy offers highly customizable theming for the KDE Plasma desktop.
 - [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks) - Scan your Rust crate for semver violations.
 - [quickemu-project/quicktest](https://github.com/quickemu-project/quicktest) - Quickly and automatically test systems inside Quickemu virtual machines 🧑‍🔬
