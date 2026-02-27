@@ -2118,6 +2118,7 @@
 
 ## TypeScript 
 
+- [andrechristikan/ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) - NestJs Boilerplate. MongoDB (or can chage to any other DB you like) with Prisma. Repository Design Pattern and Modular.
 - [avifenesh/glide-mq](https://github.com/avifenesh/glide-mq) - Message queue for Node.js on Valkey/Redis OSS, based on Valkey GLIDE
 - [liangk/empirical-study](https://github.com/liangk/empirical-study) - This project provides empirical validation of Code Evolution Lab's automated N+1 Query detection and solution generation system.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
