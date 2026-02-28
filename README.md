@@ -226,7 +226,7 @@
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [SneWs/tail-tray](https://github.com/SneWs/tail-tray) - Tailscale tray menu and UI for the KDE Plasma Desktop
 - [taj-ny/InputActions](https://github.com/taj-ny/InputActions) - Linux utility for binding keyboard. mouse, touchpad and touchscreen actions to system actions
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66102, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66192, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [SonyCore/SonyGramDesktop](https://github.com/SonyCore/SonyGramDesktop) - Desktop Telegram client with good customization and Ghost mode (ReCoil).
 - [mandarine3ds/mandarine](https://github.com/mandarine3ds/mandarine) - A Citra fork with new features and hacks which are experimental and may not be present upstream
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
@@ -2207,7 +2207,7 @@
 - [gridaco/cors.sh](https://github.com/gridaco/cors.sh) - Sick of CORS Errors?
 - [decompme/decomp.me](https://github.com/decompme/decomp.me) - Collaborative decompilation and reverse engineering website
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Cut OpenClaw Costs up to 90% Keeping Your Data Safe.
+- [mnfst/manifest](https://github.com/mnfst/manifest) - Take Control of Your OpenClaw Costs.
 - [garuda-linux/rani](https://github.com/garuda-linux/rani) - Replacement for a handful of Garuda applications. Currently implements Welcome, Assistant and Gamer (mirrored from GitLab)
 - [crabnebula-dev/devtools](https://github.com/crabnebula-dev/devtools) - Inspect and Debug your Tauri applications in style 💃
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
