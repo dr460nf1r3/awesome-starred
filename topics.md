@@ -2045,7 +2045,7 @@
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [jellydn/zed-101-setup](https://github.com/jellydn/zed-101-setup) - Your ultimate guide to setting up Zed with Vim mode, tailored settings, and key bindings for a seamless coding experience
 - [JonasAlfredsson/docker-nginx-certbot](https://github.com/JonasAlfredsson/docker-nginx-certbot) - Automatically create and renew website certificates for free using the Let's Encrypt certificate authority.
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66198, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66220, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles
 - [catppuccin/sddm](https://github.com/catppuccin/sddm) - 🔒 Soothing pastel theme for SDDM
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -2599,7 +2599,7 @@
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66198, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66220, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [adgaultier/tamanoir](https://github.com/adgaultier/tamanoir) - An eBPF🐝 Keylogger with C2-based RCE payload delivery
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
@@ -3305,6 +3305,7 @@
 
 ## others 
 
+- [Sohimaster/traur](https://github.com/Sohimaster/traur) - paru-integrated trust scoring for AUR packages written in Rust
 - [mark-hingston/opencode-elf](https://github.com/mark-hingston/opencode-elf) - Emergent Learning Framework (ELF) for OpenCode - Learn from past successes and failures to continuously improve your AI coding assistant
 - [powerofthe69/nix-gaming-edge](https://github.com/powerofthe69/nix-gaming-edge) - Personal "Bleeding-Edge" NUR w/ mesa-git and proton-cachyos
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -3359,7 +3360,7 @@
 - [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) - Gemini CLI Tips and Tricks
 - [hiro1107/nestjs-supabase-auth](https://github.com/hiro1107/nestjs-supabase-auth) - NestJS Passport Strategy for Supabase Auth
 - [rxappdev/RememberWindowPositions](https://github.com/rxappdev/RememberWindowPositions) - Remember window positions for apps in KDE Plasma 6+. Especially useful for multi-window applications such as browsers.
-- [offscale/cdd-web-ng](https://github.com/offscale/cdd-web-ng) - OpenAPI ↔ Angular (TypeScript, HTML)
+- [offscale/cdd-ts](https://github.com/offscale/cdd-ts) - OpenAPI ↔ Angular (TypeScript, HTML)
 - [smarkets/marge-bot](https://github.com/smarkets/marge-bot) - A merge-bot for GitLab
 - [samestep/npc](https://github.com/samestep/npc) - Nixpkgs channel history CLI
 - [mitsuhiko/self-replace](https://github.com/mitsuhiko/self-replace) - Utility library that helps to implement processes that replace themselves
