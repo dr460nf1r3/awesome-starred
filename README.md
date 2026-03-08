@@ -310,6 +310,7 @@
 - [kotatogram/kotatogram-desktop](https://github.com/kotatogram/kotatogram-desktop) - Experimental Telegram Desktop fork.
 - [KDE/latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids
 - [keshavbhatt/olivia](https://github.com/keshavbhatt/olivia) - Elegant music player for Linux Desktop
+- [naraesk/plasma-podman](https://github.com/naraesk/plasma-podman) - Plasmoid for KDE Plasma to control docker containers
 
 ## CMake 
 
@@ -751,7 +752,7 @@
 - [medialab/hyphe](https://github.com/medialab/hyphe) - Websites crawler with built-in exploration and control web interface
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [mbloch/mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk/ KernelSu & LSPosed(xposed) modules & rooting guides
 - [IPdotSetAF/NeoMatrix](https://github.com/IPdotSetAF/NeoMatrix) - The Ultimate Matrix Wallpaper
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [primefaces/primelocale](https://github.com/primefaces/primelocale) - 
@@ -1221,7 +1222,7 @@
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 - [MGAndroidProjects/WeatherWise-Releases](https://github.com/MGAndroidProjects/WeatherWise-Releases) - Release repo for WeatherWise, a material design, closed source live-weather app with Material You theming. Available for both Android and Windows.
-- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design/theme.
+- [nyas1/Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that supports material you design.
 - [dr460nf1r3/dr460nf1r3](https://github.com/dr460nf1r3/dr460nf1r3) - Magic 💫
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -1610,7 +1611,6 @@
 - [catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin) - A kde wallpaper plugin integrating wallpaper engine
 - [psifidotos/applet-window-title](https://github.com/psifidotos/applet-window-title) - Plasma 5 applet that shows the application title and icon for active window
 - [psifidotos/Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids
-- [naraesk/plasma-docker](https://github.com/naraesk/plasma-docker) - Plasmoid for KDE Plasma to control docker containers
 
 ## Rocq Prover 
 
@@ -2217,7 +2217,7 @@
 - [decompme/decomp.me](https://github.com/decompme/decomp.me) - Collaborative decompilation and reverse engineering website
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [mnfst/manifest](https://github.com/mnfst/manifest) - Smart LLM Routing for OpenClaw. Cut Costs up to 70% 🦞🦚
-- [garuda-linux/rani](https://github.com/garuda-linux/rani) - Replacement for a handful of Garuda applications. Currently implements Welcome, Assistant and Gamer (mirrored from GitLab)
+- [garuda-linux/toolbox](https://github.com/garuda-linux/toolbox) - Replacement for a handful of Garuda applications. Currently implements Welcome, Assistant and Gamer (mirrored from GitLab)
 - [crabnebula-dev/devtools](https://github.com/crabnebula-dev/devtools) - Inspect and Debug your Tauri applications in style 💃
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [agmmnn/tauri-controls](https://github.com/agmmnn/tauri-controls) - 🚥 Native-looking window controls for Tauri 2. React, Solid, Vue, Svelte+Tailwind.
