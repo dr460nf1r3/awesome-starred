@@ -204,6 +204,7 @@
 
 ## C++ 
 
+- [4v3ngR/kwin-effects-glass](https://github.com/4v3ngR/kwin-effects-glass) - Fork of the Plasma 6 blur effect with additional features (including force blur) and bug fixes.
 - [moodyhunter/applet-window-buttons6](https://github.com/moodyhunter/applet-window-buttons6) - Plasma ~~5~~ (no, 6) applet in order to show window buttons in your panels
 - [KDE/plasma-login-manager](https://github.com/KDE/plasma-login-manager) - Plasma Login Manager
 - [xarblu/kwin-effects-better-blur-dx](https://github.com/xarblu/kwin-effects-better-blur-dx) - Fork of the Plasma 6 blur effect with additional features (including force blur) and bug fixes.
@@ -419,6 +420,7 @@
 
 ## Go 
 
+- [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
 - [pinpox/opencrow](https://github.com/pinpox/opencrow) - Personal AI assistant via Matrix Chat - A slightly saner alternative to OpenClaw
 - [thilobillerbeck/podlet2nix](https://github.com/thilobillerbeck/podlet2nix) - A CLI utility that translates podlet output to qudlet-nix options
@@ -740,7 +742,7 @@
 - [Defelo/nixpkgs-review-gha](https://github.com/Defelo/nixpkgs-review-gha) - Run nixpkgs-review in GitHub Actions
 - [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) - 🧊 Indulge in nostalgia with useless 3D effects.
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) - CORS "anywhere" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/
 - [FoxRefire/ChromeXPIPorter](https://github.com/FoxRefire/ChromeXPIPorter) - Install Chrome extension to Floorp/Firefox Nightly/Librewolf
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -1595,6 +1597,7 @@
 
 ## QML 
 
+- [xarbit/plasma6-applet-appgrid](https://github.com/xarbit/plasma6-applet-appgrid) - A modern  application launcher for KDE Plasma, inspired by macOS  and COSMIC.
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [rxappdev/RememberWindowPositions](https://github.com/rxappdev/RememberWindowPositions) - Remember window positions for apps in KDE Plasma 6+. Especially useful for multi-window applications such as browsers.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
@@ -1633,6 +1636,7 @@
 
 ## Rust 
 
+- [dsalaza4/cilens](https://github.com/dsalaza4/cilens) - GitHub Actions and GitLab CI analytics CLI
 - [evilsocket/gptop](https://github.com/evilsocket/gptop) - A cross-platform GPU monitor TUI with support for both Apple Silicon and NVIDIA GPUs.
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
@@ -1723,6 +1727,7 @@
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [topiary/topiary](https://github.com/topiary/topiary) - 
+- [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [LordGrimmauld/nix-check-deps](https://github.com/LordGrimmauld/nix-check-deps) - scan nix packages for unused buildInputs
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
@@ -2211,7 +2216,6 @@
 - [rohanrhu/react-kitten](https://github.com/rohanrhu/react-kitten) - React desktop environment for the web. React-ish and highly customizable. 🐱
 - [pondorasti/tailwindcss-snippets](https://github.com/pondorasti/tailwindcss-snippets) - Collection of animation snippets made for TailwindCSS
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
 - [etkecc/synapse-admin](https://github.com/etkecc/synapse-admin) - A maintained fork of the admin console for (Matrix) Synapse homeservers, including additional features
 - [DeterminateSystems/magic-nix-cache-action](https://github.com/DeterminateSystems/magic-nix-cache-action) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
