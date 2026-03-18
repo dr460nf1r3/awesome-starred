@@ -357,6 +357,7 @@
 
 ## android 
 
+- [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Encrypted Gallery App for Android
 - [revenge-mod/revenge-manager](https://github.com/revenge-mod/revenge-manager) - 🤖 Application to use Revenge on Android
 - [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe patched apps
@@ -581,6 +582,7 @@
 
 ## api 
 
+- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern Data Layer for TypeScript Apps - type-safe ORM, built-in access control, automatic query services
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
@@ -766,6 +768,8 @@
 
 ## aws 
 
+- [prod-forge/terraform](https://github.com/prod-forge/terraform) - Terraform infrastructure for Prod Forge — AWS, ECS, RDS, VPN debugging access, OIDC CI/CD integration, and observability stack. Production-ready from day one.
+- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
 - [niraj-khatiwada/ultimate-nestjs-boilerplate](https://github.com/niraj-khatiwada/ultimate-nestjs-boilerplate) - Advanced Nest.js boilerplate for scalable startups⚡
 - [femueller/cloud-ip-ranges](https://github.com/femueller/cloud-ip-ranges) - An up-to-date export of cloud provider IP address ranges
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -783,6 +787,7 @@
 
 ## backend 
 
+- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
 - [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments.
 - [niraj-khatiwada/ultimate-nestjs-boilerplate](https://github.com/niraj-khatiwada/ultimate-nestjs-boilerplate) - Advanced Nest.js boilerplate for scalable startups⚡
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -1290,6 +1295,8 @@
 
 ## deployment 
 
+- [prod-forge/terraform](https://github.com/prod-forge/terraform) - Terraform infrastructure for Prod Forge — AWS, ECS, RDS, VPN debugging access, OIDC CI/CD integration, and observability stack. Production-ready from day one.
+- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
@@ -1342,6 +1349,7 @@
 
 ## devops 
 
+- [prod-forge/terraform](https://github.com/prod-forge/terraform) - Terraform infrastructure for Prod Forge — AWS, ECS, RDS, VPN debugging access, OIDC CI/CD integration, and observability stack. Production-ready from day one.
 - [dsalaza4/cilens](https://github.com/dsalaza4/cilens) - GitHub Actions and GitLab CI analytics CLI
 - [ccheshirecat/flint](https://github.com/ccheshirecat/flint) - Lightweight tool for managing linux virtual machines
 - [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.
@@ -1393,6 +1401,8 @@
 
 ## docker 
 
+- [prod-forge/terraform](https://github.com/prod-forge/terraform) - Terraform infrastructure for Prod Forge — AWS, ECS, RDS, VPN debugging access, OIDC CI/CD integration, and observability stack. Production-ready from day one.
+- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [emirce/bullstudio](https://github.com/emirce/bullstudio) - 🐂 Modern dashboard for Bull and BullMQ. Built for developers.
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
@@ -2143,7 +2153,6 @@
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
 - [opnsense/plugins](https://github.com/opnsense/plugins) - OPNsense plugin collection
@@ -3047,7 +3056,7 @@
 - [ccatterina/plasmusic-toolbar](https://github.com/ccatterina/plasmusic-toolbar) - KDE Plasma widget that shows currently playing song information and provide playback controls.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -3090,6 +3099,7 @@
 
 ## nestjs 
 
+- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
 - [andrechristikan/ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) - NestJs Boilerplate. MongoDB (or can chage to any other DB you like) with Prisma. Repository Design Pattern and Modular.
 - [jmcdo29/nest-lab](https://github.com/jmcdo29/nest-lab) - A repository to hold "experimental" packages for Nest. Honestly, I'm just tired of not having a good scope to put packages under :smile_cat:
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
@@ -3147,6 +3157,7 @@
 
 ## nodejs 
 
+- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
 - [andrechristikan/ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) - NestJs Boilerplate. MongoDB (or can chage to any other DB you like) with Prisma. Repository Design Pattern and Modular.
 - [avifenesh/glide-mq](https://github.com/avifenesh/glide-mq) - High-performance message queue for Node.js — Valkey/Redis Streams with Rust-native NAPI bindings
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
@@ -4531,7 +4542,7 @@
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [geerlingguy/top500-benchmark](https://github.com/geerlingguy/top500-benchmark) - Automated Top500 benchmark for clusters or single nodes.
 - [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86_64 or ARM64)!
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
 
@@ -4599,6 +4610,7 @@
 
 ## rest-api 
 
+- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -4917,7 +4929,7 @@
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [surishortlink/suri](https://github.com/surishortlink/suri) - Your own short links as an easily deployed static site
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -5225,6 +5237,7 @@
 
 ## terraform 
 
+- [prod-forge/terraform](https://github.com/prod-forge/terraform) - Terraform infrastructure for Prod Forge — AWS, ECS, RDS, VPN debugging access, OIDC CI/CD integration, and observability stack. Production-ready from day one.
 - [search-rug/iac-cost-patterns](https://github.com/search-rug/iac-cost-patterns) - A living catalog of cost management patterns and antipatterns for Infrastructure as Code in cloud deployments. Open for community contributions.
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -5304,6 +5317,7 @@
 
 ## typescript 
 
+- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
 - [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
 - [andrechristikan/ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) - NestJs Boilerplate. MongoDB (or can chage to any other DB you like) with Prisma. Repository Design Pattern and Modular.
 - [avifenesh/glide-mq](https://github.com/avifenesh/glide-mq) - High-performance message queue for Node.js — Valkey/Redis Streams with Rust-native NAPI bindings
@@ -5629,6 +5643,7 @@
 
 ## youtube 
 
+- [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
 - [NoName-exe/revanced](https://github.com/NoName-exe/revanced) - ReVanced YT and YT-M for both root and non-root users.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
