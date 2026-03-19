@@ -298,6 +298,7 @@
 
 ## ai 
 
+- [rzru/nightingale](https://github.com/rzru/nightingale) - Machine learning powered Karaoke app (with scores!)
 - [pinpox/opencrow](https://github.com/pinpox/opencrow) - Personal AI assistant via Matrix Chat - A slightly saner alternative to OpenClaw
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -582,7 +583,7 @@
 
 ## api 
 
-- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
+- [prod-forge/backend](https://github.com/prod-forge/backend) - What it actually takes to run a backend in production - CI/CD, rollback, observability, Terraform on AWS. Not a boilerplate, a reference with real decisions.
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern Data Layer for TypeScript Apps - type-safe ORM, built-in access control, automatic query services
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
@@ -769,7 +770,7 @@
 ## aws 
 
 - [prod-forge/terraform](https://github.com/prod-forge/terraform) - Terraform infrastructure for Prod Forge — AWS, ECS, RDS, VPN debugging access, OIDC CI/CD integration, and observability stack. Production-ready from day one.
-- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
+- [prod-forge/backend](https://github.com/prod-forge/backend) - What it actually takes to run a backend in production - CI/CD, rollback, observability, Terraform on AWS. Not a boilerplate, a reference with real decisions.
 - [niraj-khatiwada/ultimate-nestjs-boilerplate](https://github.com/niraj-khatiwada/ultimate-nestjs-boilerplate) - Advanced Nest.js boilerplate for scalable startups⚡
 - [femueller/cloud-ip-ranges](https://github.com/femueller/cloud-ip-ranges) - An up-to-date export of cloud provider IP address ranges
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -787,7 +788,7 @@
 
 ## backend 
 
-- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
+- [prod-forge/backend](https://github.com/prod-forge/backend) - What it actually takes to run a backend in production - CI/CD, rollback, observability, Terraform on AWS. Not a boilerplate, a reference with real decisions.
 - [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments.
 - [niraj-khatiwada/ultimate-nestjs-boilerplate](https://github.com/niraj-khatiwada/ultimate-nestjs-boilerplate) - Advanced Nest.js boilerplate for scalable startups⚡
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -1296,7 +1297,7 @@
 ## deployment 
 
 - [prod-forge/terraform](https://github.com/prod-forge/terraform) - Terraform infrastructure for Prod Forge — AWS, ECS, RDS, VPN debugging access, OIDC CI/CD integration, and observability stack. Production-ready from day one.
-- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
+- [prod-forge/backend](https://github.com/prod-forge/backend) - What it actually takes to run a backend in production - CI/CD, rollback, observability, Terraform on AWS. Not a boilerplate, a reference with real decisions.
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
@@ -1402,7 +1403,7 @@
 ## docker 
 
 - [prod-forge/terraform](https://github.com/prod-forge/terraform) - Terraform infrastructure for Prod Forge — AWS, ECS, RDS, VPN debugging access, OIDC CI/CD integration, and observability stack. Production-ready from day one.
-- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
+- [prod-forge/backend](https://github.com/prod-forge/backend) - What it actually takes to run a backend in production - CI/CD, rollback, observability, Terraform on AWS. Not a boilerplate, a reference with real decisions.
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [emirce/bullstudio](https://github.com/emirce/bullstudio) - 🐂 Modern dashboard for Bull and BullMQ. Built for developers.
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
@@ -2067,7 +2068,7 @@
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [jellydn/zed-101-setup](https://github.com/jellydn/zed-101-setup) - Your ultimate guide to setting up Zed with Vim mode, tailored settings, and key bindings for a seamless coding experience
 - [JonasAlfredsson/docker-nginx-certbot](https://github.com/JonasAlfredsson/docker-nginx-certbot) - Automatically create and renew website certificates for free using the Let's Encrypt certificate authority.
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66384, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66431, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles
 - [catppuccin/sddm](https://github.com/catppuccin/sddm) - 🔒 Soothing pastel theme for SDDM
@@ -2623,7 +2624,7 @@
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66384, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66431, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [adgaultier/tamanoir](https://github.com/adgaultier/tamanoir) - An eBPF🐝 Keylogger with C2-based RCE payload delivery
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
@@ -2805,6 +2806,7 @@
 
 ## machine-learning 
 
+- [rzru/nightingale](https://github.com/rzru/nightingale) - Machine learning powered Karaoke app (with scores!)
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -3099,7 +3101,7 @@
 
 ## nestjs 
 
-- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
+- [prod-forge/backend](https://github.com/prod-forge/backend) - What it actually takes to run a backend in production - CI/CD, rollback, observability, Terraform on AWS. Not a boilerplate, a reference with real decisions.
 - [andrechristikan/ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) - NestJs Boilerplate. MongoDB (or can chage to any other DB you like) with Prisma. Repository Design Pattern and Modular.
 - [jmcdo29/nest-lab](https://github.com/jmcdo29/nest-lab) - A repository to hold "experimental" packages for Nest. Honestly, I'm just tired of not having a good scope to put packages under :smile_cat:
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
@@ -3157,7 +3159,7 @@
 
 ## nodejs 
 
-- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
+- [prod-forge/backend](https://github.com/prod-forge/backend) - What it actually takes to run a backend in production - CI/CD, rollback, observability, Terraform on AWS. Not a boilerplate, a reference with real decisions.
 - [andrechristikan/ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) - NestJs Boilerplate. MongoDB (or can chage to any other DB you like) with Prisma. Repository Design Pattern and Modular.
 - [avifenesh/glide-mq](https://github.com/avifenesh/glide-mq) - High-performance message queue for Node.js — Valkey/Redis Streams with Rust-native NAPI bindings
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
@@ -4610,7 +4612,7 @@
 
 ## rest-api 
 
-- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
+- [prod-forge/backend](https://github.com/prod-forge/backend) - What it actually takes to run a backend in production - CI/CD, rollback, observability, Terraform on AWS. Not a boilerplate, a reference with real decisions.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -4654,6 +4656,7 @@
 
 ## rust 
 
+- [rzru/nightingale](https://github.com/rzru/nightingale) - Machine learning powered Karaoke app (with scores!)
 - [dsalaza4/cilens](https://github.com/dsalaza4/cilens) - GitHub Actions and GitLab CI analytics CLI
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
 - [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
@@ -5317,7 +5320,7 @@
 
 ## typescript 
 
-- [prod-forge/backend](https://github.com/prod-forge/backend) - A real-world guide to building production-ready NestJS App - architecture, CI/CD, observability, security, and release engineering. Not a boilerplate. A playbook.
+- [prod-forge/backend](https://github.com/prod-forge/backend) - What it actually takes to run a backend in production - CI/CD, rollback, observability, Terraform on AWS. Not a boilerplate, a reference with real decisions.
 - [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
 - [andrechristikan/ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) - NestJs Boilerplate. MongoDB (or can chage to any other DB you like) with Prisma. Repository Design Pattern and Modular.
 - [avifenesh/glide-mq](https://github.com/avifenesh/glide-mq) - High-performance message queue for Node.js — Valkey/Redis Streams with Rust-native NAPI bindings
