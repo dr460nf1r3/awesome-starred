@@ -1057,6 +1057,7 @@
 
 ## cms 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ## code 
@@ -1246,7 +1247,6 @@
 
 ## data-science 
 
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 20+ clouds, or on-prem).
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [joaomilho/Enterprise](https://github.com/joaomilho/Enterprise) - 🦄 The Enterprise™ programming language
 
@@ -1281,7 +1281,7 @@
 
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 20+ clouds, or on-prem).
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).
 
 ## deno 
 
@@ -1627,6 +1627,7 @@
 
 ## express 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 
@@ -1976,6 +1977,7 @@
 
 ## graphql 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [niraj-khatiwada/ultimate-nestjs-boilerplate](https://github.com/niraj-khatiwada/ultimate-nestjs-boilerplate) - Advanced Nest.js boilerplate for scalable startups⚡
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -2362,6 +2364,7 @@
 
 ## javascript 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [open-xml-templating/docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js or the browser. Demo: https://www.docxtemplater.com/demo. #docx #office #generator #templating #report
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern Data Layer for TypeScript Apps - type-safe ORM, built-in access control, automatic query services
@@ -2811,7 +2814,7 @@
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 20+ clouds, or on-prem).
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -3015,6 +3018,7 @@
 
 ## mongodb 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [andrechristikan/ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) - NestJs Boilerplate. MongoDB (or can chage to any other DB you like) with Prisma. Repository Design Pattern and Modular.
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
@@ -3119,6 +3123,7 @@
 
 ## nextjs 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern Data Layer for TypeScript Apps - type-safe ORM, built-in access control, automatic query services
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
@@ -3159,6 +3164,7 @@
 
 ## nodejs 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [prod-forge/backend](https://github.com/prod-forge/backend) - What it actually takes to run a backend in production - CI/CD, rollback, observability, Terraform on AWS. Not a boilerplate, a reference with real decisions.
 - [andrechristikan/ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) - NestJs Boilerplate. MongoDB (or can chage to any other DB you like) with Prisma. Repository Design Pattern and Modular.
 - [avifenesh/glide-mq](https://github.com/avifenesh/glide-mq) - High-performance message queue for Node.js — Valkey/Redis Streams with Rust-native NAPI bindings
@@ -3244,6 +3250,7 @@
 
 ## open-source 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
@@ -4550,6 +4557,7 @@
 
 ## react 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
@@ -5320,6 +5328,7 @@
 
 ## typescript 
 
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [prod-forge/backend](https://github.com/prod-forge/backend) - What it actually takes to run a backend in production - CI/CD, rollback, observability, Terraform on AWS. Not a boilerplate, a reference with real decisions.
 - [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
 - [andrechristikan/ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) - NestJs Boilerplate. MongoDB (or can chage to any other DB you like) with Prisma. Repository Design Pattern and Modular.
