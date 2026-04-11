@@ -84,6 +84,7 @@
 
 - [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 
 ## Batchfile 
 
@@ -333,7 +334,6 @@
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [f3liz-dev/noraneko](https://github.com/f3liz-dev/noraneko) - An artifact based testbed browser
 - [dmnsgn/typedoc-material-theme](https://github.com/dmnsgn/typedoc-material-theme) - A TypeDoc theme based on Material 3.
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
@@ -889,7 +889,7 @@
 ## Kotlin 
 
 - [1shin-7/YaFeed](https://github.com/1shin-7/YaFeed) - Yet Another Feeder for WearOS devices.
-- [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
+- [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - From the developers that brought you the greatest modded YouTube apps, comes Morphe - the powerful app modification tool that puts you in control
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Encrypted Gallery App for Android
 - [axel358/smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
@@ -1651,6 +1651,7 @@
 
 ## Rust 
 
+- [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
@@ -1698,7 +1699,7 @@
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [plabayo/tokio-graceful](https://github.com/plabayo/tokio-graceful) - Graceful shutdown util for Rust projects using the Tokio Async runtime.
 - [ranfdev/DistroShelf](https://github.com/ranfdev/DistroShelf) - gtk4 client for https://distrobox.it
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [nginx/nginx-acme](https://github.com/nginx/nginx-acme) - An NGINX module with the implementation of the automatic certificate management (ACMEv2) protocol
 - [JoshuaPostel/texaform](https://github.com/JoshuaPostel/texaform) - A factory game automated by your code
@@ -1711,7 +1712,7 @@
 - [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot) - Determine if you need to reboot your NixOS machine
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
 - [fooker/pullomatic](https://github.com/fooker/pullomatic) - Automates git repository syncing through pure configuration
-- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Fast and accurate OSS secret scanner with live validation and blast radius mapping. 700+ rules. Scans code, Git, CI, cloud, and SaaS.
+- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Fast and accurate OSS secret scanner with live validation and blast radius mapping. 800+ rules. Scans code, Git, CI, cloud, and SaaS.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq) - A high-performance and efficient message queue developed   in Rust
 - [anistark/feluda](https://github.com/anistark/feluda) - Detect license usage restrictions in your project!
@@ -2245,7 +2246,7 @@
 - [gridaco/cors.sh](https://github.com/gridaco/cors.sh) - Sick of CORS Errors?
 - [decompme/decomp.me](https://github.com/decompme/decomp.me) - Collaborative decompilation and reverse engineering website
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Smart LLM Routing for OpenClaw. Cut Costs up to 70% 🦞🦚
+- [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚
 - [garuda-linux/toolbox](https://github.com/garuda-linux/toolbox) - Replacement for a handful of Garuda applications. Currently implements Welcome, Assistant and Gamer (mirrored from GitLab)
 - [crabnebula-dev/devtools](https://github.com/crabnebula-dev/devtools) - Inspect and Debug your Tauri applications in style 💃
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
