@@ -307,6 +307,7 @@
 - [pinpox/opencrow](https://github.com/pinpox/opencrow) - Personal AI assistant via Matrix Chat - A slightly saner alternative to OpenClaw
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
@@ -343,6 +344,7 @@
 
 ## ai-agents 
 
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
@@ -519,7 +521,7 @@
 
 ## angular 
 
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Skeleton library that automatically adapts to your component's runtime structure. Zero layout duplication. Built for modern frameworks.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [GraphLens/graphlens](https://github.com/GraphLens/graphlens) - Interactive architecture visualizer for Angular projects – Transforms code entropy into structured, navigable graphs
 - [verto-health/ngx-turnstile](https://github.com/verto-health/ngx-turnstile) - Cloudflare Turnstile for Angular
 - [SparrowVic/ngx-genie](https://github.com/SparrowVic/ngx-genie) - 
@@ -610,6 +612,7 @@
 
 ## archlinux 
 
+- [arcmags/ramroot](https://github.com/arcmags/ramroot) - Load root file system to ram in early userspace.
 - [rnestler/reboot-arch-btw](https://github.com/rnestler/reboot-arch-btw) - Checks if your ArchLinux needs a reboot due to a kernel update
 - [archlinuxcn/lilac](https://github.com/archlinuxcn/lilac) - Lilac is the build bot for archlinuxcn
 - [chaotic-cx/chaotic-repository-template](https://github.com/chaotic-cx/chaotic-repository-template) - Template for a chaotic-manager compatible automatically managed repository 🧰
@@ -921,6 +924,7 @@
 
 ## chatgpt 
 
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -972,10 +976,12 @@
 ## claude-code 
 
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 
 ## cli 
 
+- [PwnKit-Labs/foxguard](https://github.com/PwnKit-Labs/foxguard) - A linter-fast, local-first security scanning tool written in rust.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [dsalaza4/cilens](https://github.com/dsalaza4/cilens) - GitHub Actions and GitLab CI analytics CLI
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
@@ -2214,7 +2220,7 @@
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - The only Kubernetes dashboard you need
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open source WebRTC P2P video conferencing for fast secure real time communication up to 8K and 60fps, works in all browsers and platforms
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
@@ -2267,7 +2273,7 @@
 
 ## html-css-javascript 
 
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open source WebRTC P2P video conferencing for fast secure real time communication up to 8K and 60fps, works in all browsers and platforms
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.
 
 ## html5 
 
@@ -2451,7 +2457,7 @@
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [modoboa/modoboa](https://github.com/modoboa/modoboa) - Mail hosting made simple
 - [revoltchat/desktop](https://github.com/revoltchat/desktop) - Revolt Desktop App
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open source WebRTC P2P video conferencing for fast secure real time communication up to 8K and 60fps, works in all browsers and platforms
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -2810,6 +2816,7 @@
 
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [avifenesh/glide-mq](https://github.com/avifenesh/glide-mq) - High-performance message queue for Node.js — Valkey/Redis Streams with Rust-native NAPI bindings
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
@@ -3327,13 +3334,14 @@
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [Trilarion/opensourcegames](https://github.com/Trilarion/opensourcegames) - Technical infos of open source games.
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open source WebRTC P2P video conferencing for fast secure real time communication up to 8K and 60fps, works in all browsers and platforms
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 
 ## openai 
 
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -3386,6 +3394,8 @@
 
 ## others 
 
+- [luisbocanegra/plasma-smart-video-wallpaper-reborn](https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn) - Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.
+- [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
 - [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [chaotic-aur/nixos-mirrors](https://github.com/chaotic-aur/nixos-mirrors) - Repo for the "officially managed" chaotic-aur mirrors based on NixOS
@@ -3427,7 +3437,6 @@
 - [thilobillerbeck/podlet2nix](https://github.com/thilobillerbeck/podlet2nix) - A CLI utility that translates podlet output to qudlet-nix options
 - [Dauliac/nix-oci](https://github.com/Dauliac/nix-oci) - Flake-parts module to manage OCI repositories
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [xddxdd/nix-cachyos-kernel](https://github.com/xddxdd/nix-cachyos-kernel) - CachyOS kernel for NixOS
 - [risin42/NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
 - [DavidBrightSparc/Tenets-of-IT](https://github.com/DavidBrightSparc/Tenets-of-IT) - The Tenets of IT: an accumulation of IT advice, wisdom, and humour.
@@ -4223,7 +4232,7 @@
 - [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, ABP / uBO / ADG subscriptions, and a whole lot more. All merged from multiple reputable sources, combined with my own research. Also, script-based
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open source WebRTC P2P video conferencing for fast secure real time communication up to 8K and 60fps, works in all browsers and platforms
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.
 
 ## package-manager 
 
@@ -4610,7 +4619,7 @@
 
 ## react 
 
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Skeleton library that automatically adapts to your component's runtime structure. Zero layout duplication. Built for modern frameworks.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [rzru/nightingale](https://github.com/rzru/nightingale) - Machine learning powered Karaoke app (with scores!)
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -4719,6 +4728,7 @@
 
 ## rust 
 
+- [PwnKit-Labs/foxguard](https://github.com/PwnKit-Labs/foxguard) - A linter-fast, local-first security scanning tool written in rust.
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [rzru/nightingale](https://github.com/rzru/nightingale) - Machine learning powered Karaoke app (with scores!)
 - [dsalaza4/cilens](https://github.com/dsalaza4/cilens) - GitHub Actions and GitLab CI analytics CLI
@@ -4857,6 +4867,7 @@
 
 ## security 
 
+- [PwnKit-Labs/foxguard](https://github.com/PwnKit-Labs/foxguard) - A linter-fast, local-first security scanning tool written in rust.
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Encrypted Gallery App for Android
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Fast and accurate OSS secret scanner with live validation and blast radius mapping. 800+ rules. Scans code, Git, CI, cloud, and SaaS.
@@ -5146,7 +5157,7 @@
 
 ## svelte 
 
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Skeleton library that automatically adapts to your component's runtime structure. Zero layout duplication. Built for modern frameworks.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
@@ -5562,7 +5573,7 @@
 
 ## vue 
 
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Skeleton library that automatically adapts to your component's runtime structure. Zero layout duplication. Built for modern frameworks.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -5575,7 +5586,7 @@
 
 ## vuejs 
 
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Skeleton library that automatically adapts to your component's runtime structure. Zero layout duplication. Built for modern frameworks.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
