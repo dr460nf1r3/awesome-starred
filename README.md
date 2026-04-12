@@ -834,6 +834,7 @@
 - [mailvelope/mailvelope](https://github.com/mailvelope/mailvelope) - Browser extension for OpenPGP encryption with Webmail
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -847,7 +848,7 @@
 - [Divested-Mobile/Mull-Fenix](https://github.com/Divested-Mobile/Mull-Fenix) - Build scripts for a web browser built upon Mozilla technology
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [joaomilho/Enterprise](https://github.com/joaomilho/Enterprise) - 🦄 The Enterprise™ programming language
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Open source WebRTC P2P video conferencing for fast secure real time communication up to 8K and 60fps, works in all browsers and platforms
+- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.
 - [dothq/browser-desktop](https://github.com/dothq/browser-desktop) - Dot Browser for Windows, macOS and Linux
 - [shukriadams/arewedown](https://github.com/shukriadams/arewedown) - Simple, customizable HTTP uptime and status checking service.
 - [pop-os/gnome-shell-extension-pop-cosmic](https://github.com/pop-os/gnome-shell-extension-pop-cosmic) - GNOME Shell extension. See cosmic-epoch for COSMIC Epoch
@@ -1029,6 +1030,7 @@
 
 ## Nix 
 
+- [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
 - [chaotic-aur/nixos-mirrors](https://github.com/chaotic-aur/nixos-mirrors) - Repo for the "officially managed" chaotic-aur mirrors based on NixOS
 - [vic/den](https://github.com/vic/den) - Aspect-oriented, context-driven Dendritic Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz]
 - [powerofthe69/nix-gaming-edge](https://github.com/powerofthe69/nix-gaming-edge) - Personal "Bleeding-Edge" NUR w/ mesa-git and proton-cachyos
@@ -1324,7 +1326,6 @@
 - [userjack6880/Open-DMARC-Analyzer](https://github.com/userjack6880/Open-DMARC-Analyzer) - Open DMARC Analyzer is an Open Source DMARC Report Analyzer to be used with DMARC reports that have been parsed by John Levine's rrdmarc script or techsneeze's dmarcts-report-parser.
 - [albinvar/Github-Telegram-Bot](https://github.com/albinvar/Github-Telegram-Bot) - A bot to send notifications from github directly to your Telegram account.
 - [liuch/dmarc-srg](https://github.com/liuch/dmarc-srg) - A php parser, viewer and summary report generator for incoming DMARC reports.
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [opnsense/plugins](https://github.com/opnsense/plugins) - OPNsense plugin collection
 - [postfixadmin/postfixadmin](https://github.com/postfixadmin/postfixadmin) - PostfixAdmin - web based virtual user administration interface for Postfix mail servers
 - [afterlogic/webmail-lite](https://github.com/afterlogic/webmail-lite) - AfterLogic WebMail Lite PHP. Fast and easy-to-use webmail front-end for your existing IMAP mail server, Plesk or cPanel.
@@ -1612,6 +1613,7 @@
 
 ## QML 
 
+- [luisbocanegra/plasma-smart-video-wallpaper-reborn](https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn) - Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.
 - [xarbit/plasma6-applet-appgrid](https://github.com/xarbit/plasma6-applet-appgrid) - A modern  application launcher for KDE Plasma, inspired by macOS  and COSMIC.
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [rxappdev/RememberWindowPositions](https://github.com/rxappdev/RememberWindowPositions) - Remember window positions for apps in KDE Plasma 6+. Especially useful for multi-window applications such as browsers.
@@ -1651,6 +1653,7 @@
 
 ## Rust 
 
+- [PwnKit-Labs/foxguard](https://github.com/PwnKit-Labs/foxguard) - A linter-fast, local-first security scanning tool written in rust.
 - [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
@@ -1927,6 +1930,7 @@
 
 ## Shell 
 
+- [arcmags/ramroot](https://github.com/arcmags/ramroot) - Load root file system to ram in early userspace.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
@@ -2147,7 +2151,7 @@
 
 ## TypeScript 
 
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - Skeleton library that automatically adapts to your component's runtime structure. Zero layout duplication. Built for modern frameworks.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [ocfox/nixpkgs-tracker](https://github.com/ocfox/nixpkgs-tracker) - Nixpkgs pr tracker, use Github API.
 - [yoinkify/yoink](https://github.com/yoinkify/yoink) - paste a spotify or apple music link. get the file.
 - [vicinaehq/extensions](https://github.com/vicinaehq/extensions) - Vicinae extensions published to the vicinae store
