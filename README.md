@@ -1036,7 +1036,7 @@
 
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
 - [chaotic-aur/nixos-mirrors](https://github.com/chaotic-aur/nixos-mirrors) - Repo for the "officially managed" chaotic-aur mirrors based on NixOS
-- [vic/den](https://github.com/vic/den) - Aspect-oriented, context-driven Dendritic Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
+- [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Dendritic Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
 - [powerofthe69/nix-gaming-edge](https://github.com/powerofthe69/nix-gaming-edge) - Personal "Bleeding-Edge" NUR w/ mesa-git and proton-cachyos
 - [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
 - [synapdeck/github-actions-nix](https://github.com/synapdeck/github-actions-nix) - Generate GitHub Actions workflows from Nix configuration
@@ -1719,7 +1719,7 @@
 - [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot) - Determine if you need to reboot your NixOS machine
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
 - [fooker/pullomatic](https://github.com/fooker/pullomatic) - Automates git repository syncing through pure configuration
-- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Fast and accurate OSS secret scanner with live validation and blast radius mapping. 800+ rules. Scans code, Git, CI, cloud, and SaaS.
+- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Fast and accurate OSS secret scanner with live validation and blast radius mapping. 900+ rules. Scans code, Git, CI, cloud, and SaaS.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq) - A high-performance and efficient message queue developed   in Rust
 - [anistark/feluda](https://github.com/anistark/feluda) - Detect license usage restrictions in your project!
@@ -1735,7 +1735,7 @@
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
-- [tgirlcloud/lix-diff](https://github.com/tgirlcloud/lix-diff) - 
+- [isabelroses/lix-diff](https://github.com/isabelroses/lix-diff) - 
 - [nathansbradshaw/zed-angular](https://github.com/nathansbradshaw/zed-angular) - 
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [ToyVo/nh](https://github.com/ToyVo/nh) - Yet another nix cli helper
