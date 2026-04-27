@@ -994,6 +994,7 @@
 - [dsplce-co/supabase-plus](https://github.com/dsplce-co/supabase-plus) - An extra set of tools for managing Supabase projects going beyond the possibilities of regular Supabase CLI
 - [Matars/gitfetch](https://github.com/Matars/gitfetch) - A neofetch alternative for GitHub quick view
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
@@ -2070,6 +2071,7 @@
 
 ## hacktoberfest 
 
+- [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
 - [verto-health/ngx-turnstile](https://github.com/verto-health/ngx-turnstile) - Cloudflare Turnstile for Angular
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
@@ -2653,7 +2655,7 @@
 - [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
+- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -2892,6 +2894,7 @@
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
+- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [kushalpandya/Petrichor](https://github.com/kushalpandya/Petrichor) - An offline macOS music player
 - [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -4749,6 +4752,8 @@
 
 ## rust 
 
+- [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
+- [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [PwnKit-Labs/foxguard](https://github.com/PwnKit-Labs/foxguard) - A security scanner as fast as a linter, written in Rust. Live in the terminal? It also comes with a TUI triage for secrets, post-quantum audits, diff-scans and more 🦊
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
@@ -4764,7 +4769,7 @@
 - [dsplce-co/supabase-plus](https://github.com/dsplce-co/supabase-plus) - An extra set of tools for managing Supabase projects going beyond the possibilities of regular Supabase CLI
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
-- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
+- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
@@ -4893,7 +4898,6 @@
 - [PwnKit-Labs/foxguard](https://github.com/PwnKit-Labs/foxguard) - A security scanner as fast as a linter, written in Rust. Live in the terminal? It also comes with a TUI triage for secrets, post-quantum audits, diff-scans and more 🦊
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
-- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
 - [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Find, validate, and map the impact of leaked secrets across your stack. Revoke fast. 900+ rules.
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
 - [wolfSSL/wolfssl-nginx](https://github.com/wolfSSL/wolfssl-nginx) - Adds wolfSSL support to Nginx.
@@ -5386,7 +5390,7 @@
 - [GoodBoyNeon/sprofile](https://github.com/GoodBoyNeon/sprofile) - ⚡ Blazingly fast TUI application for viewing your Spotify listening activity.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
-- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
+- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
@@ -5689,7 +5693,7 @@
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
+- [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
