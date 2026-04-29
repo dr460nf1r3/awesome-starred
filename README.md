@@ -183,6 +183,7 @@
 
 ## C# # 
 
+- [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 - [builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
 - [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Persona
 - [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
@@ -229,7 +230,7 @@
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [SneWs/tail-tray](https://github.com/SneWs/tail-tray) - Tailscale tray menu and UI for the KDE Plasma Desktop
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67186, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67235, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [SonyCore/SonyGramDesktop](https://github.com/SonyCore/SonyGramDesktop) - Desktop Telegram client with good customization and Ghost mode (ReCoil).
 - [ptyfyre/mandarine-neo](https://github.com/ptyfyre/mandarine-neo) - A Citra fork with new features and hacks which are experimental and may not be present in Azahar. Continuation of Mandarine 3DS emulator.
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
@@ -453,6 +454,7 @@
 - [JonasProgrammer/docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) - Docker machine driver for the new hetzner cloud API
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
 - [idursun/jjui](https://github.com/idursun/jjui) - jjui is a TUI designed for interacting with the Jujutsu version control system.
+- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.
 - [hookdeck/outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure
 - [xsharov/enchanted-ollama-openrouter-proxy](https://github.com/xsharov/enchanted-ollama-openrouter-proxy) - 
 - [rilldata/rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents.
@@ -950,7 +952,7 @@
 - [FoedusProgramme/Gramophone](https://github.com/FoedusProgramme/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly.
 - [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) - Iconify lets you customize your Android 12+ device easily. Change icons, colors, shapes, and even the notification panel for a personalized look that suits your style.
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
-- [johanw666/Signal-Android](https://github.com/johanw666/Signal-Android) - Fork from a private messenger for Android with extra options added: full backup and (partial, ony text) xml backup of messages. Restore can happen at any time, not only after a fresh install. Import S
+- [johanw666/Signal-Android](https://github.com/johanw666/Signal-Android) - Fork from a private messenger for Android with extra options added.
 - [MRepoApp/MRepo](https://github.com/MRepoApp/MRepo) - A modules manager for Magisk, KernelSU and APatch
 - [asoulless/Signal-You](https://github.com/asoulless/Signal-You) - A Material You fork of a fork of Signal for Android
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
@@ -1208,7 +1210,7 @@
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [rooted-graphene/ota](https://github.com/rooted-graphene/ota) - OTA server for rooted graphene
 - [femueller/cloud-ip-ranges](https://github.com/femueller/cloud-ip-ranges) - An up-to-date export of cloud provider IP address ranges
-- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - 
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
@@ -1232,7 +1234,6 @@
 - [sameerasw/predictive-back-animations-apps](https://github.com/sameerasw/predictive-back-animations-apps) - A list of apps that implemented the Android's "Predictive back animations" e̶x̶p̶e̶r̶i̶m̶e̶n̶t̶a̶l̶ feature.
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything) - How to reduce complexity and move faster? Just Postgres for everything.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [chaotic-cx/memorial-v2](https://github.com/chaotic-cx/memorial-v2) - Let's celebrate another Chaotic-AUR birthday together!
 - [chaotic-aur/packages-archive](https://github.com/chaotic-aur/packages-archive) - Contains our pre-v4 commit history.
 - [iAnonymous3000/awesome-grapheneos-guide](https://github.com/iAnonymous3000/awesome-grapheneos-guide) - A comprehensive, step-by-step guide to help new users navigate the privacy-focused, security-hardened mobile OS based on Android. Learn how to purchase a device, install and configure GrapheneOS, and 
@@ -1345,12 +1346,12 @@
 ## PLpgSQL 
 
 - [commandprompt/pgmanage](https://github.com/commandprompt/pgmanage) - Web tool for database management
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
 
 ## Perl 
 
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [techsneeze/dmarcts-report-parser](https://github.com/techsneeze/dmarcts-report-parser) - A Perl based tool to parse DMARC reports from an IMAP mailbox or from the filesystem, and insert the information into a database. ( Formerly known as imap-dmarcts )
-- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
 - [mludvig/smtp-cli](https://github.com/mludvig/smtp-cli) - The ultimate command line SMTP client
 - [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.
 - [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid) - These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)
@@ -1788,6 +1789,7 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [adgaultier/tamanoir](https://github.com/adgaultier/tamanoir) - An eBPF🐝 Keylogger with C2-based RCE payload delivery
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [mrVanDalo/nixos-healthchecks](https://github.com/mrVanDalo/nixos-healthchecks) - Write health checks as NixOS options to quickly verify if your services are properly running.
 - [cococonscious/koji](https://github.com/cococonscious/koji) - 🦊 An interactive CLI for creating conventional commits.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -2252,7 +2254,6 @@
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [nexpid/RevengePlugins](https://github.com/nexpid/RevengePlugins) - A collection of all my awesome plugins for Revenge
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
-- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run anywhere - desktop, cluster, docker.
 - [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx.
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [rohanrhu/react-kitten](https://github.com/rohanrhu/react-kitten) - React desktop environment for the web. React-ish and highly customizable. 🐱
@@ -2264,7 +2265,7 @@
 - [gridaco/cors.sh](https://github.com/gridaco/cors.sh) - Sick of CORS Errors?
 - [decompme/decomp.me](https://github.com/decompme/decomp.me) - Collaborative decompilation and reverse engineering website
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚
+- [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Agents. Cut Costs up to 70% 🦚
 - [garuda-linux/toolbox](https://github.com/garuda-linux/toolbox) - Replacement for a handful of Garuda applications. Currently implements Welcome, Assistant and Gamer (mirrored from GitLab)
 - [crabnebula-dev/devtools](https://github.com/crabnebula-dev/devtools) - Inspect and Debug your Tauri applications in style 💃
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
