@@ -523,6 +523,7 @@
 
 ## angular 
 
+- [signalityjs/signality](https://github.com/signalityjs/signality) - Reactive utilities for Angular
 - [domternal/domternal](https://github.com/domternal/domternal) - Lightweight, extensible rich text editor toolkit built on ProseMirror. Headless core for any framework or native Angular/React/Vue components. Built-in toolbar and theme, full table support, 57 extens
 - [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [GraphLens/graphlens](https://github.com/GraphLens/graphlens) - Interactive architecture visualizer for Angular projects – Transforms code entropy into structured, navigable graphs
@@ -1896,7 +1897,7 @@
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
+- [itstoragesvc/dnscontrol](https://github.com/itstoragesvc/dnscontrol) - Infrastructure as code for DNS!
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
@@ -2364,7 +2365,7 @@
 
 ## iot 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [Thymis-io/thymis](https://github.com/Thymis-io/thymis) - Web-based platform for configuring, provisioning, updating, and monitoring (IoT-)devices and systems, powered by NixOS
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 
@@ -2412,6 +2413,7 @@
 
 ## javascript 
 
+- [signalityjs/signality](https://github.com/signalityjs/signality) - Reactive utilities for Angular
 - [domternal/domternal](https://github.com/domternal/domternal) - Lightweight, extensible rich text editor toolkit built on ProseMirror. Headless core for any framework or native Angular/React/Vue components. Built-in toolbar and theme, full table support, 57 extens
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
@@ -3929,7 +3931,6 @@
 - [NixOS/nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [Fmstrat/lcs](https://github.com/Fmstrat/lcs) - Lemmy Community Seeder (LCS)
-- [howdy-tsc/LemmyTools](https://github.com/howdy-tsc/LemmyTools) - A addon script for lemmy to make it a bit better. Buy me a coffee: https://ko-fi.com/tschowdy
 - [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
 - [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
 - [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) - YARA signature and IOC database for my scanners and tools
@@ -5022,7 +5023,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [LumePart/Explo](https://github.com/LumePart/Explo) - Spotify's "Discover Weekly" for self-hosted music systems
@@ -5429,7 +5430,7 @@
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information
 - [Kibouo/rustpad](https://github.com/Kibouo/rustpad) - Multi-threaded Padding Oracle attacks against any service. Written in Rust.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.7 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.8 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [irevenko/octotui](https://github.com/irevenko/octotui) - 🐙🐱🖥️ GitHub stats in your terminal
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
@@ -5444,6 +5445,7 @@
 
 ## typescript 
 
+- [signalityjs/signality](https://github.com/signalityjs/signality) - Reactive utilities for Angular
 - [grinev/opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot) - OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support. Can be used as lightweight OpenClaw alterna
 - [domternal/domternal](https://github.com/domternal/domternal) - Lightweight, extensible rich text editor toolkit built on ProseMirror. Headless core for any framework or native Angular/React/Vue components. Built-in toolbar and theme, full table support, 57 extens
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
@@ -5608,7 +5610,7 @@
 ## vpn 
 
 - [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [SneWs/tail-tray](https://github.com/SneWs/tail-tray) - Tailscale tray menu and UI for the KDE Plasma Desktop
 - [conblem/tailvnc](https://github.com/conblem/tailvnc) - VNC Client in the browser based on tailscale tsconnect
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
