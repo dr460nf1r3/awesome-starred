@@ -231,7 +231,7 @@
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [SneWs/tail-tray](https://github.com/SneWs/tail-tray) - Tailscale tray menu and UI for the KDE Plasma Desktop
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67235, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67314, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [SonyCore/SonyGramDesktop](https://github.com/SonyCore/SonyGramDesktop) - Desktop Telegram client with good customization and Ghost mode (ReCoil).
 - [ptyfyre/mandarine-neo](https://github.com/ptyfyre/mandarine-neo) - A Citra fork with new features and hacks which are experimental and may not be present in Azahar. Continuation of Mandarine 3DS emulator.
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
@@ -424,6 +424,7 @@
 
 ## Go 
 
+- [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [jaxxstorm/proxyt](https://github.com/jaxxstorm/proxyt) - A simple proxy for the Tailscale control plane
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
@@ -651,7 +652,6 @@
 ## JSON 
 
 - [chaotic-aur/chaotic-uptimes](https://github.com/chaotic-aur/chaotic-uptimes) - GitHub Actions driven uptime monitoring 🕵🏻‍♀️
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Java 
 
@@ -1024,6 +1024,7 @@
 
 ## Makefile 
 
+- [monitoring-mixins/docs](https://github.com/monitoring-mixins/docs) - Prometheus Monitoring Mixins: Using Jsonnet to Package Together Dashboards, Rules and Alerts.
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [wshihadeh/migratetoK8s](https://github.com/wshihadeh/migratetoK8s) - Migrate from Compose to K8S
 
@@ -1031,6 +1032,7 @@
 
 - [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
 - [CachyOS/statuspage](https://github.com/CachyOS/statuspage) - 📈 Uptime monitor and status page for CachyOS, powered by @upptime
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Nim 
 
@@ -1662,6 +1664,7 @@
 
 ## Rust 
 
+- [knadh/tuwunel-admin](https://github.com/knadh/tuwunel-admin) - A simple web admin UI for tuwunel-chat Matrix server.
 - [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust (maintainer: @Mic92)
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
