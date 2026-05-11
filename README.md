@@ -67,6 +67,7 @@
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
+- [WebAssembly](#webassembly)
 - [XSLT](#xslt)
 - [YAML](#yaml)
 - [YARA](#yara)
@@ -98,6 +99,7 @@
 
 ## C 
 
+- [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer a
 - [Yubico/pam-u2f](https://github.com/Yubico/pam-u2f) - Pluggable Authentication Module (PAM) for U2F and FIDO2
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
 - [mattkeenan/zenpower5](https://github.com/mattkeenan/zenpower5) - Linux kernel driver for AMD Zen CPU monitoring (Zen 1-5): temperature, voltage, current, and power via SVI2/RAPL. Multi-file architecture with Zen 5 (Strix Halo) support.
@@ -873,6 +875,7 @@
 
 ## Jinja 
 
+- [ANXS/postgresql](https://github.com/ANXS/postgresql) - Fairly full featured Ansible role for Postgresql.
 - [borgbase/ansible-role-borgbackup](https://github.com/borgbase/ansible-role-borgbackup) - Ansible role to set up Borg and Borgmatic
 - [geerlingguy/top500-benchmark](https://github.com/geerlingguy/top500-benchmark) - Automated Top500 benchmark for clusters or single nodes.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
@@ -884,6 +887,7 @@
 
 ## Jsonnet 
 
+- [adinhodovic/tailscale-exporter](https://github.com/adinhodovic/tailscale-exporter) - A Prometheus exporter that collects metrics from both Tailscale and Headscale tailnets.
 - [rux616/karabiner-windows-mode](https://github.com/rux616/karabiner-windows-mode) - Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.
 
 ## Jupyter Notebook 
@@ -1020,7 +1024,7 @@
 
 ## MDX 
 
-- [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments.
+- [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master Node.js. V8, libuv, event loop, buffers, streams, async internals, performance, security, deployment, and production architecture.
 - [webtui/webtui](https://github.com/webtui/webtui) - Modular CSS Library that brings the beauty of Terminal UIs to the browser
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
 
@@ -2429,6 +2433,10 @@
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+
+## WebAssembly 
+
+- [mewz-project/wasker](https://github.com/mewz-project/wasker) - WebAssembly AoT compiler for your favorite Operating System
 
 ## XSLT 
 
