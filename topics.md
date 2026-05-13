@@ -3452,6 +3452,7 @@
 
 ## others 
 
+- [bharatmk2567/brave-debloater](https://github.com/bharatmk2567/brave-debloater) - 
 - [rtmmbarbosa/registry-console](https://github.com/rtmmbarbosa/registry-console) - Modern web interface for Docker Registry management.
 - [gabrielnsw/nsw-topology](https://github.com/gabrielnsw/nsw-topology) - 
 - [knadh/tuwunel-admin](https://github.com/knadh/tuwunel-admin) - A simple web admin UI for tuwunel-chat Matrix server.
