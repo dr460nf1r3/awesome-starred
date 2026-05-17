@@ -2108,6 +2108,7 @@
 
 ## hacktoberfest 
 
+- [catppuccin/element](https://github.com/catppuccin/element) - 💫️ Soothing pastel theme for Element
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [runk/mmdb-lib](https://github.com/runk/mmdb-lib) - Maxmind database (MMDB) library
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
@@ -3457,6 +3458,7 @@
 
 ## others 
 
+- [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust
 - [bharatmk2567/brave-debloater](https://github.com/bharatmk2567/brave-debloater) - 
 - [rtmmbarbosa/registry-console](https://github.com/rtmmbarbosa/registry-console) - Modern web interface for Docker Registry management.
 - [gabrielnsw/nsw-topology](https://github.com/gabrielnsw/nsw-topology) - 
