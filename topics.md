@@ -3687,7 +3687,7 @@
 - [nekowinston/nix-deno](https://github.com/nekowinston/nix-deno) - [deprecated] Nix + Deno
 - [LordGrimmauld/nix-check-deps](https://github.com/LordGrimmauld/nix-check-deps) - scan nix packages for unused buildInputs
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
-- [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
+- [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine) - Modern, secure, portable, multiprotocol bootloader and boot manager.
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
 - [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) - CORS "anywhere" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/
 - [LierB/fastfetch](https://github.com/LierB/fastfetch) - Fastfetch config presets
