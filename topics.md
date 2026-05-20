@@ -4050,7 +4050,7 @@
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [dr460nf1r3/school](https://github.com/dr460nf1r3/school) - Projects I had to complete for school 👨🏻‍🎓
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
-- [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) - A browser AI agent, using GPT-4
+- [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) - A browser AI agent, using GPT-4 (2023)
 - [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer
 - [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
 - [fafrd/aquarium](https://github.com/fafrd/aquarium) - Agents before they were cool
