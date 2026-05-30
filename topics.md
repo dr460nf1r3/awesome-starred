@@ -1014,7 +1014,7 @@
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
 - [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
-- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A security scanner as fast as a linter, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
+- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A blazingly fast security scanner, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [dsalaza4/cilens](https://github.com/dsalaza4/cilens) - GitHub Actions and GitLab CI analytics CLI
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
@@ -1530,7 +1530,7 @@
 - [hercules-ci/arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
-- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
+- [podman-container-tools/buildah](https://github.com/podman-container-tools/buildah) - A tool that facilitates building OCI images.
 - [lukaszlach/docker-tc](https://github.com/lukaszlach/docker-tc) - :whale: :vertical_traffic_light: Docker Traffic Control - network rate limiting, emulating delays, losses, duplicates, corrupts and reorders of network packets using only container labels or a command
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [cmwedding-it/onlyoffice-licensed](https://github.com/cmwedding-it/onlyoffice-licensed) - Onlyoffice with license patch and mobile editing restored
@@ -3128,7 +3128,7 @@
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [xCollateral/VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
 - [PojavLauncherTeam/PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher) - A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
-- [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
+- [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 
 ## mobile 
@@ -3449,7 +3449,6 @@
 - [junkdog/beamterm](https://github.com/junkdog/beamterm) - A sub-millisecond terminal text rendering system for WebGL2 and OpenGL 3.3
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
-- [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 
 ## operating-system 
@@ -3474,6 +3473,8 @@
 
 ## others 
 
+- [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+- [Mic92/nixfmt-rs](https://github.com/Mic92/nixfmt-rs) - A from-scratch Rust reimplementation of nixfmt that produces byte-identical output to the Haskell original.
 - [garnix-io/garnix-ci](https://github.com/garnix-io/garnix-ci) - CI and hosting for nix-based, flakified github repos
 - [matthart1983/netwatch](https://github.com/matthart1983/netwatch) - Real-time network diagnostics in your terminal. One command, zero config, instant visibility.
 - [maniacx/BudsLink](https://github.com/maniacx/BudsLink) - 
@@ -3517,7 +3518,7 @@
 - [zimbatm/subportal](https://github.com/zimbatm/subportal) - xdg-open on your server
 - [moodyhunter/applet-window-buttons6](https://github.com/moodyhunter/applet-window-buttons6) - Plasma ~~5~~ (no, 6) applet in order to show window buttons in your panels
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
-- [mkovaxx/anodized](https://github.com/mkovaxx/anodized) - Harden your Rust with specifications.
+- [anodized-rs/anodized](https://github.com/anodized-rs/anodized) - Harden your Rust with specifications.
 - [synapdeck/github-actions-nix](https://github.com/synapdeck/github-actions-nix) - Generate GitHub Actions workflows from Nix configuration
 - [liangk/empirical-study](https://github.com/liangk/empirical-study) - This project provides empirical validation of Code Evolution Lab's automated N+1 Query detection and solution generation system.
 - [NeroReflex/asusctl](https://github.com/NeroReflex/asusctl) - Daemon and tools to control your ASUS ROG laptop. Supersedes rog-core.
@@ -3832,7 +3833,7 @@
 - [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
-- [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
+- [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [Mahmud0808/ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - An Android app for customizing Material You colors on devices with Android 12+. It lets you tweak accent colors, background saturation, and more for a personalized look.
 - [emptyynes/fraxinus](https://github.com/emptyynes/fraxinus) - declarative configuration for arch linux
 - [toolbx-images/images](https://github.com/toolbx-images/images) - Community maintained container images to use with toolbx and distrobox
@@ -4834,7 +4835,7 @@
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
-- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A security scanner as fast as a linter, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
+- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A blazingly fast security scanner, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [rzru/nightingale](https://github.com/rzru/nightingale) - Machine learning powered Karaoke app (with scores!)
 - [dsalaza4/cilens](https://github.com/dsalaza4/cilens) - GitHub Actions and GitLab CI analytics CLI
@@ -4977,7 +4978,7 @@
 
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
-- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A security scanner as fast as a linter, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
+- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A blazingly fast security scanner, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master Node.js. V8, libuv, event loop, buffers, streams, async internals, performance, security, deployment, and production architecture.
