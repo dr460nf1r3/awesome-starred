@@ -2635,6 +2635,8 @@
 
 ## kubernetes 
 
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage & troubleshoot Kubernetes clusters running Cilium
+- [rgl/terraform-proxmox-talos](https://github.com/rgl/terraform-proxmox-talos) - An example Talos Linux Kubernetes cluster in Proxmox QEMU/KVM Virtual Machines using terraform
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 - [eznix86/docker-registry-ui](https://github.com/eznix86/docker-registry-ui) - Yet another docker registry UI
 - [grafana/alloy-scenarios](https://github.com/grafana/alloy-scenarios) - A collection of working Alloy scenarios
@@ -3473,6 +3475,9 @@
 
 ## others 
 
+- [cygnusx-1-org/continuum](https://github.com/cygnusx-1-org/continuum) - A Reddit client for Android
+- [wchill/patcheddit](https://github.com/wchill/patcheddit) - Morphe patches for reddit apps
+- [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [Mic92/nixfmt-rs](https://github.com/Mic92/nixfmt-rs) - A from-scratch Rust reimplementation of nixfmt that produces byte-identical output to the Haskell original.
 - [garnix-io/garnix-ci](https://github.com/garnix-io/garnix-ci) - CI and hosting for nix-based, flakified github repos
@@ -4976,6 +4981,7 @@
 
 ## security 
 
+- [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage & troubleshoot Kubernetes clusters running Cilium
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A blazingly fast security scanner, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
