@@ -429,6 +429,7 @@
 
 ## Go 
 
+- [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal NixOS Deployment Tool - inspect, bootstrap, build, transfer, secrets, activate, rollback
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 - [eznix86/docker-registry-ui](https://github.com/eznix86/docker-registry-ui) - Yet another docker registry UI
@@ -560,6 +561,7 @@
 - [hakluke/hakoriginfinder](https://github.com/hakluke/hakoriginfinder) - Tool for discovering the origin host behind a reverse proxy. Useful for bypassing cloud WAFs!
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [fafrd/aquarium](https://github.com/fafrd/aquarium) - Agents before they were cool
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [ProtonMail/gluon](https://github.com/ProtonMail/gluon) - An IMAP server library written in Go
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -777,7 +779,7 @@
 - [Defelo/nixpkgs-review-gha](https://github.com/Defelo/nixpkgs-review-gha) - Run nixpkgs-review in GitHub Actions
 - [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) - 🧊 Indulge in nostalgia with useless 3D effects.
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [Zibri/cloudflare-cors-anywhere](https://github.com/Zibri/cloudflare-cors-anywhere) - CORS "anywhere" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/
 - [FoxRefire/ChromeXPIPorter](https://github.com/FoxRefire/ChromeXPIPorter) - Install Chrome extension to Floorp/Firefox Nightly/Librewolf
 - [arjpar/WebShield](https://github.com/arjpar/WebShield) - A new wide-spectrum content blocker for Safari.
@@ -1220,6 +1222,7 @@
 
 ## Others 
 
+- [krauseler/muxcard](https://github.com/krauseler/muxcard) - A literal credit-card sized computer with E-Paper display,  ESP32 and NFC.
 - [maniacx/BudsLink-Companion](https://github.com/maniacx/BudsLink-Companion) - 
 - [catppuccin/element](https://github.com/catppuccin/element) - 💫️ Soothing pastel theme for Element
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
@@ -1406,6 +1409,7 @@
 
 ## Python 
 
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
 - [grafana/alloy-scenarios](https://github.com/grafana/alloy-scenarios) - A collection of working Alloy scenarios
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
@@ -1849,6 +1853,7 @@
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [InioX/matugen](https://github.com/InioX/matugen) - A cross-platform material you and base16 color generation tool
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -2232,7 +2237,7 @@
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [emirce/bullstudio](https://github.com/emirce/bullstudio) - 🐂 Modern dashboard for Bull and BullMQ. Built for developers.
 - [JBorgia/signaltree](https://github.com/JBorgia/signaltree) - A powerful, type-safe, modular signal-based state management solution for Angular applications. SignalTree provides a modern, lightweight alternative to traditional state management with intelligent c
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
 - [GraphLens/graphlens](https://github.com/GraphLens/graphlens) - Interactive architecture visualizer for Angular projects – Transforms code entropy into structured, navigable graphs
 - [valkey-io/iovalkey](https://github.com/valkey-io/iovalkey) - 
 - [love1024/ngx-oneforall](https://github.com/love1024/ngx-oneforall) - A single library providing the essential blocks for modern Angular development.
@@ -2376,7 +2381,6 @@
 - [bunny-mod/Bunny](https://github.com/bunny-mod/Bunny) - A Discord mobile app client modification.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 🎁
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
@@ -2409,7 +2413,6 @@
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub) - :computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - A professional and universal remastering tool for all major distributions
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
