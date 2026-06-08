@@ -429,7 +429,7 @@
 ## Go 
 
 - [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Keyboard-first Telegram client for the terminal, written in Go
-- [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal NixOS Deployment Tool - inspect, bootstrap, build, transfer, secrets, activate, rollback - https://panix.xyz
+- [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal NixOS Deployment Tool - inspect, bootstrap, build, transfer, secrets, activate, rollback
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
 - [eznix86/docker-registry-ui](https://github.com/eznix86/docker-registry-ui) - Yet another docker registry UI
@@ -1660,7 +1660,7 @@
 - [xarbit/plasma6-applet-appgrid](https://github.com/xarbit/plasma6-applet-appgrid) - AppGrid for Plasma is a modern alternative to Kickoff and Kicker. A grid launcher for KDE Plasma 6 — unified search, KRunner integration, animations.
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [rxappdev/RememberWindowPositions](https://github.com/rxappdev/RememberWindowPositions) - Remember window positions for apps in KDE Plasma 6+. Especially useful for multi-window applications such as browsers.
-- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 - [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) - Latte-Dock and WM status bar customization for the KDE Plasma panels
 - [ccatterina/plasmusic-toolbar](https://github.com/ccatterina/plasmusic-toolbar) - KDE Plasma widget that shows currently playing song information and provide playback controls.
 - [antroids/application-title-bar](https://github.com/antroids/application-title-bar) - KDE Plasma6 widget with window controls
