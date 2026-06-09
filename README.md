@@ -43,6 +43,7 @@
 - [Markdown](#markdown)
 - [Nim](#nim)
 - [Nix](#nix)
+- [Nushell](#nushell)
 - [Objective-C](#objective-c)
 - [Objective-C++](#objective-c++)
 - [Others](#others)
@@ -775,7 +776,6 @@
 - [rehypejs/rehype-minify](https://github.com/rehypejs/rehype-minify) - plugins to minify HTML
 - [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
-- [Defelo/nixpkgs-review-gha](https://github.com/Defelo/nixpkgs-review-gha) - Run nixpkgs-review in GitHub Actions
 - [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) - 🧊 Indulge in nostalgia with useless 3D effects.
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
@@ -1069,7 +1069,7 @@
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven confi
 - [chaotic-aur/nixos-mirrors](https://github.com/chaotic-aur/nixos-mirrors) - Repo for the "officially managed" chaotic-aur mirrors based on NixOS
-- [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
+- [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Nix configurations.
 - [powerofthe69/nix-gaming-edge](https://github.com/powerofthe69/nix-gaming-edge) - Personal "Bleeding-Edge" NUR w/ mesa-git and proton-cachyos
 - [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
 - [synapdeck/github-actions-nix](https://github.com/synapdeck/github-actions-nix) - Generate GitHub Actions workflows from Nix configuration
@@ -1211,6 +1211,10 @@
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
+
+## Nushell 
+
+- [Defelo/nixpkgs-review-gha](https://github.com/Defelo/nixpkgs-review-gha) - Run nixpkgs-review in GitHub Actions
 
 ## Objective-C 
 
@@ -1683,7 +1687,7 @@
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 - [singerscreations/discourse-stopforumspam](https://github.com/singerscreations/discourse-stopforumspam) - 
 - [samueldr/nostatoo](https://github.com/samueldr/nostatoo) - The Non-Steam App Toolkit.
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [Lhcfl/discourse-chat-bridge](https://github.com/Lhcfl/discourse-chat-bridge) - 
 - [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [joeyates/imap-backup](https://github.com/joeyates/imap-backup) - Backup and Migrate IMAP Email Accounts
@@ -1707,7 +1711,7 @@
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A blazingly fast security scanner, written in Rust. Batteries included, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
 - [JRMurr/tix](https://github.com/JRMurr/tix) - A nix type checker/lsp
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.
 - [Rodrigodd/strace-tui](https://github.com/Rodrigodd/strace-tui) - A terminal user interface (TUI) for visualizing and exploring strace output
 - [dsalaza4/cilens](https://github.com/dsalaza4/cilens) - GitHub Actions and GitLab CI analytics CLI
@@ -2240,7 +2244,7 @@
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [emirce/bullstudio](https://github.com/emirce/bullstudio) - 🐂 Modern dashboard for Bull and BullMQ. Built for developers.
 - [JBorgia/signaltree](https://github.com/JBorgia/signaltree) - A powerful, type-safe, modular signal-based state management solution for Angular applications. SignalTree provides a modern, lightweight alternative to traditional state management with intelligent c
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [GraphLens/graphlens](https://github.com/GraphLens/graphlens) - Interactive architecture visualizer for Angular projects – Transforms code entropy into structured, navigable graphs
 - [valkey-io/iovalkey](https://github.com/valkey-io/iovalkey) - 
 - [love1024/ngx-oneforall](https://github.com/love1024/ngx-oneforall) - A single library providing the essential blocks for modern Angular development.
@@ -2318,7 +2322,7 @@
 - [gridaco/cors.sh](https://github.com/gridaco/cors.sh) - Sick of CORS Errors?
 - [decompme/decomp.me](https://github.com/decompme/decomp.me) - Collaborative decompilation and reverse engineering website
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Agents. Cut Costs up to 70% 🦚
+- [mnfst/manifest](https://github.com/mnfst/manifest) - Connect Your Agents And Harnesses With Any Provider 🦚
 - [garuda-linux/toolbox](https://github.com/garuda-linux/toolbox) - Replacement for a handful of Garuda applications. Currently implements Welcome, Assistant and Gamer (mirrored from GitLab)
 - [crabnebula-dev/devtools](https://github.com/crabnebula-dev/devtools) - Inspect and Debug your Tauri applications in style 💃
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
