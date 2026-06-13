@@ -3500,6 +3500,7 @@
 
 ## others 
 
+- [rustaccato/road-to-being-master-rustacean](https://github.com/rustaccato/road-to-being-master-rustacean) - 
 - [oferchen/rsync](https://github.com/oferchen/rsync) - Classic rsync re-implementation in pure Rust
 - [Gabriella439/override-utils](https://github.com/Gabriella439/override-utils) - Ergonomic interface for overriding Nixpkgs
 - [SchildiChat/schildichat-android-next](https://github.com/SchildiChat/schildichat-android-next) - Matrix client / Element X fork
