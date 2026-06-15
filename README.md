@@ -1989,6 +1989,7 @@
 
 ## Shell 
 
+- [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
 - [bharatmk2567/brave-debloater](https://github.com/bharatmk2567/brave-debloater) - 
 - [arcmags/ramroot](https://github.com/arcmags/ramroot) - Load root file system to ram in early userspace.
 - [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
