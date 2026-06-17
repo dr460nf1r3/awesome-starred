@@ -694,6 +694,7 @@
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
 - [NixOS/nix-idea](https://github.com/NixOS/nix-idea) - Nix plugin for the IntelliJ IDEA IDE
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
 - [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
 - [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
@@ -1721,7 +1722,7 @@
 - [zimbatm/subportal](https://github.com/zimbatm/subportal) - xdg-open on your server
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
 - [anodized-rs/anodized](https://github.com/anodized-rs/anodized) - Harden your Rust with specifications.
-- [OpenGamingCollective/asusctl-personal](https://github.com/OpenGamingCollective/asusctl-personal) - Daemon and tools to control your ASUS ROG laptop. Supersedes rog-core.
+- [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl) - Daemon and tools to control your ASUS ROG laptop. Supersedes rog-core.
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
 - [dfrankland/envoluntary](https://github.com/dfrankland/envoluntary) - Automatic Nix development environments for your shell.
 - [daskladas/nixmate](https://github.com/daskladas/nixmate) - All your NixOS tools in one TUI — generations, rebuilds, services, errors, and more.
@@ -2391,7 +2392,6 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 🎁
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [nicorac/bcr-gui](https://github.com/nicorac/bcr-gui) - BCR-GUI is a companion app for the great BCR (Basic Call Recorder) Android application and other supported ROMs with embedded call recorders.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
