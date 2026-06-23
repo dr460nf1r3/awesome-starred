@@ -3509,6 +3509,8 @@
 
 ## others 
 
+- [ObjectAscended/brave-origin-unlocker](https://github.com/ObjectAscended/brave-origin-unlocker) - Unlock premium features in Brave Origin for Windows & MacOS. This Deno-based script bypasses purchase validation by safely updating local state configurations.
+- [FlyGoat/RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Adjust power management settings for Ryzen APUs
 - [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains) - Daily updated repository for https://github.com/disposable/disposable
 - [orium/cargo-rdme](https://github.com/orium/cargo-rdme) - Cargo command to create the README.md from your crate's documentation
 - [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups!
