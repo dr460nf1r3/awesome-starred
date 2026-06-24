@@ -329,7 +329,7 @@
 
 - [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
 - [kayozxo/GNOME-macOS-Tahoe](https://github.com/kayozxo/GNOME-macOS-Tahoe) - MacOS Tahoe inspired theme for GNOME
-- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - Dark theme / More compact / Modular / Blur
 - [dermv/cute-kuma](https://github.com/dermv/cute-kuma) - Give your Uptime Kuma status page a cute and modern look with custom CSS
 - [addisonjames/obsidian-translucent](https://github.com/addisonjames/obsidian-translucent) - A CSS snippet that gives Obsidian a translucent, frosted-glass interface.
 - [Floorp-Projects/Floorp-12](https://github.com/Floorp-Projects/Floorp-12) - 
@@ -695,6 +695,7 @@
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
 - [NixOS/nix-idea](https://github.com/NixOS/nix-idea) - Nix plugin for the IntelliJ IDEA IDE
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
 - [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
 - [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
@@ -814,7 +815,7 @@
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [pinojs/pino-pretty](https://github.com/pinojs/pino-pretty) - 🌲Basic prettifier for Pino log lines
 - [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
-- [siimon/prom-client](https://github.com/siimon/prom-client) - Prometheus client for node.js
+- [prometheus/prom-client](https://github.com/prometheus/prom-client) - Prometheus client for node.js
 - [jcponce/calculus](https://github.com/jcponce/calculus) - Applets about Calculus
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs) - Beautiful toolbox for jsdoc generated documentation - with 'typescript', `category` and `component` plugins
@@ -2397,7 +2398,6 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 🎁
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [nicorac/bcr-gui](https://github.com/nicorac/bcr-gui) - BCR-GUI is a companion app for the great BCR (Basic Call Recorder) Android application and other supported ROMs with embedded call recorders.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
