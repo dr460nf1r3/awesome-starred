@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -306,6 +307,11 @@
 
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+
+## agent-skills 
+
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 
 ## agents 
 
@@ -3566,7 +3572,6 @@
 - [Sohimaster/traur](https://github.com/Sohimaster/traur) - trust scoring for AUR packages written in Rust
 - [mark-hingston/opencode-elf](https://github.com/mark-hingston/opencode-elf) - Emergent Learning Framework (ELF) for OpenCode - Learn from past successes and failures to continuously improve your AI coding assistant
 - [powerofthe69/nix-gaming-edge](https://github.com/powerofthe69/nix-gaming-edge) - Personal "Bleeding-Edge" NUR w/ mesa-git and proton-cachyos
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [mattkeenan/zenpower5](https://github.com/mattkeenan/zenpower5) - Linux kernel driver for AMD Zen CPU monitoring (Zen 1-5): temperature, voltage, current, and power via SVI2/RAPL. Multi-file architecture with Zen 5 (Strix Halo) support.
 - [zimbatm/subportal](https://github.com/zimbatm/subportal) - xdg-open on your server
 - [moodyhunter/applet-window-buttons6](https://github.com/moodyhunter/applet-window-buttons6) - Plasma ~~5~~ (no, 6) applet in order to show window buttons in your panels
@@ -3607,7 +3612,7 @@
 - [valkey-io/iovalkey](https://github.com/valkey-io/iovalkey) - 
 - [love1024/ngx-oneforall](https://github.com/love1024/ngx-oneforall) - A single library providing the essential blocks for modern Angular development.
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Error page generator that brings premium downtime experience to your website. (unofficial)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial)
 - [dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database) - 🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, SQLSERVER, MONGODB, SQLITE, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, count
 - [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [thomasorgeval/ngx-better-auth](https://github.com/thomasorgeval/ngx-better-auth) - Better Auth client side implementation for Angular
