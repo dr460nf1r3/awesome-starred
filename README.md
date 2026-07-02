@@ -1223,6 +1223,7 @@
 
 ## Others 
 
+- [buybitart/cloudflare-security-art](https://github.com/buybitart/cloudflare-security-art) - Cloudflare Free Plan security rules (Zero Trust approach) for small websites
 - [rustaccato/road-to-being-master-rustacean](https://github.com/rustaccato/road-to-being-master-rustacean) - 
 - [krauseler/muxcard](https://github.com/krauseler/muxcard) - A literal credit-card sized computer with E-Paper display,  ESP32 and NFC.
 - [maniacx/BudsLink-Companion](https://github.com/maniacx/BudsLink-Companion) - 
