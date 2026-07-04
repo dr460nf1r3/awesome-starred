@@ -450,7 +450,7 @@
 - [JetBrains/typescript-go](https://github.com/JetBrains/typescript-go) - Unofficial fork maintained by JetBrains.
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
-- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
+- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own.
 - [aquasecurity/trivy-db](https://github.com/aquasecurity/trivy-db) - 
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -1413,6 +1413,7 @@
 
 ## Python 
 
+- [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 265 rules across 26 categories that AI coding agents can use to write   idiomatic, fast, and safe Rust.
 - [Furglitch/modorganizer2-linux-installer](https://github.com/Furglitch/modorganizer2-linux-installer) - An easy-to-use Mod Organizer 2 installer for Linux
 - [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -2225,7 +2226,7 @@
 
 - [colincode0/earth-view](https://github.com/colincode0/earth-view) - Interactive 3D satellite imagery explorer pulling NASA GIBS and Copernicus Sentinel data onto a Three.js globe, with regional zoom, time lapses, and OpenAI/Anthropic view analysis
 - [ObjectAscended/brave-origin-unlocker](https://github.com/ObjectAscended/brave-origin-unlocker) - Unlock premium features in Brave Origin for Windows & MacOS. This Deno-based script bypasses purchase validation by safely updating local state configurations.
-- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey
+- [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Docker Volume
 - [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups!
 - [lullabyX/sone](https://github.com/lullabyX/sone) - Native TIDAL desktop client for Linux. Modern UI, custom themes, and bit-perfect lossless audio up to 24-bit/192kHz via exclusive ALSA.
 - [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
