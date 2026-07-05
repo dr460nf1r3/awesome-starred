@@ -500,7 +500,7 @@
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [prathameshmm02/Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) - Calculator & Converter for Android
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [shmykelsa/AAAD](https://github.com/shmykelsa/AAAD) - The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [ReVanced/revanced-patcher](https://github.com/ReVanced/revanced-patcher) - 💉 ReVanced Patcher used to patch Android applications
@@ -1495,7 +1495,7 @@
 ## django 
 
 - [mr-fatalyst/fastopenapi](https://github.com/mr-fatalyst/fastopenapi) - FastOpenAPI is a library for generating and integrating OpenAPI schemas using Pydantic v2 and various frameworks (AioHttp, Django, Falcon, Flask, Quart, Sanic, Starlette, Tornado).
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
@@ -1616,7 +1616,7 @@
 ## documentation 
 
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [compodoc/compodoc](https://github.com/compodoc/compodoc) - :notebook_with_decorative_cover: The missing documentation tool for your Angular, Nest & Stencil application
 - [dmnsgn/typedoc-material-theme](https://github.com/dmnsgn/typedoc-material-theme) - A TypeDoc theme based on Material 3.
 - [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
@@ -1629,7 +1629,7 @@
 ## dotfiles 
 
 - [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
-- [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
+- [Misterio77/Foundry](https://github.com/Misterio77/Foundry) - Personal monorepo. NixOS+home-manager configs, website, and other projects.
 - [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - It’s not “just dotfiles” - it's extreme modularity that looks and feels like a NixOS flake. It's Voice-driven DevOps, it's a declarative home automation system, it's a self-contained auto-documenting 
 - [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
 - [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
@@ -1808,7 +1808,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Psyhackological/AAA](https://github.com/Psyhackological/AAA) - :iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [Merrit/nyrna](https://github.com/Merrit/nyrna) - Suspend games and applications.
 
@@ -2887,7 +2887,7 @@
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [krglaws/MyLFS](https://github.com/krglaws/MyLFS) - A giant Bash script that builds Linux From Scratch
@@ -3078,7 +3078,7 @@
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -3254,7 +3254,7 @@
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
@@ -3540,6 +3540,8 @@
 
 ## others 
 
+- [sableeyed/NolvusDashboard](https://github.com/sableeyed/NolvusDashboard) - Nolvus Dashboard Rewritten For Linux
+- [Matszwe02/ytdlp_web_player](https://github.com/Matszwe02/ytdlp_web_player) - YT-DLP Web Player - Internet video player powered by yt-dlp
 - [Furglitch/modorganizer2-linux-installer](https://github.com/Furglitch/modorganizer2-linux-installer) - An easy-to-use Mod Organizer 2 installer for Linux
 - [vickoc911/org.vicko.wavetask](https://github.com/vickoc911/org.vicko.wavetask) - Task Manager App bar displaying only icons with zoom like OSX
 - [colincode0/earth-view](https://github.com/colincode0/earth-view) - Interactive 3D satellite imagery explorer pulling NASA GIBS and Copernicus Sentinel data onto a Three.js globe, with regional zoom, time lapses, and OpenAI/Anthropic view analysis
@@ -4855,7 +4857,7 @@
 - [domternal/domternal](https://github.com/domternal/domternal) - Modern, extensible rich text editor toolkit built on ProseMirror. Classic and Notion-style editors out of the box. Or go headless and assemble from 65+ tree-shakeable extensions. First-class wrappers 
 - [rohanrhu/react-kitten](https://github.com/rohanrhu/react-kitten) - React desktop environment for the web. React-ish and highly customizable. 🐱
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
@@ -5204,7 +5206,7 @@
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
@@ -5949,7 +5951,7 @@
 - [MicaForEveryone/MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Mica For Everyone is a tool to enable backdrop effects on the title bars of Win32 apps on Windows 11.
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
