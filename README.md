@@ -230,7 +230,7 @@
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [SneWs/tail-tray](https://github.com/SneWs/tail-tray) - Tailscale tray menu and UI for the KDE Plasma Desktop
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68275, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68453, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [SonyCore/SonyGramDesktop](https://github.com/SonyCore/SonyGramDesktop) - Desktop Telegram client with good customization and Ghost mode (ReCoil).
 - [ptyfyre/mandarine-neo](https://github.com/ptyfyre/mandarine-neo) - A Citra fork with new features and hacks which are experimental and may not be present in Azahar. Continuation of Mandarine 3DS emulator.
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
@@ -1532,7 +1532,7 @@
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [luisbocanegra/kde-material-you-colors](https://github.com/luisbocanegra/kde-material-you-colors) - Automatic color scheme generator from your wallpaper for KDE Plasma powered by Material You
 - [postgrespro/pg_probackup](https://github.com/postgrespro/pg_probackup) - Backup and recovery manager for PostgreSQL
 - [lissy93/portainer-templates](https://github.com/lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
