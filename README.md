@@ -1706,6 +1706,7 @@
 
 ## Rust 
 
+- [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [ClickHouse/wal-rus](https://github.com/ClickHouse/wal-rus) - rust port derived from wal-g
 - [Dylanmurzello/zed-android-port](https://github.com/Dylanmurzello/zed-android-port) - Native Android port of the Zed code editor,  gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes.
 - [bogardt/bullmq-rs](https://github.com/bogardt/bullmq-rs) - 🛠️BullMQ-inspired Rust library for advanced job & queue management with Redis. Supports job prioritization, delays, retries, workers, logging & queue monitoring. Open-source, fast, and reliable ideal 
