@@ -2168,6 +2168,7 @@
 
 ## hacktoberfest 
 
+- [chunky-dev/chunky](https://github.com/chunky-dev/chunky) - A path tracer to create realistic images of your Minecraft worlds.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [catppuccin/element](https://github.com/catppuccin/element) - 💫️ Soothing pastel theme for Element
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
@@ -2463,6 +2464,7 @@
 
 ## java 
 
+- [chunky-dev/chunky](https://github.com/chunky-dev/chunky) - A path tracer to create realistic images of your Minecraft worlds.
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [devoxx/DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin) - DevoxxGenie is an agentic plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code. Latest ver
@@ -3179,6 +3181,7 @@
 
 ## minecraft 
 
+- [chunky-dev/chunky](https://github.com/chunky-dev/chunky) - A path tracer to create realistic images of your Minecraft worlds.
 - [Infinidoge/nix-minecraft](https://github.com/Infinidoge/nix-minecraft) - An attempt to better support Minecraft-related content for the Nix ecosystem
 - [FreesmTeam/FreesmLauncher](https://github.com/FreesmTeam/FreesmLauncher) - A Prism Launcher fork aimed to provide a free way to play Minecraft
 - [meyfa/CobolCraft](https://github.com/meyfa/CobolCraft) - A Minecraft server written in COBOL
@@ -5089,7 +5092,7 @@
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master Node.js. V8, libuv, event loop, buffers, streams, async internals, performance, security, deployment, and production architecture.
-- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Detect leaked secrets + live validation. Map blast radius across your stack. Revoke fast. 950+ rules.
+- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Detect leaked secrets + live validation. Map blast radius across your stack. Revoke fast. 1,000+ rules.
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
 - [wolfSSL/wolfssl-nginx](https://github.com/wolfSSL/wolfssl-nginx) - Adds wolfSSL support to Nginx.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
