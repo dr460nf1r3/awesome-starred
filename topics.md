@@ -3013,7 +3013,7 @@
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
-- [lucid-fabrics/osx-proxmox-next](https://github.com/lucid-fabrics/osx-proxmox-next) - One-command macOS VM on Proxmox 9 — TUI wizard, auto-download, AMD+Intel, Sonoma/Sequoia/Tahoe
+- [lucid-fabrics/osx-proxmox-next](https://github.com/lucid-fabrics/osx-proxmox-next) - One-command macOS VM on Proxmox 9: TUI wizard, auto-download, AMD + Intel, Sonoma/Sequoia/Tahoe
 - [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -3677,7 +3677,6 @@
 - [jfernandez/mdserve](https://github.com/jfernandez/mdserve) - Markdown preview server for AI coding agents.
 - [sand97/nest-responses-generator](https://github.com/sand97/nest-responses-generator) - NestJS plugin to generate automatically API Responses in Swagger based on controllers's functions inferred return types
 - [vivlim/tailscale-protonmail-bridge-docker](https://github.com/vivlim/tailscale-protonmail-bridge-docker) - 
-- [Gyanaa-Vaibhav/IPWho.org](https://github.com/Gyanaa-Vaibhav/IPWho.org) - Fast, Free IP 🌍 Geolocation API — no auth, no signup. Built with Node.js, Express, TypeScript, and MaxMind. Production-ready, open-source, and developer-first.
 - [losfair/bake](https://github.com/losfair/bake) - Bake microVMs into standalone executables
 - [oddlama/nix-fingerprint](https://github.com/oddlama/nix-fingerprint) - Fingerprints the underlying system by only using primitives available in pure evaluation mode
 - [ptrpaws/xeus-lix](https://github.com/ptrpaws/xeus-lix) - a native jupyter kernel for the nix language
