@@ -1045,13 +1045,14 @@
 
 ## cli 
 
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Keyboard-first Telegram client for the terminal, written in Go
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
 - [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
-- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A fast universal code security scanner, written in Rust. Batteries included: supports 12 languages, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
+- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A fast universal code security scanner, written in Rust. Batteries included: supports 14 languages, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [dsalaza4/cilens](https://github.com/dsalaza4/cilens) - GitHub Actions and GitLab CI analytics CLI
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
@@ -1233,6 +1234,7 @@
 
 ## cpp 
 
+- [Virtastic/openmw-web](https://github.com/Virtastic/openmw-web) - Play Morrowind in your browser — the OpenMW engine compiled to WebAssembly.
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [pawelsalawa/letos](https://github.com/pawelsalawa/letos) - A free, open source, multi-platform SQLite database manager.
@@ -1413,6 +1415,7 @@
 
 ## developer-tools 
 
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [grinev/opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot) - OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support.
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
@@ -1695,7 +1698,7 @@
 
 - [thatsme/Tomato](https://github.com/thatsme/Tomato) - Hierarchical DAG engine for composable NixOS configuration management — visual graph editor, OODN variables, template library, SSH deploy with nixos-rebuild
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 
 ## emacs 
@@ -1865,6 +1868,7 @@
 
 ## game-engine 
 
+- [Virtastic/openmw-web](https://github.com/Virtastic/openmw-web) - Play Morrowind in your browser — the OpenMW engine compiled to WebAssembly.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [OTFCG/Awesome-Game-Analysis](https://github.com/OTFCG/Awesome-Game-Analysis) - a comprehensive collection of video game tech analysis resources
 
@@ -1969,6 +1973,7 @@
 
 ## go 
 
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync
 - [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Keyboard-first Telegram client for the terminal, written in Go
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
@@ -2761,6 +2766,7 @@
 
 ## linux 
 
+- [GunduLabs/gaze](https://github.com/GunduLabs/gaze) - Facial authentication for Linux
 - [lullabyX/sone](https://github.com/lullabyX/sone) - Native TIDAL desktop client for Linux. Modern UI, custom themes, and bit-perfect lossless audio up to 24-bit/192kHz via exclusive ALSA.
 - [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Keyboard-first Telegram client for the terminal, written in Go
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -3371,7 +3377,7 @@
 - [prod-forge/backend](https://github.com/prod-forge/backend) - Prod Forge is an open-source reference that shows how to build and operate a production-ready system: AI-assisted development, quality gates, CI/CD, infrastructure, observability, migrations, and roll
 - [andrechristikan/ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate) - NestJS boilerplate with JWT, OAuth (Google & Apple), OTP, TOTP/2FA, and RBAC. Powered by Prisma, works with any database. Repository Design Pattern and Modular. Production-ready.
 - [avifenesh/glide-mq](https://github.com/avifenesh/glide-mq) - High-performance message queue for Node.js — Valkey/Redis Streams with Rust-native NAPI bindings
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
@@ -3550,6 +3556,7 @@
 
 ## others 
 
+- [mkccl/prime-ng-theme-fe](https://github.com/mkccl/prime-ng-theme-fe) - Theme Designer for PrimeNG
 - [openng-org/optimus-ui](https://github.com/openng-org/optimus-ui) - 
 - [Swarsel/pedantix](https://github.com/Swarsel/pedantix) - The pedantic nix formatter
 - [sableeyed/NolvusDashboard](https://github.com/sableeyed/NolvusDashboard) - Nolvus Dashboard Rewritten For Linux
@@ -4482,7 +4489,7 @@
 ## php 
 
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
@@ -4617,6 +4624,7 @@
 
 ## productivity 
 
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
@@ -4674,7 +4682,7 @@
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [thiagoaramizo/redis-bullmq-explorer](https://github.com/thiagoaramizo/redis-bullmq-explorer) - Desktop GUI application to explore BullMQ queues stored in Redis.
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
 - [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
 - [EbbLabs/python-tidal](https://github.com/EbbLabs/python-tidal) - Python API for TIDAL music streaming service
@@ -4950,7 +4958,7 @@
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
-- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A fast universal code security scanner, written in Rust. Batteries included: supports 12 languages, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
+- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A fast universal code security scanner, written in Rust. Batteries included: supports 14 languages, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.
 - [rzru/nightingale](https://github.com/rzru/nightingale) - Machine learning powered Karaoke app (with scores!)
 - [dsalaza4/cilens](https://github.com/dsalaza4/cilens) - GitHub Actions and GitLab CI analytics CLI
@@ -4960,6 +4968,7 @@
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [dsplce-co/supabase-plus](https://github.com/dsplce-co/supabase-plus) - An extra set of tools for managing Supabase projects going beyond the possibilities of regular Supabase CLI
@@ -5095,7 +5104,7 @@
 - [cilium/cilium-cli](https://github.com/cilium/cilium-cli) - CLI to install, manage & troubleshoot Kubernetes clusters running Cilium
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
-- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A fast universal code security scanner, written in Rust. Batteries included: supports 12 languages, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
+- [0sec-labs/foxguard](https://github.com/0sec-labs/foxguard) - A fast universal code security scanner, written in Rust. Batteries included: supports 14 languages, TUI for triage, secrets, post-quantum audits, diff-aware scans and more 𓃥
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master Node.js. V8, libuv, event loop, buffers, streams, async internals, performance, security, deployment, and production architecture.
@@ -5285,6 +5294,7 @@
 
 ## shell 
 
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
@@ -5659,7 +5669,7 @@
 - [GraphLens/graphlens](https://github.com/GraphLens/graphlens) - Interactive architecture visualizer for Angular projects – Transforms code entropy into structured, navigable graphs
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [ng-forge/ng-forge](https://github.com/ng-forge/ng-forge) - Type-safe dynamic forms library for Angular 21 signal forms
-- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir and PHP based on Redis
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis
 - [gparlakov/scuri](https://github.com/gparlakov/scuri) - Automate Angular unit test and boilerplate with this schematic.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
@@ -6024,6 +6034,7 @@
 
 ## zsh 
 
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
 - [lasantosr/intelli-shell](https://github.com/lasantosr/intelli-shell) - Like IntelliSense, but for shells
 - [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
