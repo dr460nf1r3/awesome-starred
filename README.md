@@ -97,6 +97,7 @@
 
 ## C 
 
+- [leogx9r/ryzen_smu](https://github.com/leogx9r/ryzen_smu) - A Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors. Read only mirror of https://gitlab.com/leogx9r/ryzen_smu
 - [FlyGoat/RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Adjust power management settings for Ryzen APUs
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer a
 - [Yubico/pam-u2f](https://github.com/Yubico/pam-u2f) - Pluggable Authentication Module (PAM) for U2F and FIDO2
@@ -810,7 +811,6 @@
 - [snowfallorg/frost](https://github.com/snowfallorg/frost) - Generate documentation for Nix Flakes.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [postalsys/imapflow](https://github.com/postalsys/imapflow) - IMAP Client library for EmailEngine Email API (https://emailengine.app)
-- [flathub/org.garudalinux.firedragon](https://github.com/flathub/org.garudalinux.firedragon) - 
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [pinojs/pino-pretty](https://github.com/pinojs/pino-pretty) - 🌲Basic prettifier for Pino log lines
@@ -1273,6 +1273,7 @@
 - [chaotic-aur/packages-archive](https://github.com/chaotic-aur/packages-archive) - Contains our pre-v4 commit history.
 - [iAnonymous3000/awesome-grapheneos-guide](https://github.com/iAnonymous3000/awesome-grapheneos-guide) - A comprehensive, step-by-step guide to help new users navigate the privacy-focused, security-hardened mobile OS based on Android. Learn how to purchase a device, install and configure GrapheneOS, and 
 - [dotnet/roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) - 
+- [flathub/org.garudalinux.firedragon](https://github.com/flathub/org.garudalinux.firedragon) - 
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [addyosmani/es6-tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
