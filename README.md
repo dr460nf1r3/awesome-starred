@@ -430,11 +430,11 @@
 
 ## Go 
 
-- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh - Go daemon, no TUI, no sync
+- [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
 - [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Keyboard-first Telegram client for the terminal, written in Go
 - [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal NixOS Deployment Tool - inspect, bootstrap, build, transfer, secrets, activate, rollback
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
-- [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic — plus resource browsing and Helm management.
+- [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
 - [eznix86/docker-registry-ui](https://github.com/eznix86/docker-registry-ui) - Yet another docker registry UI
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
