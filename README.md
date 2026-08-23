@@ -232,7 +232,7 @@
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [SneWs/tail-tray](https://github.com/SneWs/tail-tray) - Tailscale tray menu and UI for the KDE Plasma Desktop
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68974, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.0.69404, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [SonyCore/SonyGramDesktop](https://github.com/SonyCore/SonyGramDesktop) - Desktop Telegram client with good customization and Ghost mode (ReCoil).
 - [ptyfyre/mandarine-neo](https://github.com/ptyfyre/mandarine-neo) - A Citra fork with new features and hacks which are experimental and may not be present in Azahar. Continuation of Mandarine 3DS emulator.
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
@@ -1343,7 +1343,7 @@
 - [ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible) - Awesome Ansible List
 - [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards) - Grafana dashboards
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
 - [chaotic-aur/notes](https://github.com/chaotic-aur/notes) - Documentation on how to operate our nodes 📔
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
@@ -1805,7 +1805,7 @@
 - [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot) - Determine if you need to reboot your NixOS machine
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
 - [fooker/pullomatic](https://github.com/fooker/pullomatic) - Automates git repository syncing through pure configuration
-- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Detect leaked secrets + live validation. Map blast radius across your stack. Revoke fast. 1,000+ rules.
+- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Detect leaked secrets + live validation. Map blast radius across your stack. Revoke fast. Hundreds of rules.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq) - A high-performance and efficient message queue developed   in Rust
 - [anistark/feluda](https://github.com/anistark/feluda) - Detect license usage restrictions in your project!
@@ -2024,7 +2024,7 @@
 - [bharatmk2567/brave-debloater](https://github.com/bharatmk2567/brave-debloater) - 
 - [arcmags/ramroot](https://github.com/arcmags/ramroot) - Load root file system to ram in early userspace.
 - [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost) - Huly for Self Hosting
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [eriksjolund/podman-caddy-socket-activation](https://github.com/eriksjolund/podman-caddy-socket-activation) - Demo of how to run socket-activated caddy with Podman. Source IP address is preserved.
 - [NoName-exe/revanced](https://github.com/NoName-exe/revanced) - ReVanced YT and YT-M for both root and non-root users.
 - [NodeOS/NodeOS](https://github.com/NodeOS/NodeOS) - Lightweight operating system using Node.js as userspace
