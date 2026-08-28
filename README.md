@@ -233,7 +233,7 @@
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [SneWs/tail-tray](https://github.com/SneWs/tail-tray) - Tailscale tray menu and UI for the KDE Plasma Desktop
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.0.69465, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.1.0.69497, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 - [SonyCore/SonyGramDesktop](https://github.com/SonyCore/SonyGramDesktop) - Desktop Telegram client with good customization and Ghost mode (ReCoil).
 - [ptyfyre/mandarine-neo](https://github.com/ptyfyre/mandarine-neo) - A Citra fork with new features and hacks which are experimental and may not be present in Azahar. Continuation of Mandarine 3DS emulator.
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
@@ -432,6 +432,7 @@
 
 ## Go 
 
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
 - [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Keyboard-first Telegram client for the terminal, written in Go
 - [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal Nix Deployment Orchestrator - inspect, bootstrap, build, transfer, secrets, activate, rollback
@@ -623,7 +624,7 @@
 - [MeowDump/Integrity-Box](https://github.com/MeowDump/Integrity-Box) - A toolkit for managing Play Integrity & System Environment
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [felixdivo/c3-fahrplan-druck](https://github.com/felixdivo/c3-fahrplan-druck) - The Fahrplan in the style of a Fahrplan.
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)
 - [TailAdmin/free-angular-tailwind-dashboard](https://github.com/TailAdmin/free-angular-tailwind-dashboard) - Free, open-source admin dashboard template crafted with Angular and Tailwind CSS. Includes essential UI components, elements, and pre-built pages to create a sleek, modern admin panel and dashboard wi
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [search-rug/iac-cost-patterns](https://github.com/search-rug/iac-cost-patterns) - A living catalog of cost management patterns and antipatterns for Infrastructure as Code in cloud deployments. Open for community contributions.
@@ -697,7 +698,7 @@
 - [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram) - Open-source third-party Telegram client with not many but useful modifications.
 - [gohj99/Telewatch](https://github.com/gohj99/Telewatch) - ‎Telegram for Android watch & wearos
 - [ukanth/afwall](https://github.com/ukanth/afwall) - AFWall+ (Android Firewall +) - iptables based firewall for Android
-- [CyanChanges/Sui](https://github.com/CyanChanges/Sui) - Modern super user interface implementation on Android.
+- [cyans-nya/Sui](https://github.com/cyans-nya/Sui) - Modern super user interface implementation on Android.
 - [AyuGram/AyuGram4A](https://github.com/AyuGram/AyuGram4A) - Just an exteraGram based client with ToS breaking features in mind.
 - [xoureldeen/Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 - [labnex/LabNex](https://github.com/labnex/LabNex) - LabNex is an open-source Android app designed for managing GitLab projects
@@ -1766,7 +1767,7 @@
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
 - [synacktiv/shh](https://github.com/synacktiv/shh) - Systemd Hardening Helper - Mirror of https://github.com/desbma/shh
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed.
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [Vaishnav-Sabari-Girish/nibble](https://github.com/Vaishnav-Sabari-Girish/nibble) - A tool for glamorous shell scripts. Quick, inline TUI components built with Ratatui—no full-screen takeover, just small bites of interaction.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
