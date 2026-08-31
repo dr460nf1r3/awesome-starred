@@ -5279,6 +5279,7 @@
 - [lissy93/portainer-templates](https://github.com/lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [debops/debops](https://github.com/debops/debops) - DebOps - Your Debian-based data center in a box
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
+- [aykutalparslan/Telegram-Server](https://github.com/aykutalparslan/Telegram-Server) - Telegram Server written in C# (Unofficial) - messaging, channels, media, secret chats and voice/video calls.
 - [surishortlink/suri](https://github.com/surishortlink/suri) - Your own short links as an easily deployed static site
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
