@@ -2943,7 +2943,7 @@
 - [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
 - [NeoTerrm/NeoTerm](https://github.com/NeoTerrm/NeoTerm) - 👍 modern terminal emulator for Android
 - [hamadmarri/cacule-cpu-scheduler](https://github.com/hamadmarri/cacule-cpu-scheduler) - The CacULE CPU scheduler is based on interactivity score mechanism. The interactivity score is inspired by the ULE scheduler (FreeBSD scheduler).
-- [Edu4rdSHL/rusnapshot](https://github.com/Edu4rdSHL/rusnapshot) - Simple and handy definitions-based snapshoting tool for BTRFS
+- [Edu4rdSHL/rusnapshot](https://github.com/Edu4rdSHL/rusnapshot) - Simple and handy definitions-based snapshotting tool for BTRFS
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [calamares/calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework
 - [SDRausty/termux-archlinux](https://github.com/SDRausty/termux-archlinux) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
@@ -5553,6 +5553,7 @@
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
+- [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 - [andyrichardson/zsh-node-path](https://github.com/andyrichardson/zsh-node-path) - ZSH plugin for automatically adding the "npm bin" of your current directory to your path.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
