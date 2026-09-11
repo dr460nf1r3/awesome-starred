@@ -459,7 +459,7 @@
 - [JetBrains/typescript-go](https://github.com/JetBrains/typescript-go) - Unofficial fork maintained by JetBrains.
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
-- [veegres/ivory](https://github.com/veegres/ivory) - Ivory is designed to simplify and visualise work with databases. It provides management ui, query builder, basic vm stats, etc
+- [veegres/ivory](https://github.com/veegres/ivory) - Ivory is a database cluster management tool that puts control in your pocket. It gives you a unified UI for cluster management, a query builder, container control, and VM monitoring — so you can manag
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own.
 - [aquasecurity/trivy-db](https://github.com/aquasecurity/trivy-db) - 
 - [dstotijn/hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
@@ -1001,7 +1001,7 @@
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [you-apps/ClockYou](https://github.com/you-apps/ClockYou) - Privacy focused clock app built with MD3
 - [you-apps/RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
-- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
+- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client
 - [gamemn02/Settings-Database-Provider](https://github.com/gamemn02/Settings-Database-Provider) - An android package with only a content resolver work as bridge between android settings database provider and your app
 - [you-apps/ConnectYou](https://github.com/you-apps/ConnectYou) - Privacy focused contacts and SMS messenger app built with MD3
 - [Yet-Zio/yetCalc](https://github.com/Yet-Zio/yetCalc) - Yet another calculator designed and developed for Android
@@ -1069,6 +1069,7 @@
 ## Markdown 
 
 - [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
 - [CachyOS/statuspage](https://github.com/CachyOS/statuspage) - 📈 Uptime monitor and status page for CachyOS, powered by @upptime
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
@@ -1427,6 +1428,7 @@
 
 ## Python 
 
+- [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
 - [SimplyMinimal/tailscale-network-topology-mapper](https://github.com/SimplyMinimal/tailscale-network-topology-mapper) - A visual way to view your ACL rules for Tailscale
 - [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 265 rules across 26 categories that AI coding agents can use to write   idiomatic, fast, and safe Rust.
@@ -1491,7 +1493,6 @@
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
 - [Foldex/AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - A simple Gtk wrapper for Adwaita-for-Steam
 - [termux/proot-distro](https://github.com/termux/proot-distro) - A utility for managing proot containers.
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
@@ -1785,7 +1786,7 @@
 - [GoodBoyNeon/sprofile](https://github.com/GoodBoyNeon/sprofile) - ⚡ Blazingly fast TUI application for viewing your Spotify listening activity.
 - [cry-inc/dmarc-report-viewer](https://github.com/cry-inc/dmarc-report-viewer) - Lightweight Standalone DMARC and SMTP TLS Report Viewer with IMAP Client
 - [Mic92/direnv-instant](https://github.com/Mic92/direnv-instant) - Non-blocking direnv integration daemon with tmux support that provides instant shell prompts by running direnv asynchronously in the background.
-- [jfernandez/mdserve](https://github.com/jfernandez/mdserve) - Markdown preview server for AI coding agents.
+- [jfernandez/mdserve](https://github.com/jfernandez/mdserve) - [Archived] Markdown preview server for AI coding agents.
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [losfair/bake](https://github.com/losfair/bake) - Bake microVMs into standalone executables
