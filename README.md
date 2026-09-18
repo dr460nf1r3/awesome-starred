@@ -268,7 +268,6 @@
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@takeokunn,@Aleksanaa]
 - [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
@@ -706,6 +705,7 @@
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [FCL-Team/FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
 - [NixOS/nix-idea](https://github.com/NixOS/nix-idea) - Nix plugin for the IntelliJ IDEA IDE
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
 - [Arcticons-Team/Arcticons](https://github.com/Arcticons-Team/Arcticons) - A monotone line-based icon pack for android
 - [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
@@ -1310,7 +1310,7 @@
 - [RockyC36/StickerPack](https://github.com/RockyC36/StickerPack) - Linux distro and desktop stickers created in Inkscape
 - [swiglu/libvirt-stealth](https://github.com/swiglu/libvirt-stealth) - Bypass virtual machine detection
 - [jatrost/awesome-detection-rules](https://github.com/jatrost/awesome-detection-rules) - This is a collection of threat detection rules / rules engines that I have come across.
-- [justin-p/ansible-role-posh5](https://github.com/justin-p/ansible-role-posh5) - Update PowerShell/Windows Management Framework to Version 5.1, enure that .Net applications use Strong TLS, configure NuGet, PowerShell Gallery, PowerShellGet and install the PSReadline Module.
+- [justin-p/ansible-role-posh5](https://github.com/justin-p/ansible-role-posh5) - Update PowerShell/Windows Management Framework to Version 5.1, ensure that .Net applications use Strong TLS, configure NuGet, PowerShell Gallery, PowerShellGet and install the PSReadline Module.
 - [deekayen/ansible-role-cleanmgr](https://github.com/deekayen/ansible-role-cleanmgr) - Install Desktop Experience and then run Disk Cleanup on Microsoft Windows using Ansible.
 - [madlabber/NewWindowsVM-Ansible](https://github.com/madlabber/NewWindowsVM-Ansible) - Create a new Windows VM on a standalone ESX host
 - [justin-p/ansible-role-pdc](https://github.com/justin-p/ansible-role-pdc) - Setup a Primary Domain Controller and Active Directory on a Windows Server with a easy to use and abstracted Ansible role.
@@ -1370,6 +1370,7 @@
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP) - Custom server software for Minecraft: Bedrock, built from scratch in PHP, C and C++
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [Ahwxorg/LibreY](https://github.com/Ahwxorg/LibreY) - Framework and JS free privacy respecting meta search engine
 - [hnhx/librex](https://github.com/hnhx/librex) - Framework and javascript free privacy respecting meta search engine
 - [userjack6880/Open-DMARC-Analyzer](https://github.com/userjack6880/Open-DMARC-Analyzer) - Open DMARC Analyzer is an Open Source DMARC Report Analyzer to be used with DMARC reports that have been parsed by John Levine's rrdmarc script or techsneeze's dmarcts-report-parser.
@@ -1723,7 +1724,7 @@
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel observability in your terminal. Built with Rust and Ratatui.
 - [ryanccn/moldau](https://github.com/ryanccn/moldau) - Modern version manager for JavaScript package managers
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [GunduLabs/gaze](https://github.com/GunduLabs/gaze) - Facial authentication for Linux
 - [Swarsel/pedantix](https://github.com/Swarsel/pedantix) - The pedantic nix formatter
 - [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
@@ -1928,6 +1929,7 @@
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
 - [lissy93/AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
@@ -2433,7 +2435,6 @@
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive, configurable, opinionated tooling. 🎁
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [nicorac/bcr-gui](https://github.com/nicorac/bcr-gui) - BCR-GUI is a companion app for the great BCR (Basic Call Recorder) Android application and other supported ROMs with embedded call recorders.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
@@ -2509,7 +2510,6 @@
 - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) - LinguaCafe is a self-hosted software that helps language learners read foreign languages.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [adamsol/GitQuill](https://github.com/adamsol/GitQuill) - Cross-platform GUI for Git. Built with Monaco Editor and Electron.
-- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
