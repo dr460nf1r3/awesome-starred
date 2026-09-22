@@ -723,7 +723,7 @@
 - [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
-- [jest-community/awesome-jest](https://github.com/jest-community/awesome-jest) - 🕶Awesome Jest packages and resources
+- [jest-community/awesome-jest](https://github.com/jest-community/awesome-jest) - 🕶 Awesome Jest packages and resources
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
@@ -776,7 +776,7 @@
 - [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
-- [jest-community/awesome-jest](https://github.com/jest-community/awesome-jest) - 🕶Awesome Jest packages and resources
+- [jest-community/awesome-jest](https://github.com/jest-community/awesome-jest) - 🕶 Awesome Jest packages and resources
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
@@ -2548,7 +2548,7 @@
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [jest-community/awesome-jest](https://github.com/jest-community/awesome-jest) - 🕶Awesome Jest packages and resources
+- [jest-community/awesome-jest](https://github.com/jest-community/awesome-jest) - 🕶 Awesome Jest packages and resources
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -3674,7 +3674,6 @@
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [dfrankland/envoluntary](https://github.com/dfrankland/envoluntary) - Automatic Nix development environments for your shell.
-- [daskladas/nixmate](https://github.com/daskladas/nixmate) - All your NixOS tools in one TUI — generations, rebuilds, services, errors, and more.
 - [thilobillerbeck/podlet2nix](https://github.com/thilobillerbeck/podlet2nix) - A CLI utility that translates podlet output to qudlet-nix options
 - [Dauliac/nix-oci](https://github.com/Dauliac/nix-oci) - Flake-parts module to manage OCI repositories
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
@@ -3683,7 +3682,7 @@
 - [DavidBrightSparc/Tenets-of-IT](https://github.com/DavidBrightSparc/Tenets-of-IT) - The Tenets of IT: an accumulation of IT advice, wisdom, and humour.
 - [11happy/cpx](https://github.com/11happy/cpx) - cp reimagined
 - [masoncl/review-prompts](https://github.com/masoncl/review-prompts) - AI review prompts
-- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
 - [BeardedTek/notesnook-docker](https://github.com/BeardedTek/notesnook-docker) - Full Docker stack for Notesnook sync server and web app
 - [axel358/smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
@@ -4122,7 +4121,7 @@
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [matrix-org/sliding-sync](https://github.com/matrix-org/sliding-sync) - Proxy implementation of MSC3575's sync protocol.
 - [snowfallorg/snowflakeos-iso](https://github.com/snowfallorg/snowflakeos-iso) - 
-- [garuda-linux/garuda-nix-subsystem](https://github.com/garuda-linux/garuda-nix-subsystem) - Garuda Nix Subsystem - a flake enabling dual-boot, same-partition Garuda/NixOS installations ❄️🦅 (mirrored from GitLab)
+- [garuda-linux/garuda-nix-subsystem](https://github.com/garuda-linux/garuda-nix-subsystem) - Garuda Nix - a flake enabling dual-boot, same-partition Garuda/NixOS installations, as well as a ready-made ISO installer for NixOS ❄️🦅 (mirrored from GitLab)
 - [RockyC36/StickerPack](https://github.com/RockyC36/StickerPack) - Linux distro and desktop stickers created in Inkscape
 - [boehs/Lightly](https://github.com/boehs/Lightly) - A modern style for qt applications.
 - [Fmstrat/lpp](https://github.com/Fmstrat/lpp) - Lemmy Post Purger (LPP)
