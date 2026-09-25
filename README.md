@@ -223,7 +223,6 @@
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [SteamClientHomebrew/Millennium](https://github.com/SteamClientHomebrew/Millennium) - An open-source framework for Steam Client themes and plugins
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [gileli121/GlassCode](https://github.com/gileli121/GlassCode) - This plugin allows you to make JetBrains IDEs to be fully transparent while keeping the code sharp and bright.
 - [FreesmTeam/FreesmLauncher](https://github.com/FreesmTeam/FreesmLauncher) - A Prism Launcher fork aimed to provide a free way to play Minecraft
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
@@ -386,7 +385,7 @@
 - [vedfi/mondroid](https://github.com/vedfi/mondroid) - Mongodb Client w/ Flutter
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [mgvora/gitplus_for_gitlab](https://github.com/mgvora/gitplus_for_gitlab) - Git+ is your ultimate GitLab mobile app that lets you interact with your projects like as if you were using desktop.
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
+- [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS, Android & iOS.
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
 - [Merrit/nyrna](https://github.com/Merrit/nyrna) - Suspend games and applications.
@@ -602,7 +601,7 @@
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [mudler/luet](https://github.com/mudler/luet) - :package: :whale: 0-dependency Container-based Package Manager using SAT solver and QLearning
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -1465,6 +1464,7 @@
 - [Mic92/nix-hyperfine](https://github.com/Mic92/nix-hyperfine) - A command-line tool that uses hyperfine to benchmark Nix derivation builds and evaluations.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [m-ahmed-elbeskeri/Starguard](https://github.com/m-ahmed-elbeskeri/Starguard) - CLI that detects fake-star campaigns, dependency hijacks, licence red-flags and other signs of repository risk. Inspired by the “4.5 million fake stars” study, StarGuard helps CTOs, security teams and
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator) - A script that helps generate a rich GitHub Contribution Graph for your account 🤖
 - [redthing1/mimchine](https://github.com/redthing1/mimchine) - integrated mini-linux in podman. inspired by distrobox.
@@ -1777,7 +1777,7 @@
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [dsplce-co/supabase-plus](https://github.com/dsplce-co/supabase-plus) - An extra set of tools for managing Supabase projects going beyond the possibilities of regular Supabase CLI
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
-- [samestep/npc](https://github.com/samestep/npc) - Nixpkgs channel history CLI
+- [samestep/npc](https://github.com/samestep/npc) - Nixpkgs channel history CLI.
 - [mitsuhiko/self-replace](https://github.com/mitsuhiko/self-replace) - Utility library that helps to implement processes that replace themselves
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [mollyim/mollysocket](https://github.com/mollyim/mollysocket) - MollySocket allows getting Signal notifications via UnifiedPush.
