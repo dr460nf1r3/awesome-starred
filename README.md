@@ -207,6 +207,7 @@
 
 ## C++ 
 
+- [DevL0rd/Konveyor](https://github.com/DevL0rd/Konveyor) - Scrolling column tiling for KDE Plasma
 - [AlkaidLab/foundation-sunshine](https://github.com/AlkaidLab/foundation-sunshine) - Sunshine fork: an enhanced sunshine, a self-hosted game streaming host for Moonlight with HDR10/HDR Vivid, virtual displays, advanced audio, optimized encoders, and a modern control panel.
 - [Virtastic/openmw-web](https://github.com/Virtastic/openmw-web) - Play Morrowind in your browser — the OpenMW engine compiled to WebAssembly, now with multiplayer and a cloud locker for your own game data.
 - [ruizhi-lab/latte-dock-ng](https://github.com/ruizhi-lab/latte-dock-ng) - Latte Dock NG is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets. It animates its contents using a parabolic zoom effect and stays
@@ -1620,6 +1621,7 @@
 - [tthn0/Spotify-Readme](https://github.com/tthn0/Spotify-Readme) - A dynamic, customizable, and real-time Spotify now-playing widget that seamlessly integrates with your website or GitHub markdown files!
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
+- [chriswoope/resign-android-image](https://github.com/chriswoope/resign-android-image) - Resign Android OS (esp. GrapheneOS) images with your signing keys and add ADB root and other modifications
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [techouse/mysql-to-sqlite3](https://github.com/techouse/mysql-to-sqlite3) - Transfer data from MySQL to SQLite
@@ -2123,7 +2125,6 @@
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [Neo23x0/auditd](https://github.com/Neo23x0/auditd) - Best Practice Auditd Configuration
 - [RaptaG/CAAIS](https://github.com/RaptaG/CAAIS) - A bash script to install and/or remove Chaotic-AUR.
-- [chriswoope/resign-android-image](https://github.com/chriswoope/resign-android-image) - Resign Android OS (esp. GrapheneOS) images with your signing keys and add ADB root and other modifications
 - [FerryAr/lhroot](https://github.com/FerryAr/lhroot) - Linux Chroot Installer & Bootscript Magisk Module.
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [mrbaseman/parse_yaml](https://github.com/mrbaseman/parse_yaml) - a simple yaml parser implemented in bash
@@ -2266,7 +2267,7 @@
 - [Akronae/nestjs-openapi-validation](https://github.com/Akronae/nestjs-openapi-validation) - ✅ Validate NestJS DTOs with Zod using TypeScript/OpenAPI spec.
 - [runk/mmdb-lib](https://github.com/runk/mmdb-lib) - Maxmind database (MMDB) library
 - [signalityjs/signality](https://github.com/signalityjs/signality) - Reactive utilities for Angular
-- [grinev/opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot) - OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. Scheduled tasks support.
+- [grinev/opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot) - OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. OpenCode V2 support.
 - [domternal/domternal](https://github.com/domternal/domternal) - Modern, extensible rich text editor toolkit built on ProseMirror. Classic and Notion-style editors out of the box. Or go headless and assemble from 65+ tree-shakeable extensions. First-class wrappers 
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
 - [ybouane/liquidglass](https://github.com/ybouane/liquidglass) - A liquid glass effect library for the web. Apply realistic glass refraction, blur, chromatic aberration, and lighting effects to any HTML element using WebGL shaders.
