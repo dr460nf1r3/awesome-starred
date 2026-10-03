@@ -3760,7 +3760,7 @@
 - [cachix/cloud.devenv.sh](https://github.com/cachix/cloud.devenv.sh) - What if GitHub Actions were local-first and built using Nix?
 - [11notes/docker-kms](https://github.com/11notes/docker-kms) - Activate any version of Windows and Office, forever
 - [eriksjolund/podman-caddy-socket-activation](https://github.com/eriksjolund/podman-caddy-socket-activation) - Demo of how to run socket-activated caddy with Podman. Source IP address is preserved.
-- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - Open-source State-of-the-art TTS model which runs on a CPU 😻
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [plabayo/tokio-graceful](https://github.com/plabayo/tokio-graceful) - Graceful shutdown util for Rust projects using the Tokio Async runtime.
 - [ranfdev/DistroShelf](https://github.com/ranfdev/DistroShelf) - gtk4 client for https://distrobox.it
