@@ -1264,6 +1264,7 @@
 
 ## cpp 
 
+- [stdware/qwindowkit](https://github.com/stdware/qwindowkit) - Cross-platform frameless window framework for Qt. Support Windows, macOS, Linux.
 - [Virtastic/openmw-web](https://github.com/Virtastic/openmw-web) - Play Morrowind in your browser — the OpenMW engine compiled to WebAssembly, now with multiplayer and a cloud locker for your own game data.
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
@@ -1576,7 +1577,7 @@
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [reteps/dockerfmt](https://github.com/reteps/dockerfmt) - Dockerfile formatter. a modern dockfmt.
-- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [duaraghav8/dockershrink](https://github.com/duaraghav8/dockershrink) - AI Assistant that reduces the size of your application's Docker Image
@@ -2014,6 +2015,7 @@
 
 ## go 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
 - [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Keyboard-first Telegram client for the terminal, written in Go
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
@@ -2686,6 +2688,7 @@
 
 ## kotlin 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
 - [revenge-mod/revenge-manager](https://github.com/revenge-mod/revenge-manager) - 🤖 Application to use Revenge on Android
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
@@ -3036,6 +3039,7 @@
 
 ## mac 
 
+- [stdware/qwindowkit](https://github.com/stdware/qwindowkit) - Cross-platform frameless window framework for Qt. Support Windows, macOS, Linux.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [charlie0129/batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks.
@@ -3044,7 +3048,7 @@
 - [rohanrhu/MacsyZones](https://github.com/rohanrhu/MacsyZones) - Make your workflow more efficient with MacsyZones. Organize your windows with ease. https://macsyzones.com
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
-- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [bongochong/CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) - Ad-blocking hosts files, IP block lists, PAC filters, ABP / uBO / ADG subscriptions, and a whole lot more. All merged from multiple reputable sources, combined with my own research. Also, script-based
@@ -3111,7 +3115,7 @@
 - [hraban/mac-app-util](https://github.com/hraban/mac-app-util) - Fix .app programs installed by Nix on Mac
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [ryan4yin/nix-darwin-kickstarter](https://github.com/ryan4yin/nix-darwin-kickstarter) - macOS as Code! A beginner-friendly nix-darwin + home-manager + flakes startup configuration. 一份易于理解的 nix-darwin 初始配置模板，专为新手制作.
-- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
@@ -3332,6 +3336,7 @@
 
 ## mysql 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [stackrender/stackrender](https://github.com/stackrender/stackrender) - StackRender is the next-gen database schema design and generation tool.
 - [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Docker Volume
 - [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server
@@ -3642,7 +3647,7 @@
 - [FlyGoat/RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Adjust power management settings for Ryzen APUs
 - [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains) - Daily updated repository for https://github.com/disposable/disposable
 - [orium/cargo-rdme](https://github.com/orium/cargo-rdme) - Cargo command to create the README.md from your crate's documentation
-- [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups!
+- [BraveOPotato/NoSignups](https://github.com/BraveOPotato/NoSignups) - A list of tools that are open-source, in-browser, and require no-signups!
 - [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
 - [rustaccato/road-to-being-master-rustacean](https://github.com/rustaccato/road-to-being-master-rustacean) - 
 - [oferchen/rsync](https://github.com/oferchen/rsync) - Classic rsync re-implementation in pure Rust
@@ -3717,7 +3722,7 @@
 - [11happy/cpx](https://github.com/11happy/cpx) - cp reimagined
 - [masoncl/review-prompts](https://github.com/masoncl/review-prompts) - AI review prompts
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - [Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 100x faster Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 100x* faster Homebrew alternative
 - [BeardedTek/notesnook-docker](https://github.com/BeardedTek/notesnook-docker) - Full Docker stack for Notesnook sync server and web app
 - [axel358/smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
 - [JetBrains/typescript-go](https://github.com/JetBrains/typescript-go) - Unofficial fork maintained by JetBrains.
@@ -4576,6 +4581,7 @@
 
 ## postgresql 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [stackrender/stackrender](https://github.com/stackrender/stackrender) - StackRender is the next-gen database schema design and generation tool.
 - [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Docker Volume
 - [boringcollege/postgres-by-example](https://github.com/boringcollege/postgres-by-example) - Yet another postgresql book!
@@ -4748,6 +4754,7 @@
 
 ## python 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
@@ -4860,6 +4867,7 @@
 
 ## qt 
 
+- [stdware/qwindowkit](https://github.com/stdware/qwindowkit) - Cross-platform frameless window framework for Qt. Support Windows, macOS, Linux.
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
@@ -5427,6 +5435,7 @@
 
 ## sql 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [stackrender/stackrender](https://github.com/stackrender/stackrender) - StackRender is the next-gen database schema design and generation tool.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -5449,6 +5458,7 @@
 
 ## sqlite 
 
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [stackrender/stackrender](https://github.com/stackrender/stackrender) - StackRender is the next-gen database schema design and generation tool.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -6011,6 +6021,7 @@
 
 ## windows 
 
+- [stdware/qwindowkit](https://github.com/stdware/qwindowkit) - Cross-platform frameless window framework for Qt. Support Windows, macOS, Linux.
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
