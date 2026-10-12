@@ -1096,7 +1096,6 @@
 - [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
 - [oddlama/nix-fingerprint](https://github.com/oddlama/nix-fingerprint) - Fingerprints the underlying system by only using primitives available in pure evaluation mode
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
-- [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.
 - [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [jeff-hykin/better-nix-syntax](https://github.com/jeff-hykin/better-nix-syntax) - 💾 📦✅ Better syntax highlighting for nix in VS Code
@@ -1460,6 +1459,7 @@
 - [EbbLabs/python-tidal](https://github.com/EbbLabs/python-tidal) - Python API for TIDAL music streaming service
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - Open-source State-of-the-art TTS model which runs on a CPU 😻
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
+- [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [oils-for-unix/oils](https://github.com/oils-for-unix/oils) - Oils is our upgrade path from bash to a better language and runtime.  It's also for Python and JavaScript users who avoid shell!
 - [brent-lidstone/cloctui](https://github.com/brent-lidstone/cloctui) - A TUI interface for CLOC (Count Lines of Code)
@@ -1772,7 +1772,7 @@
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [11happy/cpx](https://github.com/11happy/cpx) - cp reimagined
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 6.6x faster Homebrew client
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 5x faster Homebrew client
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
 - [synacktiv/shh](https://github.com/synacktiv/shh) - Systemd Hardening Helper - Mirror of https://github.com/desbma/shh
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed.
@@ -1780,7 +1780,7 @@
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [Vaishnav-Sabari-Girish/nibble](https://github.com/Vaishnav-Sabari-Girish/nibble) - A tool for glamorous shell scripts. Quick, inline TUI components built with Ratatui—no full-screen takeover, just small bites of interaction.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
-- [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
+- [GrimmTheShrimp/run0-sudo-shim](https://github.com/GrimmTheShrimp/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [dsplce-co/supabase-plus](https://github.com/dsplce-co/supabase-plus) - An extra set of tools for managing Supabase projects going beyond the possibilities of regular Supabase CLI
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
@@ -1852,7 +1852,7 @@
 - [topiary/topiary](https://github.com/topiary/topiary) - 
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
-- [LordGrimmauld/nix-check-deps](https://github.com/LordGrimmauld/nix-check-deps) - scan nix packages for unused buildInputs
+- [GrimmTheShrimp/nix-check-deps](https://github.com/GrimmTheShrimp/nix-check-deps) - scan nix packages for unused buildInputs
 - [nik-rev/countryfetch](https://github.com/nik-rev/countryfetch) - A Command-line tool similar to Neofetch for obtaining information about your country
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [chase/awrit](https://github.com/chase/awrit) - A full graphical web browser for Kitty terminal with mouse and keyboard support
