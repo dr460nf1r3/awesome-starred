@@ -1728,6 +1728,7 @@
 
 ## Rust 
 
+- [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [qt/qtbridge-rust](https://github.com/qt/qtbridge-rust) - Qt Bridge for Rust. Qt Bridges enables developers to provide application logic written in a foreign language to Qt Quick applications by offering a simple API that follows the target language’s style 
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel observability in your terminal. Built with Rust and Ratatui.
