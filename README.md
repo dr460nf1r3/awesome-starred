@@ -136,7 +136,7 @@
 - [wlrfx/swayfx](https://github.com/wlrfx/swayfx) - SwayFX: Sway, but with eye candy!
 - [jagt/clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 - [landley/toybox](https://github.com/landley/toybox) - toybox
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [meta/zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
 - [phadej/git-badc0de](https://github.com/phadej/git-badc0de) - Make git commits with pretty hashes
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [mdbtools/mdbtools](https://github.com/mdbtools/mdbtools) - MDB Tools - Read Access databases on *nix
@@ -234,7 +234,7 @@
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy aims for sensible, balanced and intuitive defaults for the KDE Plasma desktop; yet also offers highly customizable theming.
-- [ASDAlexander77/TypeScriptCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) - TypeScript Compiler (by LLVM)
+- [ASDAlexander77/TypeScriptCompiler](https://github.com/ASDAlexander77/TypeScriptCompiler) - A native ahead-of-time (AOT) and JIT compiler for TypeScript, built on LLVM/MLIR. It compiles .ts files directly to native executables, WebAssembly, or runs them on the fly via a built-in JIT — no Nod
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [SneWs/tail-tray](https://github.com/SneWs/tail-tray) - Tailscale tray menu and UI for the KDE Plasma Desktop
@@ -444,7 +444,7 @@
 - [edouard-claude/snip](https://github.com/edouard-claude/snip) - CLI proxy that reduces LLM token usage by 60-90%. Declarative YAML filters for Claude Code, Cursor, Copilot, Gemini. rtk alternative in Go.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline suggestions for zsh
-- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Keyboard-first Telegram client for the terminal, written in Go
+- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI and a CLI, written in Go
 - [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal Nix Deployment Orchestrator - inspect, bootstrap, build, transfer, secrets, activate, rollback
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
@@ -695,6 +695,7 @@
 - [temporaryna/NagramXTurbo](https://github.com/temporaryna/NagramXTurbo) - Nagram X Turbo — a fork of the Nagram X Telegram client for Android with bug fixes and UX tweaks. Separate app, installs alongside Nagram X.
 - [chunky-dev/chunky](https://github.com/chunky-dev/chunky) - A path tracer to create realistic images of your Minecraft worlds.
 - [cygnusx-1-org/continuum](https://github.com/cygnusx-1-org/continuum) - A Reddit client for Android
+- [wchill/patcheddit](https://github.com/wchill/patcheddit) - Morphe patches for reddit apps
 - [ReVanced/GmsCore](https://github.com/ReVanced/GmsCore) - Free implementation of Play Services
 - [risin42/NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
 - [MorpheApp/MicroG-RE](https://github.com/MorpheApp/MicroG-RE) - GmsCore fork for Morphe patched apps
@@ -795,7 +796,7 @@
 - [Nelwhix/go-npm](https://github.com/Nelwhix/go-npm) - Distribute and install Go binaries via NPM
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [rehypejs/rehype-minify](https://github.com/rehypejs/rehype-minify) - plugins to minify HTML
-- [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) - Mechvibes
+- [hainguyents13/mechvibes-electron](https://github.com/hainguyents13/mechvibes-electron) - Mechvibes Legacy: the original Electron version, no longer maintained. The official Mechvibes app is now at hainguyents13/mechvibes.
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [Schneegans/Desktop-Cube](https://github.com/Schneegans/Desktop-Cube) - 🧊 Indulge in nostalgia with useless 3D effects.
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
@@ -932,7 +933,6 @@
 ## Kotlin 
 
 - [SchildiChat/schildichat-android-next](https://github.com/SchildiChat/schildichat-android-next) - Matrix client / Element X fork
-- [wchill/patcheddit](https://github.com/wchill/patcheddit) - Morphe patches for reddit apps
 - [WitherredAway/NotificationMirror](https://github.com/WitherredAway/NotificationMirror) - Fully customizable lightweight WearOS app  for mirroring app notifications from phone to watch with replying and buttons.
 - [1shin-7/YaFeed](https://github.com/1shin-7/YaFeed) - Yet Another Feeder for WearOS devices.
 - [MorpheApp/morphe-manager](https://github.com/MorpheApp/morphe-manager) - Morphe app patcher for Android
@@ -1500,6 +1500,7 @@
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [Foldex/AdwSteamGtk](https://github.com/Foldex/AdwSteamGtk) - A simple Gtk wrapper for Adwaita-for-Steam
 - [termux/proot-distro](https://github.com/termux/proot-distro) - A utility for managing proot containers.
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a Python library for generating fake but realistic data in multiple languages and locales.
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
@@ -1530,6 +1531,7 @@
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [IdreesInc/Miracode](https://github.com/IdreesInc/Miracode) - A sharp, readable, vector-y version of Monocraft, the programming font based on Minecraft
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
+- [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (automatically updated)
 - [maxmind/GeoIP2-python](https://github.com/maxmind/GeoIP2-python) - Python code for GeoIP2 webservice client and database reader
 - [gwen001/favicon-hashtrick](https://github.com/gwen001/favicon-hashtrick) - Python script implementing the favicon hash trick to find subdomains.
 - [gwen001/related-domains](https://github.com/gwen001/related-domains) - Find related domains of a given domain.
@@ -1630,7 +1632,7 @@
 - [mozilla/policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
 - [chriswoope/resign-android-image](https://github.com/chriswoope/resign-android-image) - Resign Android OS (esp. GrapheneOS) images with your signing keys and add ADB root and other modifications
-- [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
+- [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 60 Methods
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [techouse/mysql-to-sqlite3](https://github.com/techouse/mysql-to-sqlite3) - Transfer data from MySQL to SQLite
 - [FrostyX/tracer](https://github.com/FrostyX/tracer) - Tracer finds outdated running applications in your system
@@ -1688,6 +1690,7 @@
 
 ## QML 
 
+- [NextKde/NextKde](https://github.com/NextKde/NextKde) - NextKde (KOS Desktop Shell) is a modern desktop shell project.It replaces or enhances parts of Plasma's native interface, providing an integrated user interface that combines a top panel, application 
 - [ladybug-me/caelestia-kde](https://github.com/ladybug-me/caelestia-kde) - Caelestia ported to KDE Plasma 6
 - [vickoc911/org.vicko.wavetask](https://github.com/vickoc911/org.vicko.wavetask) - Task Manager App bar displaying only icons with zoom like OSX
 - [DenysMb/Kontainer](https://github.com/DenysMb/Kontainer) - A Kirigami Distrobox GUI
@@ -1730,6 +1733,7 @@
 
 ## Rust 
 
+- [LinkSy-mg/linksy-desktop](https://github.com/LinkSy-mg/linksy-desktop) - 
 - [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc
 - [dr460nf1r3/drakeflake](https://github.com/dr460nf1r3/drakeflake) - Drakeflake: NixOS, tamed ❄️
 - [colinhacks/reylo](https://github.com/colinhacks/reylo) - Import .sql files into TypeScript with full type inference and zero codegen.
@@ -1968,7 +1972,6 @@
 - [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine:  Create a searchable library from your personal documents, interests, and more!
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 7 million installs.
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-- [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [Vonr/parui](https://github.com/Vonr/parui) - Simple TUI frontend for paru or yay.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
@@ -2072,7 +2075,6 @@
 - [schnatterer/rooted-graphene](https://github.com/schnatterer/rooted-graphene) - GrapheneOS rooted and served via its own OTA server on GitHub pages
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [JonasAlfredsson/docker-nginx-certbot](https://github.com/JonasAlfredsson/docker-nginx-certbot) - Automatically create and renew website certificates for free using the Let's Encrypt certificate authority.
-- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 - [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) - HyDE, your Development Environment 🖥️💻
 - [sequoia-pgp/fast-forward](https://github.com/sequoia-pgp/fast-forward) - Fast forward pull requests.
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
@@ -2099,7 +2101,6 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [chaotic-cx/chaotic-repository-template](https://github.com/chaotic-cx/chaotic-repository-template) - Template for a chaotic-manager compatible automatically managed repository 🧰
 - [chaotic-aur/pkgbuilds](https://github.com/chaotic-aur/pkgbuilds) - Chaotic-AUR 4.0 package lists 🗒
-- [X4BNet/lists_vpn](https://github.com/X4BNet/lists_vpn) - Lists of VPN providers (automatically updated)
 - [firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script
 - [chaotic-cx/nyx-slurm-singularity](https://github.com/chaotic-cx/nyx-slurm-singularity) - Builds Chaotic-Nyx in Slurm+Singularity
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
@@ -2269,7 +2270,6 @@
 - [mkccl/prime-ng-theme-fe](https://github.com/mkccl/prime-ng-theme-fe) - Theme Designer for PrimeNG
 - [openng-org/optimus-ui](https://github.com/openng-org/optimus-ui) - 80+ accessible, customizable Angular components under the MIT license. A community-maintained continuation of PrimeNG v21, built to stay open.
 - [colincode0/earth-view](https://github.com/colincode0/earth-view) - Interactive 3D satellite imagery explorer pulling NASA GIBS and Copernicus Sentinel data onto a Three.js globe, with regional zoom, time lapses, and OpenAI/Anthropic view analysis
-- [ObjectAscended/brave-origin-unlocker](https://github.com/ObjectAscended/brave-origin-unlocker) - Unlock premium features in Brave Origin for Windows & MacOS. This Deno-based script bypasses purchase validation by safely updating local state configurations.
 - [Portabase/portabase](https://github.com/Portabase/portabase) - Portabase - Database backup & restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis, Files and Docker Volume
 - [BraveOPotato/NoSignups](https://github.com/BraveOPotato/NoSignups) - A list of tools that are open-source, in-browser, and require no-signups!
 - [lullabyX/sone](https://github.com/lullabyX/sone) - Native TIDAL desktop client for Linux. Modern UI, custom themes, and bit-perfect lossless audio up to 24-bit/192kHz via exclusive ALSA.
@@ -2297,7 +2297,6 @@
 - [avifenesh/glide-mq](https://github.com/avifenesh/glide-mq) - High-performance message queue for Node.js — Valkey/Redis Streams with Rust-native NAPI bindings
 - [liangk/empirical-study](https://github.com/liangk/empirical-study) - This project provides empirical validation of Code Evolution Lab's automated N+1 Query detection and solution generation system.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -2384,7 +2383,7 @@
 - [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Open Source LLM Gateway 🦚
 - [garuda-linux/toolbox](https://github.com/garuda-linux/toolbox) - One-stop solution for managing Garuda Linux systems.
 - [crabnebula-dev/devtools](https://github.com/crabnebula-dev/devtools) - Inspect and Debug your Tauri applications in style 💃
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - ⚡ Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration. Self-host it or use Kaneo Cloud.
 - [agmmnn/tauri-controls](https://github.com/agmmnn/tauri-controls) - 🚥 Native-looking window controls for Tauri 2. React, Solid, Vue, Svelte+Tailwind.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [eemeli/yaml](https://github.com/eemeli/yaml) - YAML parser and serialiser for JavaScript
@@ -2429,7 +2428,7 @@
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [spacebarchat/server](https://github.com/spacebarchat/server) - Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 - [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller, a major upgrade to lodash.
 - [postalsys/imapflow](https://github.com/postalsys/imapflow) - IMAP Client library for EmailEngine Email API (https://emailengine.app)
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -2485,6 +2484,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [pieroproietti/penguins-eggs-legacy](https://github.com/pieroproietti/penguins-eggs-legacy) - A professional and universal remastering tool for all major distributions
+- [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best client for all of your cloud storage
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -2557,6 +2557,7 @@
 ## Zig 
 
 - [Seafoam-Labs/Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
 - [pkmn/engine](https://github.com/pkmn/engine) - A minimal, complete, Pokémon battle simulation engine optimized for performance
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
