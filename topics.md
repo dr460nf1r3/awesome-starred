@@ -385,7 +385,7 @@
 ## ai-agent 
 
 - [grinev/opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot) - OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. OpenCode V2 support.
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
 - [duaraghav8/dockershrink](https://github.com/duaraghav8/dockershrink) - AI Assistant that reduces the size of your application's Docker Image
 
 ## ai-agents 
@@ -393,7 +393,7 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [crbnos/carbon](https://github.com/crbnos/carbon) - Open-source manufacturing ERP, MES and QMS. Quoting, MRP, inventory, shop floor, quality and lot/serial traceability on one Postgres schema, with a REST API and MCP server. Self-host or use Carbon Clo
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -991,7 +991,7 @@
 
 ## chatbot 
 
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
@@ -1083,6 +1083,7 @@
 
 ## cli 
 
+- [redis-pane/redis-pane](https://github.com/redis-pane/redis-pane) - A terminal UI for the Redis® database and Valkey: browse a keyspace, watch keys update live, and edit safely, over SSH too.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [edouard-claude/snip](https://github.com/edouard-claude/snip) - CLI proxy that reduces LLM token usage by 60-90%. Declarative YAML filters for Claude Code, Cursor, Copilot, Gemini. rtk alternative in Go.
 - [ryanccn/moldau](https://github.com/ryanccn/moldau) - Modern version manager for JavaScript package managers
@@ -1324,7 +1325,7 @@
 
 ## csharp 
 
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
 - [agracio/edge-js](https://github.com/agracio/edge-js) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -1766,7 +1767,7 @@
 ## elixir 
 
 - [thatsme/tomato](https://github.com/thatsme/tomato) - Hierarchical DAG engine for composable NixOS configuration management — visual graph editor, OODN variables, template library, SSH deploy with nixos-rebuild
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL
 - [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 
@@ -2110,7 +2111,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own.
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [control-theory/gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
@@ -2544,7 +2545,7 @@
 ## java 
 
 - [chunky-dev/chunky](https://github.com/chunky-dev/chunky) - A path tracer to create realistic images of your Minecraft worlds.
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [devoxx/DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin) - DevoxxGenie is an agentic plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Jan and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code. Latest ver
 - [arsLan4k1390/Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - 
@@ -2842,6 +2843,7 @@
 
 - [ladybug-me/caelestia-kde](https://github.com/ladybug-me/caelestia-kde) - Caelestia ported to KDE Plasma 6
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+- [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel observability in your terminal. Built with Rust and Ratatui.
 - [ShoeBoom/tailboot](https://github.com/ShoeBoom/tailboot) - A bootable that connects to your tailnet
 - [leogx9r/ryzen_smu](https://github.com/leogx9r/ryzen_smu) - A Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors. Read only mirror of https://gitlab.com/leogx9r/ryzen_smu
 - [GunduLabs/gaze](https://github.com/GunduLabs/gaze) - Facial authentication for Linux
@@ -3250,7 +3252,7 @@
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [skyhook-io/radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and clus
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) - MCP-NixOS - Model Context Protocol Server for NixOS resources
@@ -3450,7 +3452,7 @@
 
 ## node 
 
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
 - [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master Node.js. V8, libuv, event loop, buffers, streams, async internals, performance, security, deployment, and production architecture.
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -3656,6 +3658,7 @@
 
 ## others 
 
+- [rylos/rbw](https://github.com/rylos/rbw) - Unofficial Bitwarden CLI — enhanced fork: full editing, folders, trash, attachments, persistent login
 - [LinkSy-mg/linksy-desktop](https://github.com/LinkSy-mg/linksy-desktop) - 
 - [dr460nf1r3/drakeflake](https://github.com/dr460nf1r3/drakeflake) - Drakeflake: NixOS, tamed ❄️
 - [colinhacks/reylo](https://github.com/colinhacks/reylo) - Import .sql files into TypeScript with full type inference and zero codegen.
@@ -3663,7 +3666,6 @@
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [qt/qtbridge-rust](https://github.com/qt/qtbridge-rust) - Qt Bridge for Rust. Qt Bridges enables developers to provide application logic written in a foreign language to Qt Quick applications by offering a simple API that follows the target language’s style 
 - [DevL0rd/Konveyor](https://github.com/DevL0rd/Konveyor) - Scrolling column tiling for KDE Plasma
-- [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel observability in your terminal. Built with Rust and Ratatui.
 - [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers) - Programs to keep Docker login credentials safe by storing in platform keystores
 - [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
 - [johnsoncodehk/typescript-native-bridge](https://github.com/johnsoncodehk/typescript-native-bridge) - A typescript-shaped drop-in backed by typescript-go (tsgo) over an in-process cgo NAPI/FFI bridge — no IPC.
@@ -4590,7 +4592,7 @@
 
 ## php 
 
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [nextcloud/mail](https://github.com/nextcloud/mail) - 💌 Mail app for Nextcloud
@@ -4788,9 +4790,9 @@
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
 - [thiagoaramizo/redis-bullmq-explorer](https://github.com/thiagoaramizo/redis-bullmq-explorer) - Desktop GUI application to explore BullMQ queues stored in Redis.
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL
 - [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 - [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell
@@ -4915,7 +4917,7 @@
 
 ## rag 
 
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
@@ -5048,7 +5050,7 @@
 
 ## ruby 
 
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
 - [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer) - CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
@@ -5059,9 +5061,11 @@
 
 ## rust 
 
+- [redis-pane/redis-pane](https://github.com/redis-pane/redis-pane) - A terminal UI for the Redis® database and Valkey: browse a keyspace, watch keys update live, and edit safely, over SSH too.
 - [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc
 - [unnamed-systems/nix-secrets](https://github.com/unnamed-systems/nix-secrets) - A postmodern secrets manager for NixOS [maintainer=@BANanaD3V,@yunfachi]
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+- [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel observability in your terminal. Built with Rust and Ratatui.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 265 rules across 26 categories that AI coding agents can use to write   idiomatic, fast, and safe Rust.
 - [Dylanmurzello/zed-android-port](https://github.com/Dylanmurzello/zed-android-port) - Native Android port of the Zed code editor,  gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes.
@@ -5081,7 +5085,7 @@
 - [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
@@ -5342,7 +5346,7 @@
 - [domternal/domternal](https://github.com/domternal/domternal) - Modern, extensible rich text editor toolkit built on ProseMirror. Classic and Notion-style editors out of the box. Or go headless and assemble from 65+ tree-shakeable extensions. First-class wrappers 
 - [yoinkify/yoink](https://github.com/yoinkify/yoink) - paste a spotify or apple music link. get the file.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
@@ -5638,6 +5642,7 @@
 
 ## terminal 
 
+- [redis-pane/redis-pane](https://github.com/redis-pane/redis-pane) - A terminal UI for the Redis® database and Valkey: browse a keyspace, watch keys update live, and edit safely, over SSH too.
 - [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI and a CLI, written in Go
 - [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
@@ -5741,6 +5746,8 @@
 
 ## tui 
 
+- [redis-pane/redis-pane](https://github.com/redis-pane/redis-pane) - A terminal UI for the Redis® database and Valkey: browse a keyspace, watch keys update live, and edit safely, over SSH too.
+- [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel observability in your terminal. Built with Rust and Ratatui.
 - [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI and a CLI, written in Go
 - [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal Nix Deployment Orchestrator - inspect, bootstrap, build, transfer, secrets, activate, rollback
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
