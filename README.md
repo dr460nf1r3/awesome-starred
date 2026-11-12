@@ -111,6 +111,7 @@
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - moved to https://git.chefkiss.dev/AppleHax/Inferno
 - [alexjp/env-dedup](https://github.com/alexjp/env-dedup) - Deduplicate the environment variables values
 - [Zelda64Recomp/Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [moretension/duti](https://github.com/moretension/duti) - A command-line tool to select default applications for document types and URL schemes on Mac OS X
 - [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
@@ -406,7 +407,7 @@
 - [gutmensch/docker-dmarc-report](https://github.com/gutmensch/docker-dmarc-report) - 
 - [jonp92/Milliner_Docker](https://github.com/jonp92/Milliner_Docker) - a Dockerized version of Milliner, itself a lightweight Headscale management web-UI.
 - [cmwedding-it/onlyoffice-licensed](https://github.com/cmwedding-it/onlyoffice-licensed) - Onlyoffice with license patch and mobile editing restored
-- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support
+- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image with PureDB, MySQL, PostgreSQL and LDAP authentication support
 - [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) - 
 - [anonaddy/docker](https://github.com/anonaddy/docker) - AnonAddy Docker image
 - [virusz4274/chaotic-aur-mirrorhosting](https://github.com/virusz4274/chaotic-aur-mirrorhosting) - host your own chaotic-aur mirror without port forwarding using cloudflared tunnel.
@@ -785,7 +786,7 @@
 - [bevacqua/fuzzysearch](https://github.com/bevacqua/fuzzysearch) - :crystal_ball: Tiny and blazing-fast fuzzy search in JavaScript
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [observ33r/object-equals](https://github.com/observ33r/object-equals) - A fast, flexible and robust utility for deep equality comparison with type-specific logic and engine-aware design.
-- [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
+- [tiagozip/cap](https://github.com/tiagozip/cap) - The open-source, privacy-friendly CAPTCHA you host yourself. Bots and AI agents out, people in.
 - [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 - [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison) - An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
 - [Nelwhix/go-npm](https://github.com/Nelwhix/go-npm) - Distribute and install Go binaries via NPM
@@ -1470,7 +1471,6 @@
 - [Mic92/nix-hyperfine](https://github.com/Mic92/nix-hyperfine) - A command-line tool that uses hyperfine to benchmark Nix derivation builds and evaluations.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [m-ahmed-elbeskeri/Starguard](https://github.com/m-ahmed-elbeskeri/Starguard) - CLI that detects fake-star campaigns, dependency hijacks, licence red-flags and other signs of repository risk. Inspired by the “4.5 million fake stars” study, StarGuard helps CTOs, security teams and
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [Shpota/github-activity-generator](https://github.com/Shpota/github-activity-generator) - A script that helps generate a rich GitHub Contribution Graph for your account 🤖
 - [redthing1/mimchine](https://github.com/redthing1/mimchine) - integrated mini-linux in podman. inspired by distrobox.
@@ -1484,7 +1484,7 @@
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 - [mr-fatalyst/fastopenapi](https://github.com/mr-fatalyst/fastopenapi) - FastOpenAPI is a library for generating and integrating OpenAPI schemas using Pydantic v2 and various frameworks (AioHttp, Django, Falcon, Flask, Quart, Sanic, Starlette, Tornado).
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
+- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client - TUI, CLI and an agent skill
 - [LaunchPlatform/nix-playground](https://github.com/LaunchPlatform/nix-playground) - Command line tools for patching nixpkgs package source code easily
 - [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.
 - [nginxinc/crossplane](https://github.com/nginxinc/crossplane) - Quick and reliable way to convert NGINX configurations into JSON and back.
@@ -2463,7 +2463,7 @@
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
-- [nicorac/bcr-gui](https://github.com/nicorac/bcr-gui) - BCR-GUI is a companion app for the great BCR (Basic Call Recorder) Android application and other supported ROMs with embedded call recorders.
+- [nicorac/bcr-gui](https://github.com/nicorac/bcr-gui) - BCR-GUI is a companion app for call recorder apps like the great BCR (Basic Call Recorder) and many others.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [rohitdhas/shittier](https://github.com/rohitdhas/shittier) - Shittier is an unconventional code formatting tool
 - [cloudflare/pp-browser-extension](https://github.com/cloudflare/pp-browser-extension) - Client for Privacy Pass protocol providing unlinkable cryptographic tokens
