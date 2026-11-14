@@ -156,6 +156,7 @@
 - [js](#js)
 - [json](#json)
 - [kali-linux](#kali-linux)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -302,6 +303,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [windows-11](#windows-11)
@@ -419,6 +421,7 @@
 
 ## android 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [temporaryna/NagramXTurbo](https://github.com/temporaryna/NagramXTurbo) - Nagram X Turbo — a fork of the Nagram X Telegram client for Android with bug fixes and UX tweaks. Separate app, installs alongside Nagram X.
 - [Dylanmurzello/zed-android-port](https://github.com/Dylanmurzello/zed-android-port) - Native Android port of the Zed code editor,  gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes.
@@ -589,7 +592,7 @@
 - [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 - [sameerasw/predictive-back-animations-apps](https://github.com/sameerasw/predictive-back-animations-apps) - A list of apps that implemented the Android's "Predictive back animations" e̶x̶p̶e̶r̶i̶m̶e̶n̶t̶a̶l̶ feature.
 - [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 300k times
-- [nicorac/bcr-gui](https://github.com/nicorac/bcr-gui) - BCR-GUI is a companion app for the great BCR (Basic Call Recorder) Android application and other supported ROMs with embedded call recorders.
+- [nicorac/bcr-gui](https://github.com/nicorac/bcr-gui) - BCR-GUI is a companion app for call recorder apps like the great BCR (Basic Call Recorder) and many others.
 - [Futsch1/medTimer](https://github.com/Futsch1/medTimer) - MedTimer Android app
 - [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
 - [MateriiApps/Gloom](https://github.com/MateriiApps/Gloom) - GitHub reimagined with Material You
@@ -637,7 +640,7 @@
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
-- [nicorac/bcr-gui](https://github.com/nicorac/bcr-gui) - BCR-GUI is a companion app for the great BCR (Basic Call Recorder) Android application and other supported ROMs with embedded call recorders.
+- [nicorac/bcr-gui](https://github.com/nicorac/bcr-gui) - BCR-GUI is a companion app for call recorder apps like the great BCR (Basic Call Recorder) and many others.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
@@ -1119,7 +1122,7 @@
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
 - [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline suggestions for zsh
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI and a CLI, written in Go
+- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI, background daemon and a CLI, written in Go
 - [matthart1983/netwatch](https://github.com/matthart1983/netwatch) - Network diagnostics in your terminal. Inspect traffic, connections and network behaviour. Built with Rust.
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
@@ -1296,7 +1299,7 @@
 
 ## config 
 
-- [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - config files..
+- [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - config files for my life...
 - [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
 - [JFryy/qq](https://github.com/JFryy/qq) - jq, but with many interoperable configuration format transcodings and interactive querying.
@@ -1366,6 +1369,7 @@
 
 ## css 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [webtui/webtui](https://github.com/webtui/webtui) - Modular CSS Library that brings the beauty of Terminal UIs to the browser
@@ -1583,6 +1587,7 @@
 
 ## distributed-systems 
 
+- [oferchen/rsync](https://github.com/oferchen/rsync) - Classic rsync re-implementation in pure Rust
 - [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master Node.js. V8, libuv, event loop, buffers, streams, async internals, performance, security, deployment, and production architecture.
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -1674,7 +1679,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [bokysan/docker-postfix](https://github.com/bokysan/docker-postfix) - Multi architecture simple SMTP server (postfix null relay) host for your Docker and Kubernetes containers. Based on Debian/Ubuntu/Alpine.
-- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image based on Alpine Linux with MySQL, PostgreSQL and LDAP support
+- [crazy-max/docker-pure-ftpd](https://github.com/crazy-max/docker-pure-ftpd) - Pure-FTPd Docker image with PureDB, MySQL, PostgreSQL and LDAP authentication support
 - [capnspacehook/whalewall](https://github.com/capnspacehook/whalewall) - Automate management of firewall rules for Docker containers
 - [hintjen/selfhosted-gateway](https://github.com/hintjen/selfhosted-gateway) - Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -1726,10 +1731,10 @@
 
 ## dotfiles 
 
-- [ladybug-me/caelestia-kde](https://github.com/ladybug-me/caelestia-kde) - Caelestia ported to KDE Plasma 6
+- [caelestia-kde/caelestia](https://github.com/caelestia-kde/caelestia) - Caelestia ported to KDE Plasma 6
 - [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
 - [Misterio77/Foundry](https://github.com/Misterio77/Foundry) - Personal monorepo. NixOS+home-manager configs, website, and other projects.
-- [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - config files..
+- [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - config files for my life...
 - [henrysipp/omarchy-nix](https://github.com/henrysipp/omarchy-nix) - An opinionated NixOS config based on DHH's Omarchy
 - [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles) - Multi platform and desktop environment dotfiles for developers.
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
@@ -1772,6 +1777,7 @@
 ## dsh-plugin 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 
 ## electron 
 
@@ -2065,7 +2071,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -2082,7 +2088,7 @@
 
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline suggestions for zsh
-- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI and a CLI, written in Go
+- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI, background daemon and a CLI, written in Go
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
 - [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
@@ -2139,7 +2145,7 @@
 
 - [arhuman/ansible-static-lint](https://github.com/arhuman/ansible-static-lint) - Static Ansible linting in Go: the 38 ansible-lint rules decidable from YAML alone, byte-for-byte pep8 output, no Ansible runtime.
 - [edouard-claude/snip](https://github.com/edouard-claude/snip) - CLI proxy that reduces LLM token usage by 60-90%. Declarative YAML filters for Claude Code, Cursor, Copilot, Gemini. rtk alternative in Go.
-- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI and a CLI, written in Go
+- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI, background daemon and a CLI, written in Go
 - [eznix86/docker-registry-ui](https://github.com/eznix86/docker-registry-ui) - Yet another docker registry UI
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
@@ -2231,6 +2237,7 @@
 
 ## gui 
 
+- [zortax/zgui](https://github.com/zortax/zgui) - reactive, retained rust ui framework
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [thiagoaramizo/redis-bullmq-explorer](https://github.com/thiagoaramizo/redis-bullmq-explorer) - Desktop GUI application to explore BullMQ queues stored in Redis.
@@ -2241,7 +2248,7 @@
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [adamsol/GitQuill](https://github.com/adamsol/GitQuill) - Cross-platform GUI for Git. Built with Monaco Editor and Electron.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
-- [nicorac/bcr-gui](https://github.com/nicorac/bcr-gui) - BCR-GUI is a companion app for the great BCR (Basic Call Recorder) Android application and other supported ROMs with embedded call recorders.
+- [nicorac/bcr-gui](https://github.com/nicorac/bcr-gui) - BCR-GUI is a companion app for call recorder apps like the great BCR (Basic Call Recorder) and many others.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library.
 - [beeware/toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
@@ -2489,6 +2496,7 @@
 
 ## html 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [rehypejs/rehype-minify](https://github.com/rehypejs/rehype-minify) - plugins to minify HTML
 - [linthtml/linthtml](https://github.com/linthtml/linthtml) - The html5 linter and validator.
@@ -2549,6 +2557,7 @@
 
 ## ios 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - moved to https://git.chefkiss.dev/AppleHax/Inferno
@@ -2622,7 +2631,6 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [open-xml-templating/docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx, pptx, and xlsx from templates (Word, Powerpoint and Excel documents), from Node.js or the browser. Demo: https://www.docxtemplater.com/demo. #docx #office #generator #templating #report
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master Node.js. V8, libuv, event loop, buffers, streams, async internals, performance, security, deployment, and production architecture.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -2631,7 +2639,7 @@
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [artem-mangilev/ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular 16+
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
-- [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
+- [tiagozip/cap](https://github.com/tiagozip/cap) - The open-source, privacy-friendly CAPTCHA you host yourself. Bots and AI agents out, people in.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
@@ -2750,6 +2758,12 @@
 
 - [FerryAr/lhroot](https://github.com/FerryAr/lhroot) - Linux Chroot Installer & Bootscript Magisk Module.
 - [mikeroyal/Open-Source-Security-Guide](https://github.com/mikeroyal/Open-Source-Security-Guide) - Open Source Security Guide. Learn all about Security Standards (FIPS, CIS, FedRAMP, FISMA, etc.), Frameworks, Threat Models, Encryption, and Benchmarks.
+
+## knowledge-graph 
+
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
+- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
 ## kotlin 
 
@@ -2879,14 +2893,14 @@
 ## linux 
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [ladybug-me/caelestia-kde](https://github.com/ladybug-me/caelestia-kde) - Caelestia ported to KDE Plasma 6
+- [caelestia-kde/caelestia](https://github.com/caelestia-kde/caelestia) - Caelestia ported to KDE Plasma 6
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel diagnostics in your terminal. Investigate scheduling, memory pressure and block I/O. Built with Rust.
 - [ShoeBoom/tailboot](https://github.com/ShoeBoom/tailboot) - A bootable that connects to your tailnet
 - [leogx9r/ryzen_smu](https://github.com/leogx9r/ryzen_smu) - A Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors. Read only mirror of https://gitlab.com/leogx9r/ryzen_smu
 - [GunduLabs/gaze](https://github.com/GunduLabs/gaze) - Facial authentication for Linux
 - [lullabyX/sone](https://github.com/lullabyX/sone) - Native TIDAL desktop client for Linux. Modern UI, custom themes, and bit-perfect lossless audio up to 24-bit/192kHz via exclusive ALSA.
-- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI and a CLI, written in Go
+- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI, background daemon and a CLI, written in Go
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer a
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
@@ -2943,7 +2957,7 @@
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
-- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
+- [nix-community/nix-mineral](https://github.com/nix-community/nix-mineral) - Conveniently and reasonably harden NixOS. [maintainer=@cynicsketch]
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
@@ -3109,7 +3123,6 @@
 ## mac 
 
 - [stdware/qwindowkit](https://github.com/stdware/qwindowkit) - Cross-platform frameless window framework for Qt. Support Windows, macOS, Linux.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [charlie0129/batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
@@ -3140,7 +3153,7 @@
 - [NextKde/NextKde](https://github.com/NextKde/NextKde) - NextKde (KOS Desktop Shell) is a modern desktop shell project.It replaces or enhances parts of Plasma's native interface, providing an integrated user interface that combines a top panel, application 
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
-- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI and a CLI, written in Go
+- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI, background daemon and a CLI, written in Go
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
@@ -3580,7 +3593,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
 ## numpy 
 
@@ -3639,6 +3652,7 @@
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best application for all of your cloud storage
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [Cisco-Talos/clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
@@ -3742,7 +3756,6 @@
 - [BraveOPotato/NoSignups](https://github.com/BraveOPotato/NoSignups) - A list of tools that are open-source, in-browser, and require no-signups!
 - [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
 - [rustaccato/road-to-being-master-rustacean](https://github.com/rustaccato/road-to-being-master-rustacean) - 
-- [oferchen/rsync](https://github.com/oferchen/rsync) - Classic rsync re-implementation in pure Rust
 - [Gabriella439/override-utils](https://github.com/Gabriella439/override-utils) - Ergonomic interface for overriding Nixpkgs
 - [SchildiChat/schildichat-android-next](https://github.com/SchildiChat/schildichat-android-next) - Matrix client / Element X fork
 - [cygnusx-1-org/continuum](https://github.com/cygnusx-1-org/continuum) - A Reddit client for Android
@@ -4720,7 +4733,7 @@
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [privau/searxng](https://github.com/privau/searxng) - Builds a custom SearXNG image, a privacy-respecting metasearch engine.
 - [iAnonymous3000/awesome-grapheneos-guide](https://github.com/iAnonymous3000/awesome-grapheneos-guide) - A comprehensive, step-by-step guide to help new users navigate the privacy-focused, security-hardened mobile OS based on Android. Learn how to purchase a device, install and configure GrapheneOS, and 
-- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
+- [nix-community/nix-mineral](https://github.com/nix-community/nix-mineral) - Conveniently and reasonably harden NixOS. [maintainer=@cynicsketch]
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [zhanghai/Untracker](https://github.com/zhanghai/Untracker) - App to help you remove tracking information before sharing links
@@ -4927,6 +4940,7 @@
 
 ## python3 
 
+- [withcoresystem/v-EMU](https://github.com/withcoresystem/v-EMU) - Type-1 performance meets Type-2 experience. A modern Linux Desktop Hypervisor (QEMU/KVM) built on lab-first principles — bringing visual click-ops elegance to a powerful CLI core.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [ishad0w/amvm](https://github.com/ishad0w/amvm) - Ansible with Mitogen Version Manager
 - [EbodShojaei/bake](https://github.com/EbodShojaei/bake) - mbake is a Makefile formatter and linter. It only took 50 years!
@@ -4989,6 +5003,7 @@
 
 ## react 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [stackrender/stackrender](https://github.com/stackrender/stackrender) - StackRender is the next-gen database schema design and generation tool.
 - [domternal/domternal](https://github.com/domternal/domternal) - Modern, extensible rich text editor toolkit built on ProseMirror. Classic and Notion-style editors out of the box. Or go headless and assemble from 65+ tree-shakeable extensions. First-class wrappers 
@@ -5109,8 +5124,10 @@
 
 ## rust 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
+- [zortax/zgui](https://github.com/zortax/zgui) - reactive, retained rust ui framework
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
+- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust
 - [redis-pane/redis-pane](https://github.com/redis-pane/redis-pane) - A terminal UI for the Redis® database and Valkey: browse a keyspace, watch keys update live, and edit safely, over SSH too.
 - [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc
 - [unnamed-systems/nix-secrets](https://github.com/unnamed-systems/nix-secrets) - A postmodern secrets manager for NixOS [maintainer=@BANanaD3V,@yunfachi]
@@ -5121,6 +5138,7 @@
 - [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 265 rules across 26 categories that AI coding agents can use to write   idiomatic, fast, and safe Rust.
 - [Dylanmurzello/zed-android-port](https://github.com/Dylanmurzello/zed-android-port) - Native Android port of the Zed code editor,  gpui rendering through Vulkan, integrated Termux for LSPs and tooling, remote SSH support. Runs as an APK on tablets and Android desktop modes.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [oferchen/rsync](https://github.com/oferchen/rsync) - Classic rsync re-implementation in pure Rust
 - [lullabyX/sone](https://github.com/lullabyX/sone) - Native TIDAL desktop client for Linux. Modern UI, custom themes, and bit-perfect lossless audio up to 24-bit/192kHz via exclusive ALSA.
 - [matthart1983/netwatch](https://github.com/matthart1983/netwatch) - Network diagnostics in your terminal. Inspect traffic, connections and network behaviour. Built with Rust.
 - [mewz-project/wasker](https://github.com/mewz-project/wasker) - WebAssembly AoT compiler for your favorite Operating System
@@ -5155,7 +5173,7 @@
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [ratatui/ratzilla](https://github.com/ratatui/ratzilla) - Build terminal-themed web applications with Rust and WebAssembly. Powered by Ratatui.
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
-- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Detect secrets + live validation. Map blast radius. Revoke fast. Use the CLI or embed in Rust and Python.
+- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Detect secrets. Validate them live. Map blast radius. Revoke fast. Run the CLI or embed in Rust, Python, or Node.js.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [anistark/feluda](https://github.com/anistark/feluda) - Detect license usage restrictions in your project!
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
@@ -5282,7 +5300,7 @@
 - [leonlatsch/Photok](https://github.com/leonlatsch/Photok) - Private photo vault for Android
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [ishtms/nodebook](https://github.com/ishtms/nodebook) - Learn and Master Node.js. V8, libuv, event loop, buffers, streams, async internals, performance, security, deployment, and production architecture.
-- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Detect secrets + live validation. Map blast radius. Revoke fast. Use the CLI or embed in Rust and Python.
+- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Detect secrets. Validate them live. Map blast radius. Revoke fast. Run the CLI or embed in Rust, Python, or Node.js.
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
 - [wolfSSL/wolfssl-nginx](https://github.com/wolfSSL/wolfssl-nginx) - Adds wolfSSL support to Nginx.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
@@ -5293,7 +5311,7 @@
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [adgaultier/tamanoir](https://github.com/adgaultier/tamanoir) - An eBPF🐝 Keylogger with C2-based RCE payload delivery
-- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
+- [nix-community/nix-mineral](https://github.com/nix-community/nix-mineral) - Conveniently and reasonably harden NixOS. [maintainer=@cynicsketch]
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
@@ -5361,7 +5379,7 @@
 
 - [unnamed-systems/nix-secrets](https://github.com/unnamed-systems/nix-secrets) - A postmodern secrets manager for NixOS [maintainer=@BANanaD3V,@yunfachi]
 - [helixmap/sigwood](https://github.com/helixmap/sigwood) - Local-first threat hunting for the logs you already have: Zeek, Pi-hole, syslog or the systemd journal, CloudTrail. Every run names the technique behind each detector. No agent, no daemon, no black bo
-- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Detect secrets + live validation. Map blast radius. Revoke fast. Use the CLI or embed in Rust and Python.
+- [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - Detect secrets. Validate them live. Map blast radius. Revoke fast. Run the CLI or embed in Rust, Python, or Node.js.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -5607,7 +5625,6 @@
 
 ## swift 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [socktainer/socktainer](https://github.com/socktainer/socktainer) - Docker-compatible REST API on top of Apple container
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
@@ -5623,7 +5640,6 @@
 
 ## swiftui 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
@@ -5662,9 +5678,9 @@
 
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [temporaryna/NagramXTurbo](https://github.com/temporaryna/NagramXTurbo) - Nagram X Turbo — a fork of the Nagram X Telegram client for Android with bug fixes and UX tweaks. Separate app, installs alongside Nagram X.
-- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI and a CLI, written in Go
+- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI, background daemon and a CLI, written in Go
 - [grinev/opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot) - OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. OpenCode V2 support.
-- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
+- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client - TUI, CLI and an agent skill
 - [arsLan4k1390/Cherrygram](https://github.com/arsLan4k1390/Cherrygram) - 
 - [Nekogram/Nekogram](https://github.com/Nekogram/Nekogram) - Open-source third-party Telegram client with not many but useful modifications.
 - [gohj99/Telewatch](https://github.com/gohj99/Telewatch) - ‎Telegram for Android watch & wearos
@@ -5698,7 +5714,7 @@
 
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
 - [redis-pane/redis-pane](https://github.com/redis-pane/redis-pane) - A terminal UI for the Redis® database and Valkey: browse a keyspace, watch keys update live, and edit safely, over SSH too.
-- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI and a CLI, written in Go
+- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI, background daemon and a CLI, written in Go
 - [matthart1983/netwatch](https://github.com/matthart1983/netwatch) - Network diagnostics in your terminal. Inspect traffic, connections and network behaviour. Built with Rust.
 - [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
@@ -5715,7 +5731,7 @@
 - [junkdog/beamterm](https://github.com/junkdog/beamterm) - A sub-millisecond terminal text rendering system for WebGL2 and OpenGL 3.3
 - [webtui/webtui](https://github.com/webtui/webtui) - Modular CSS Library that brings the beauty of Terminal UIs to the browser
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
+- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client - TUI, CLI and an agent skill
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal.
@@ -5805,7 +5821,7 @@
 
 - [redis-pane/redis-pane](https://github.com/redis-pane/redis-pane) - A terminal UI for the Redis® database and Valkey: browse a keyspace, watch keys update live, and edit safely, over SSH too.
 - [matthart1983/kernwatch](https://github.com/matthart1983/kernwatch) - Linux kernel diagnostics in your terminal. Investigate scheduling, memory pressure and block I/O. Built with Rust.
-- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI and a CLI, written in Go
+- [sorokin-vladimir/tele](https://github.com/sorokin-vladimir/tele) - Telegram client for the terminal: a keyboard-first TUI, background daemon and a CLI, written in Go
 - [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal Nix Deployment Orchestrator - inspect, bootstrap, build, transfer, secrets, activate, rollback
 - [matthart1983/netwatch](https://github.com/matthart1983/netwatch) - Network diagnostics in your terminal. Inspect traffic, connections and network behaviour. Built with Rust.
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
@@ -5831,7 +5847,7 @@
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [drewzemke/tongo](https://github.com/drewzemke/tongo) - A TUI for MongoDB.
-- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
+- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client - TUI, CLI and an agent skill
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
@@ -5884,6 +5900,7 @@
 - [samchon/nestia](https://github.com/samchon/nestia) - NestJS Helper + AI Chatbot Development
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [typestack/class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
 - [brocoders/nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate) - NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -5964,6 +5981,8 @@
 
 ## ui 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
+- [zortax/zgui](https://github.com/zortax/zgui) - reactive, retained rust ui framework
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [veegres/ivory](https://github.com/veegres/ivory) - Ivory is home for your database clusters — deploy, watch and fix them from one place, be it your browser, your phone or your AI agent. Open source, self-hosted, one Docker container and nothing to ins
 - [TailAdmin/free-angular-tailwind-dashboard](https://github.com/TailAdmin/free-angular-tailwind-dashboard) - Free, open-source admin dashboard template crafted with Angular and Tailwind CSS. Includes essential UI components, elements, and pre-built pages to create a sleek, modern admin panel and dashboard wi
@@ -6094,6 +6113,7 @@
 
 ## web 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [asciimoo/hister](https://github.com/asciimoo/hister) - Your own search engine
 - [emirce/bullstudio](https://github.com/emirce/bullstudio) - 🐂 Modern dashboard for Bull and BullMQ. Built for developers.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -6142,6 +6162,13 @@
 - [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser
+
+## whatsapp 
+
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
+- [ElDavoo/wa-crypt-tools](https://github.com/ElDavoo/wa-crypt-tools) - Manage WhatsApp .crypt12, .crypt14 and .crypt15 files.
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+- [adeekshith/watomatic](https://github.com/adeekshith/watomatic) - Auto reply app to enable auto reply for messengers like WhatsApp and Facebook Messenger
 
 ## whatsapp-bot 
 
