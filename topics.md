@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
@@ -333,6 +334,12 @@
 - [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 265 rules across 26 categories that AI coding agents can use to write   idiomatic, fast, and safe Rust.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+
+## agentic-ai 
+
+- [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 ## agents 
 
@@ -1133,7 +1140,7 @@
 - [dsalaza4/cilens](https://github.com/dsalaza4/cilens) - GitHub Actions and GitLab CI analytics CLI
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
+- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and a kill switch.
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -1281,7 +1288,7 @@
 
 ## compiler 
 
-- [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc
+- [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc. Backed by Y Combinator (F26).
 - [mewz-project/wasker](https://github.com/mewz-project/wasker) - WebAssembly AoT compiler for your favorite Operating System
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
@@ -1502,7 +1509,7 @@
 
 ## developer-tools 
 
-- [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc
+- [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc. Backed by Y Combinator (F26).
 - [edouard-claude/snip](https://github.com/edouard-claude/snip) - CLI proxy that reduces LLM token usage by 60-90%. Declarative YAML filters for Claude Code, Cursor, Copilot, Gemini. rtk alternative in Go.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [Giammarco-Ferranti/deja](https://github.com/Giammarco-Ferranti/deja) - Predictive inline suggestions for zsh
@@ -2909,7 +2916,7 @@
 - [Prayag2/konsave](https://github.com/Prayag2/konsave) - A command line program written in Python to let you backup your dotfiles and switch to other ones in an instant. Works out-of-the box on KDE Plasma!
 - [xarbit/plasma6-applet-appgrid](https://github.com/xarbit/plasma6-applet-appgrid) - AppGrid for Plasma is a modern alternative to Kickoff and Kicker. A grid launcher for KDE Plasma 6 — unified search, KRunner integration, animations.
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
-- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
+- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and a kill switch.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
@@ -3158,7 +3165,7 @@
 - [J-x-Z/cocoa-way](https://github.com/J-x-Z/cocoa-way) - Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
 - [lucid-fabrics/osx-proxmox-next](https://github.com/lucid-fabrics/osx-proxmox-next) - One-command macOS VM on Proxmox 9: TUI wizard, auto-download, AMD + Intel, Sonoma/Sequoia/Tahoe
-- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
+- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and a kill switch.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
@@ -3732,7 +3739,7 @@
 - [rylos/rbw](https://github.com/rylos/rbw) - Unofficial Bitwarden CLI — enhanced fork: full editing, folders, trash, attachments, persistent login
 - [LinkSy-mg/linksy-desktop](https://github.com/LinkSy-mg/linksy-desktop) - 
 - [dr460nf1r3/drakeflake](https://github.com/dr460nf1r3/drakeflake) - Drakeflake: NixOS, tamed ❄️
-- [colinhacks/reylo](https://github.com/colinhacks/reylo) - Import .sql files into TypeScript with full type inference and zero codegen.
+- [reylosql/reylo](https://github.com/reylosql/reylo) - Import .sql files into TypeScript with full type inference and zero codegen.
 - [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you'd run from a volcano! 🌋
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [qt/qtbridge-rust](https://github.com/qt/qtbridge-rust) - Qt Bridge for Rust. Qt Bridges enables developers to provide application logic written in a foreign language to Qt Quick applications by offering a simple API that follows the target language’s style 
@@ -5131,7 +5138,7 @@
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [storytold/pdfcraft](https://github.com/storytold/pdfcraft) - PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust
 - [redis-pane/redis-pane](https://github.com/redis-pane/redis-pane) - A terminal UI for the Redis® database and Valkey: browse a keyspace, watch keys update live, and edit safely, over SSH too.
-- [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc
+- [indexable-inc/blaze](https://github.com/indexable-inc/blaze) - Incremental rust builds up to 92x faster than cargo/rustc. Backed by Y Combinator (F26).
 - [unnamed-systems/nix-secrets](https://github.com/unnamed-systems/nix-secrets) - A postmodern secrets manager for NixOS [maintainer=@BANanaD3V,@yunfachi]
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
@@ -5154,7 +5161,7 @@
 - [dsalaza4/cilens](https://github.com/dsalaza4/cilens) - GitHub Actions and GitLab CI analytics CLI
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is an Agent OS focused on privacy, security and extensibility
-- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
+- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and a kill switch.
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.
@@ -5720,7 +5727,7 @@
 - [matthart1983/netwatch](https://github.com/matthart1983/netwatch) - Network diagnostics in your terminal. Inspect traffic, connections and network behaviour. Built with Rust.
 - [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
-- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
+- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and a kill switch.
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
@@ -5829,7 +5836,7 @@
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again!
 - [SayYoungMan/tfui](https://github.com/SayYoungMan/tfui) - Interactive TUI for performing Terraform workflows
 - [brevity1swos/rgx](https://github.com/brevity1swos/rgx) - regex101 for the terminal — real-time matching, 3 engines, capture groups, replace mode, syntax highlighting, plain-English explanations, undo/redo, mouse support. Written in Rust.
-- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
+- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and a kill switch.
 - [jordond/jolt](https://github.com/jordond/jolt) - ⚡️A terminal-based battery and energy monitor for macOS and Linux.
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
@@ -6055,7 +6062,7 @@
 ## vpn 
 
 - [mullvad/gotatun](https://github.com/mullvad/gotatun) - Userspace WireGuard® Implementation in Rust
-- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
+- [Harry-kp/vortix](https://github.com/Harry-kp/vortix) - VPN terminal UI (TUI) for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and a kill switch.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [SneWs/tail-tray](https://github.com/SneWs/tail-tray) - Tailscale tray menu and UI for the KDE Plasma Desktop
 - [conblem/tailvnc](https://github.com/conblem/tailvnc) - VNC Client in the browser based on tailscale tsconnect
